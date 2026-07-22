@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:11:56.173934+00:00",
+  "generated_at": "2026-07-22T19:18:36.846046+00:00",
   "set": {
     "title": "The Boys",
     "code": "TBY",
@@ -27,7 +27,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/001.png"
+      "artwork_path": "cards/001.webp"
     },
     {
       "collector_number": 2,
@@ -46,7 +46,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/002.png"
+      "artwork_path": "cards/002.webp"
     },
     {
       "collector_number": 3,
@@ -65,7 +65,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/003.png"
+      "artwork_path": "cards/003.webp"
     },
     {
       "collector_number": 4,
@@ -84,7 +84,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/004.png"
+      "artwork_path": "cards/004.webp"
     },
     {
       "collector_number": 5,
@@ -103,7 +103,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/005.png"
+      "artwork_path": "cards/005.webp"
     },
     {
       "collector_number": 6,
@@ -122,7 +122,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/006.png"
+      "artwork_path": "cards/006.webp"
     },
     {
       "collector_number": 7,
@@ -141,7 +141,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/007.png"
+      "artwork_path": "cards/007.webp"
     },
     {
       "collector_number": 8,
@@ -160,7 +160,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/008.png"
+      "artwork_path": "cards/008.webp"
     },
     {
       "collector_number": 9,
@@ -179,7 +179,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/009.png"
+      "artwork_path": "cards/009.webp"
     },
     {
       "collector_number": 10,
@@ -198,7 +198,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/010.png"
+      "artwork_path": "cards/010.webp"
     },
     {
       "collector_number": 11,
@@ -217,7 +217,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/011.png"
+      "artwork_path": "cards/011.webp"
     },
     {
       "collector_number": 12,
@@ -236,7 +236,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/012.png"
+      "artwork_path": "cards/012.webp"
     },
     {
       "collector_number": 13,
@@ -255,7 +255,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/013.png"
+      "artwork_path": "cards/013.webp"
     },
     {
       "collector_number": 14,
@@ -274,7 +274,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/014.png"
+      "artwork_path": "cards/014.webp"
     },
     {
       "collector_number": 15,
@@ -293,7 +293,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/015.png"
+      "artwork_path": "cards/015.webp"
     },
     {
       "collector_number": 16,
@@ -312,7 +312,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/016.png"
+      "artwork_path": "cards/016.webp"
     },
     {
       "collector_number": 17,
@@ -331,7 +331,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/017.png"
+      "artwork_path": "cards/017.webp"
     },
     {
       "collector_number": 18,
@@ -350,7 +350,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/018.png"
+      "artwork_path": "cards/018.webp"
     },
     {
       "collector_number": 19,
@@ -369,7 +369,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/019.png"
+      "artwork_path": "cards/019.webp"
     },
     {
       "collector_number": 20,
@@ -388,7 +388,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/020.png"
+      "artwork_path": "cards/020.webp"
     },
     {
       "collector_number": 21,
@@ -407,7 +407,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/021.png"
+      "artwork_path": "cards/021.webp"
     },
     {
       "collector_number": 22,
@@ -426,7 +426,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/022.png"
+      "artwork_path": "cards/022.webp"
     },
     {
       "collector_number": 23,
@@ -445,7 +445,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/023.png"
+      "artwork_path": "cards/023.webp"
     },
     {
       "collector_number": 24,
@@ -464,7 +464,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/024.png"
+      "artwork_path": "cards/024.webp"
     },
     {
       "collector_number": 25,
@@ -483,7 +483,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/025.png"
+      "artwork_path": "cards/025.webp"
     },
     {
       "collector_number": 26,
@@ -502,7 +502,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/026.png"
+      "artwork_path": "cards/026.webp"
     },
     {
       "collector_number": 27,
@@ -521,7 +521,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/027.png"
+      "artwork_path": "cards/027.webp"
     },
     {
       "collector_number": 28,
@@ -540,7 +540,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/028.png"
+      "artwork_path": "cards/028.webp"
     },
     {
       "collector_number": 29,
@@ -559,7 +559,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/029.png"
+      "artwork_path": "cards/029.webp"
     },
     {
       "collector_number": 30,
@@ -578,7 +578,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/030.png"
+      "artwork_path": "cards/030.webp"
     },
     {
       "collector_number": 31,
@@ -597,7 +597,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/031.png"
+      "artwork_path": "cards/031.webp"
     },
     {
       "collector_number": 32,
@@ -616,7 +616,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/032.png"
+      "artwork_path": "cards/032.webp"
     },
     {
       "collector_number": 33,
@@ -635,7 +635,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/033.png"
+      "artwork_path": "cards/033.webp"
     },
     {
       "collector_number": 34,
@@ -654,7 +654,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/034.png"
+      "artwork_path": "cards/034.webp"
     },
     {
       "collector_number": 35,
@@ -673,7 +673,7 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/035.png"
+      "artwork_path": "cards/035.webp"
     },
     {
       "collector_number": 36,
@@ -692,7 +692,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/036.png"
+      "artwork_path": "cards/036.webp"
     },
     {
       "collector_number": 37,
@@ -711,7 +711,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/037.png"
+      "artwork_path": "cards/037.webp"
     },
     {
       "collector_number": 38,
@@ -730,7 +730,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/038.png"
+      "artwork_path": "cards/038.webp"
     },
     {
       "collector_number": 39,
@@ -749,7 +749,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/039.png"
+      "artwork_path": "cards/039.webp"
     },
     {
       "collector_number": 40,
@@ -768,7 +768,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/040.png"
+      "artwork_path": "cards/040.webp"
     },
     {
       "collector_number": 41,
@@ -787,7 +787,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/041.png"
+      "artwork_path": "cards/041.webp"
     },
     {
       "collector_number": 42,
@@ -806,7 +806,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/042.png"
+      "artwork_path": "cards/042.webp"
     },
     {
       "collector_number": 43,
@@ -825,7 +825,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/043.png"
+      "artwork_path": "cards/043.webp"
     },
     {
       "collector_number": 44,
@@ -844,7 +844,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/044.png"
+      "artwork_path": "cards/044.webp"
     },
     {
       "collector_number": 45,
@@ -863,7 +863,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/045.png"
+      "artwork_path": "cards/045.webp"
     },
     {
       "collector_number": 46,
@@ -882,7 +882,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/046.png"
+      "artwork_path": "cards/046.webp"
     },
     {
       "collector_number": 47,
@@ -901,7 +901,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/047.png"
+      "artwork_path": "cards/047.webp"
     },
     {
       "collector_number": 48,
@@ -920,7 +920,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/048.png"
+      "artwork_path": "cards/048.webp"
     },
     {
       "collector_number": 49,
@@ -939,7 +939,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/049.png"
+      "artwork_path": "cards/049.webp"
     },
     {
       "collector_number": 50,
@@ -958,7 +958,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/050.png"
+      "artwork_path": "cards/050.webp"
     },
     {
       "collector_number": 51,
@@ -977,7 +977,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/051.png"
+      "artwork_path": "cards/051.webp"
     },
     {
       "collector_number": 52,
@@ -996,7 +996,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/052.png"
+      "artwork_path": "cards/052.webp"
     },
     {
       "collector_number": 53,
@@ -1015,7 +1015,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/053.png"
+      "artwork_path": "cards/053.webp"
     },
     {
       "collector_number": 54,
@@ -1034,7 +1034,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/054.png"
+      "artwork_path": "cards/054.webp"
     },
     {
       "collector_number": 55,
@@ -1053,7 +1053,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/055.png"
+      "artwork_path": "cards/055.webp"
     },
     {
       "collector_number": 56,
@@ -1072,7 +1072,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/056.png"
+      "artwork_path": "cards/056.webp"
     },
     {
       "collector_number": 57,
@@ -1091,7 +1091,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/057.png"
+      "artwork_path": "cards/057.webp"
     },
     {
       "collector_number": 58,
@@ -1110,7 +1110,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/058.png"
+      "artwork_path": "cards/058.webp"
     },
     {
       "collector_number": 59,
@@ -1129,7 +1129,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/059.png"
+      "artwork_path": "cards/059.webp"
     },
     {
       "collector_number": 60,
@@ -1148,7 +1148,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/060.png"
+      "artwork_path": "cards/060.webp"
     },
     {
       "collector_number": 61,
@@ -1167,7 +1167,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/061.png"
+      "artwork_path": "cards/061.webp"
     },
     {
       "collector_number": 62,
@@ -1186,7 +1186,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/062.png"
+      "artwork_path": "cards/062.webp"
     },
     {
       "collector_number": 63,
@@ -1205,7 +1205,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/063.png"
+      "artwork_path": "cards/063.webp"
     },
     {
       "collector_number": 64,
@@ -1224,7 +1224,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/064.png"
+      "artwork_path": "cards/064.webp"
     },
     {
       "collector_number": 65,
@@ -1243,7 +1243,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/065.png"
+      "artwork_path": "cards/065.webp"
     },
     {
       "collector_number": 66,
@@ -1262,7 +1262,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/066.png"
+      "artwork_path": "cards/066.webp"
     },
     {
       "collector_number": 67,
@@ -1281,7 +1281,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/067.png"
+      "artwork_path": "cards/067.webp"
     },
     {
       "collector_number": 68,
@@ -1300,7 +1300,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/068.png"
+      "artwork_path": "cards/068.webp"
     },
     {
       "collector_number": 69,
@@ -1319,7 +1319,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/069.png"
+      "artwork_path": "cards/069.webp"
     },
     {
       "collector_number": 70,
@@ -1338,7 +1338,7 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/070.png"
+      "artwork_path": "cards/070.webp"
     },
     {
       "collector_number": 71,
@@ -1357,7 +1357,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/071.png"
+      "artwork_path": "cards/071.webp"
     },
     {
       "collector_number": 72,
@@ -1376,7 +1376,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/072.png"
+      "artwork_path": "cards/072.webp"
     },
     {
       "collector_number": 73,
@@ -1395,7 +1395,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/073.png"
+      "artwork_path": "cards/073.webp"
     },
     {
       "collector_number": 74,
@@ -1414,7 +1414,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/074.png"
+      "artwork_path": "cards/074.webp"
     },
     {
       "collector_number": 75,
@@ -1433,7 +1433,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/075.png"
+      "artwork_path": "cards/075.webp"
     },
     {
       "collector_number": 76,
@@ -1452,7 +1452,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/076.png"
+      "artwork_path": "cards/076.webp"
     },
     {
       "collector_number": 77,
@@ -1471,7 +1471,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/077.png"
+      "artwork_path": "cards/077.webp"
     },
     {
       "collector_number": 78,
@@ -1490,7 +1490,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/078.png"
+      "artwork_path": "cards/078.webp"
     },
     {
       "collector_number": 79,
@@ -1509,7 +1509,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/079.png"
+      "artwork_path": "cards/079.webp"
     },
     {
       "collector_number": 80,
@@ -1528,7 +1528,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/080.png"
+      "artwork_path": "cards/080.webp"
     },
     {
       "collector_number": 81,
@@ -1547,7 +1547,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/081.png"
+      "artwork_path": "cards/081.webp"
     },
     {
       "collector_number": 82,
@@ -1566,7 +1566,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/082.png"
+      "artwork_path": "cards/082.webp"
     },
     {
       "collector_number": 83,
@@ -1585,7 +1585,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/083.png"
+      "artwork_path": "cards/083.webp"
     },
     {
       "collector_number": 84,
@@ -1604,7 +1604,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/084.png"
+      "artwork_path": "cards/084.webp"
     },
     {
       "collector_number": 85,
@@ -1623,7 +1623,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/085.png"
+      "artwork_path": "cards/085.webp"
     },
     {
       "collector_number": 86,
@@ -1642,7 +1642,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/086.png"
+      "artwork_path": "cards/086.webp"
     },
     {
       "collector_number": 87,
@@ -1661,7 +1661,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/087.png"
+      "artwork_path": "cards/087.webp"
     },
     {
       "collector_number": 88,
@@ -1680,7 +1680,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/088.png"
+      "artwork_path": "cards/088.webp"
     },
     {
       "collector_number": 89,
@@ -1699,7 +1699,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/089.png"
+      "artwork_path": "cards/089.webp"
     },
     {
       "collector_number": 90,
@@ -1718,7 +1718,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/090.png"
+      "artwork_path": "cards/090.webp"
     },
     {
       "collector_number": 91,
@@ -1737,7 +1737,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/091.png"
+      "artwork_path": "cards/091.webp"
     },
     {
       "collector_number": 92,
@@ -1756,7 +1756,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/092.png"
+      "artwork_path": "cards/092.webp"
     },
     {
       "collector_number": 93,
@@ -1775,7 +1775,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/093.png"
+      "artwork_path": "cards/093.webp"
     },
     {
       "collector_number": 94,
@@ -1794,7 +1794,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/094.png"
+      "artwork_path": "cards/094.webp"
     },
     {
       "collector_number": 95,
@@ -1813,7 +1813,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/095.png"
+      "artwork_path": "cards/095.webp"
     },
     {
       "collector_number": 96,
@@ -1832,7 +1832,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/096.png"
+      "artwork_path": "cards/096.webp"
     },
     {
       "collector_number": 97,
@@ -1851,7 +1851,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/097.png"
+      "artwork_path": "cards/097.webp"
     },
     {
       "collector_number": 98,
@@ -1870,7 +1870,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/098.png"
+      "artwork_path": "cards/098.webp"
     },
     {
       "collector_number": 99,
@@ -1889,7 +1889,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/099.png"
+      "artwork_path": "cards/099.webp"
     },
     {
       "collector_number": 100,
@@ -1908,7 +1908,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/100.png"
+      "artwork_path": "cards/100.webp"
     },
     {
       "collector_number": 101,
@@ -1927,7 +1927,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/101.png"
+      "artwork_path": "cards/101.webp"
     },
     {
       "collector_number": 102,
@@ -1946,7 +1946,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/102.png"
+      "artwork_path": "cards/102.webp"
     },
     {
       "collector_number": 103,
@@ -1965,7 +1965,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/103.png"
+      "artwork_path": "cards/103.webp"
     },
     {
       "collector_number": 104,
@@ -1984,7 +1984,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/104.png"
+      "artwork_path": "cards/104.webp"
     },
     {
       "collector_number": 105,
@@ -2003,7 +2003,7 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/105.png"
+      "artwork_path": "cards/105.webp"
     },
     {
       "collector_number": 106,
@@ -2022,7 +2022,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/106.png"
+      "artwork_path": "cards/106.webp"
     },
     {
       "collector_number": 107,
@@ -2041,7 +2041,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/107.png"
+      "artwork_path": "cards/107.webp"
     },
     {
       "collector_number": 108,
@@ -2060,7 +2060,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/108.png"
+      "artwork_path": "cards/108.webp"
     },
     {
       "collector_number": 109,
@@ -2079,7 +2079,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/109.png"
+      "artwork_path": "cards/109.webp"
     },
     {
       "collector_number": 110,
@@ -2098,7 +2098,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/110.png"
+      "artwork_path": "cards/110.webp"
     },
     {
       "collector_number": 111,
@@ -2117,7 +2117,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/111.png"
+      "artwork_path": "cards/111.webp"
     },
     {
       "collector_number": 112,
@@ -2136,7 +2136,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/112.png"
+      "artwork_path": "cards/112.webp"
     },
     {
       "collector_number": 113,
@@ -2155,7 +2155,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/113.png"
+      "artwork_path": "cards/113.webp"
     },
     {
       "collector_number": 114,
@@ -2174,7 +2174,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/114.png"
+      "artwork_path": "cards/114.webp"
     },
     {
       "collector_number": 115,
@@ -2193,7 +2193,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/115.png"
+      "artwork_path": "cards/115.webp"
     },
     {
       "collector_number": 116,
@@ -2212,7 +2212,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/116.png"
+      "artwork_path": "cards/116.webp"
     },
     {
       "collector_number": 117,
@@ -2231,7 +2231,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/117.png"
+      "artwork_path": "cards/117.webp"
     },
     {
       "collector_number": 118,
@@ -2250,7 +2250,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/118.png"
+      "artwork_path": "cards/118.webp"
     },
     {
       "collector_number": 119,
@@ -2269,7 +2269,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/119.png"
+      "artwork_path": "cards/119.webp"
     },
     {
       "collector_number": 120,
@@ -2288,7 +2288,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/120.png"
+      "artwork_path": "cards/120.webp"
     },
     {
       "collector_number": 121,
@@ -2307,7 +2307,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/121.png"
+      "artwork_path": "cards/121.webp"
     },
     {
       "collector_number": 122,
@@ -2326,7 +2326,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/122.png"
+      "artwork_path": "cards/122.webp"
     },
     {
       "collector_number": 123,
@@ -2345,7 +2345,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/123.png"
+      "artwork_path": "cards/123.webp"
     },
     {
       "collector_number": 124,
@@ -2364,7 +2364,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/124.png"
+      "artwork_path": "cards/124.webp"
     },
     {
       "collector_number": 125,
@@ -2383,7 +2383,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/125.png"
+      "artwork_path": "cards/125.webp"
     },
     {
       "collector_number": 126,
@@ -2402,7 +2402,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/126.png"
+      "artwork_path": "cards/126.webp"
     },
     {
       "collector_number": 127,
@@ -2421,7 +2421,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/127.png"
+      "artwork_path": "cards/127.webp"
     },
     {
       "collector_number": 128,
@@ -2440,7 +2440,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/128.png"
+      "artwork_path": "cards/128.webp"
     },
     {
       "collector_number": 129,
@@ -2459,7 +2459,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/129.png"
+      "artwork_path": "cards/129.webp"
     },
     {
       "collector_number": 130,
@@ -2478,7 +2478,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/130.png"
+      "artwork_path": "cards/130.webp"
     },
     {
       "collector_number": 131,
@@ -2497,7 +2497,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/131.png"
+      "artwork_path": "cards/131.webp"
     },
     {
       "collector_number": 132,
@@ -2516,7 +2516,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/132.png"
+      "artwork_path": "cards/132.webp"
     },
     {
       "collector_number": 133,
@@ -2535,7 +2535,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/133.png"
+      "artwork_path": "cards/133.webp"
     },
     {
       "collector_number": 134,
@@ -2554,7 +2554,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/134.png"
+      "artwork_path": "cards/134.webp"
     },
     {
       "collector_number": 135,
@@ -2573,7 +2573,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/135.png"
+      "artwork_path": "cards/135.webp"
     },
     {
       "collector_number": 136,
@@ -2592,7 +2592,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/136.png"
+      "artwork_path": "cards/136.webp"
     },
     {
       "collector_number": 137,
@@ -2611,7 +2611,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/137.png"
+      "artwork_path": "cards/137.webp"
     },
     {
       "collector_number": 138,
@@ -2630,7 +2630,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/138.png"
+      "artwork_path": "cards/138.webp"
     },
     {
       "collector_number": 139,
@@ -2649,7 +2649,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/139.png"
+      "artwork_path": "cards/139.webp"
     },
     {
       "collector_number": 140,
@@ -2668,7 +2668,7 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/140.png"
+      "artwork_path": "cards/140.webp"
     },
     {
       "collector_number": 141,
@@ -2687,7 +2687,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/141.png"
+      "artwork_path": "cards/141.webp"
     },
     {
       "collector_number": 142,
@@ -2706,7 +2706,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/142.png"
+      "artwork_path": "cards/142.webp"
     },
     {
       "collector_number": 143,
@@ -2725,7 +2725,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/143.png"
+      "artwork_path": "cards/143.webp"
     },
     {
       "collector_number": 144,
@@ -2744,7 +2744,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/144.png"
+      "artwork_path": "cards/144.webp"
     },
     {
       "collector_number": 145,
@@ -2763,7 +2763,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/145.png"
+      "artwork_path": "cards/145.webp"
     },
     {
       "collector_number": 146,
@@ -2782,7 +2782,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/146.png"
+      "artwork_path": "cards/146.webp"
     },
     {
       "collector_number": 147,
@@ -2801,7 +2801,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/147.png"
+      "artwork_path": "cards/147.webp"
     },
     {
       "collector_number": 148,
@@ -2820,7 +2820,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/148.png"
+      "artwork_path": "cards/148.webp"
     },
     {
       "collector_number": 149,
@@ -2839,7 +2839,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/149.png"
+      "artwork_path": "cards/149.webp"
     },
     {
       "collector_number": 150,
@@ -2858,7 +2858,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/150.png"
+      "artwork_path": "cards/150.webp"
     },
     {
       "collector_number": 151,
@@ -2877,7 +2877,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/151.png"
+      "artwork_path": "cards/151.webp"
     },
     {
       "collector_number": 152,
@@ -2896,7 +2896,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/152.png"
+      "artwork_path": "cards/152.webp"
     },
     {
       "collector_number": 153,
@@ -2915,7 +2915,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/153.png"
+      "artwork_path": "cards/153.webp"
     },
     {
       "collector_number": 154,
@@ -2934,7 +2934,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/154.png"
+      "artwork_path": "cards/154.webp"
     },
     {
       "collector_number": 155,
@@ -2953,7 +2953,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/155.png"
+      "artwork_path": "cards/155.webp"
     },
     {
       "collector_number": 156,
@@ -2972,7 +2972,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/156.png"
+      "artwork_path": "cards/156.webp"
     },
     {
       "collector_number": 157,
@@ -2991,7 +2991,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/157.png"
+      "artwork_path": "cards/157.webp"
     },
     {
       "collector_number": 158,
@@ -3010,7 +3010,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/158.png"
+      "artwork_path": "cards/158.webp"
     },
     {
       "collector_number": 159,
@@ -3029,7 +3029,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/159.png"
+      "artwork_path": "cards/159.webp"
     },
     {
       "collector_number": 160,
@@ -3048,7 +3048,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/160.png"
+      "artwork_path": "cards/160.webp"
     },
     {
       "collector_number": 161,
@@ -3067,7 +3067,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/161.png"
+      "artwork_path": "cards/161.webp"
     },
     {
       "collector_number": 162,
@@ -3086,7 +3086,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/162.png"
+      "artwork_path": "cards/162.webp"
     },
     {
       "collector_number": 163,
@@ -3105,7 +3105,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/163.png"
+      "artwork_path": "cards/163.webp"
     },
     {
       "collector_number": 164,
@@ -3124,7 +3124,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/164.png"
+      "artwork_path": "cards/164.webp"
     },
     {
       "collector_number": 165,
@@ -3143,7 +3143,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/165.png"
+      "artwork_path": "cards/165.webp"
     },
     {
       "collector_number": 166,
@@ -3162,7 +3162,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/166.png"
+      "artwork_path": "cards/166.webp"
     },
     {
       "collector_number": 167,
@@ -3181,7 +3181,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/167.png"
+      "artwork_path": "cards/167.webp"
     },
     {
       "collector_number": 168,
@@ -3200,7 +3200,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/168.png"
+      "artwork_path": "cards/168.webp"
     },
     {
       "collector_number": 169,
@@ -3219,7 +3219,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/169.png"
+      "artwork_path": "cards/169.webp"
     },
     {
       "collector_number": 170,
@@ -3238,7 +3238,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/170.png"
+      "artwork_path": "cards/170.webp"
     },
     {
       "collector_number": 171,
@@ -3257,7 +3257,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/171.png"
+      "artwork_path": "cards/171.webp"
     },
     {
       "collector_number": 172,
@@ -3276,7 +3276,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/172.png"
+      "artwork_path": "cards/172.webp"
     },
     {
       "collector_number": 173,
@@ -3295,7 +3295,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/173.png"
+      "artwork_path": "cards/173.webp"
     },
     {
       "collector_number": 174,
@@ -3314,7 +3314,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/174.png"
+      "artwork_path": "cards/174.webp"
     },
     {
       "collector_number": 175,
@@ -3333,7 +3333,7 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/175.png"
+      "artwork_path": "cards/175.webp"
     },
     {
       "collector_number": 176,
@@ -3353,7 +3353,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/176.png"
+      "artwork_path": "cards/176.webp"
     },
     {
       "collector_number": 177,
@@ -3373,7 +3373,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/177.png"
+      "artwork_path": "cards/177.webp"
     },
     {
       "collector_number": 178,
@@ -3393,7 +3393,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/178.png"
+      "artwork_path": "cards/178.webp"
     },
     {
       "collector_number": 179,
@@ -3413,7 +3413,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/179.png"
+      "artwork_path": "cards/179.webp"
     },
     {
       "collector_number": 180,
@@ -3433,7 +3433,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/180.png"
+      "artwork_path": "cards/180.webp"
     },
     {
       "collector_number": 181,
@@ -3453,7 +3453,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/181.png"
+      "artwork_path": "cards/181.webp"
     },
     {
       "collector_number": 182,
@@ -3473,7 +3473,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/182.png"
+      "artwork_path": "cards/182.webp"
     },
     {
       "collector_number": 183,
@@ -3493,7 +3493,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/183.png"
+      "artwork_path": "cards/183.webp"
     },
     {
       "collector_number": 184,
@@ -3513,7 +3513,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/184.png"
+      "artwork_path": "cards/184.webp"
     },
     {
       "collector_number": 185,
@@ -3533,7 +3533,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/185.png"
+      "artwork_path": "cards/185.webp"
     },
     {
       "collector_number": 186,
@@ -3553,7 +3553,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/186.png"
+      "artwork_path": "cards/186.webp"
     },
     {
       "collector_number": 187,
@@ -3573,7 +3573,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/187.png"
+      "artwork_path": "cards/187.webp"
     },
     {
       "collector_number": 188,
@@ -3593,7 +3593,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/188.png"
+      "artwork_path": "cards/188.webp"
     },
     {
       "collector_number": 189,
@@ -3613,7 +3613,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/189.png"
+      "artwork_path": "cards/189.webp"
     },
     {
       "collector_number": 190,
@@ -3633,7 +3633,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/190.png"
+      "artwork_path": "cards/190.webp"
     },
     {
       "collector_number": 191,
@@ -3653,7 +3653,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/191.png"
+      "artwork_path": "cards/191.webp"
     },
     {
       "collector_number": 192,
@@ -3673,7 +3673,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/192.png"
+      "artwork_path": "cards/192.webp"
     },
     {
       "collector_number": 193,
@@ -3693,7 +3693,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/193.png"
+      "artwork_path": "cards/193.webp"
     },
     {
       "collector_number": 194,
@@ -3713,7 +3713,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/194.png"
+      "artwork_path": "cards/194.webp"
     },
     {
       "collector_number": 195,
@@ -3733,7 +3733,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/195.png"
+      "artwork_path": "cards/195.webp"
     },
     {
       "collector_number": 196,
@@ -3753,7 +3753,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/196.png"
+      "artwork_path": "cards/196.webp"
     },
     {
       "collector_number": 197,
@@ -3773,7 +3773,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/197.png"
+      "artwork_path": "cards/197.webp"
     },
     {
       "collector_number": 198,
@@ -3793,7 +3793,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/198.png"
+      "artwork_path": "cards/198.webp"
     },
     {
       "collector_number": 199,
@@ -3813,7 +3813,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/199.png"
+      "artwork_path": "cards/199.webp"
     },
     {
       "collector_number": 200,
@@ -3833,7 +3833,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/200.png"
+      "artwork_path": "cards/200.webp"
     },
     {
       "collector_number": 201,
@@ -3853,7 +3853,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/201.png"
+      "artwork_path": "cards/201.webp"
     },
     {
       "collector_number": 202,
@@ -3873,7 +3873,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/202.png"
+      "artwork_path": "cards/202.webp"
     },
     {
       "collector_number": 203,
@@ -3893,7 +3893,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/203.png"
+      "artwork_path": "cards/203.webp"
     },
     {
       "collector_number": 204,
@@ -3913,7 +3913,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/204.png"
+      "artwork_path": "cards/204.webp"
     },
     {
       "collector_number": 205,
@@ -3933,7 +3933,7 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/205.png"
+      "artwork_path": "cards/205.webp"
     },
     {
       "collector_number": 206,
@@ -3952,7 +3952,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/206.png"
+      "artwork_path": "cards/206.webp"
     },
     {
       "collector_number": 207,
@@ -3971,7 +3971,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/207.png"
+      "artwork_path": "cards/207.webp"
     },
     {
       "collector_number": 208,
@@ -3990,7 +3990,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/208.png"
+      "artwork_path": "cards/208.webp"
     },
     {
       "collector_number": 209,
@@ -4009,7 +4009,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/209.png"
+      "artwork_path": "cards/209.webp"
     },
     {
       "collector_number": 210,
@@ -4028,7 +4028,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/210.png"
+      "artwork_path": "cards/210.webp"
     },
     {
       "collector_number": 211,
@@ -4047,7 +4047,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/211.png"
+      "artwork_path": "cards/211.webp"
     },
     {
       "collector_number": 212,
@@ -4066,7 +4066,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/212.png"
+      "artwork_path": "cards/212.webp"
     },
     {
       "collector_number": 213,
@@ -4085,7 +4085,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/213.png"
+      "artwork_path": "cards/213.webp"
     },
     {
       "collector_number": 214,
@@ -4104,7 +4104,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/214.png"
+      "artwork_path": "cards/214.webp"
     },
     {
       "collector_number": 215,
@@ -4123,7 +4123,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/215.png"
+      "artwork_path": "cards/215.webp"
     },
     {
       "collector_number": 216,
@@ -4142,7 +4142,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/216.png"
+      "artwork_path": "cards/216.webp"
     },
     {
       "collector_number": 217,
@@ -4161,7 +4161,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/217.png"
+      "artwork_path": "cards/217.webp"
     },
     {
       "collector_number": 218,
@@ -4180,7 +4180,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/218.png"
+      "artwork_path": "cards/218.webp"
     },
     {
       "collector_number": 219,
@@ -4199,7 +4199,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/219.png"
+      "artwork_path": "cards/219.webp"
     },
     {
       "collector_number": 220,
@@ -4218,7 +4218,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/220.png"
+      "artwork_path": "cards/220.webp"
     },
     {
       "collector_number": 221,
@@ -4237,7 +4237,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/221.png"
+      "artwork_path": "cards/221.webp"
     },
     {
       "collector_number": 222,
@@ -4256,7 +4256,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/222.png"
+      "artwork_path": "cards/222.webp"
     },
     {
       "collector_number": 223,
@@ -4275,7 +4275,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/223.png"
+      "artwork_path": "cards/223.webp"
     },
     {
       "collector_number": 224,
@@ -4294,7 +4294,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/224.png"
+      "artwork_path": "cards/224.webp"
     },
     {
       "collector_number": 225,
@@ -4313,7 +4313,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/225.png"
+      "artwork_path": "cards/225.webp"
     },
     {
       "collector_number": 226,
@@ -4332,7 +4332,7 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/226.png"
+      "artwork_path": "cards/226.webp"
     },
     {
       "collector_number": 227,
@@ -4351,7 +4351,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/227.png"
+      "artwork_path": "cards/227.webp"
     },
     {
       "collector_number": 228,
@@ -4370,7 +4370,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/228.png"
+      "artwork_path": "cards/228.webp"
     },
     {
       "collector_number": 229,
@@ -4389,7 +4389,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/229.png"
+      "artwork_path": "cards/229.webp"
     },
     {
       "collector_number": 230,
@@ -4408,7 +4408,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/230.png"
+      "artwork_path": "cards/230.webp"
     },
     {
       "collector_number": 231,
@@ -4427,7 +4427,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/231.png"
+      "artwork_path": "cards/231.webp"
     },
     {
       "collector_number": 232,
@@ -4446,7 +4446,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/232.png"
+      "artwork_path": "cards/232.webp"
     },
     {
       "collector_number": 233,
@@ -4465,7 +4465,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/233.png"
+      "artwork_path": "cards/233.webp"
     },
     {
       "collector_number": 234,
@@ -4484,7 +4484,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/234.png"
+      "artwork_path": "cards/234.webp"
     },
     {
       "collector_number": 235,
@@ -4503,7 +4503,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/235.png"
+      "artwork_path": "cards/235.webp"
     },
     {
       "collector_number": 236,
@@ -4522,7 +4522,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/236.png"
+      "artwork_path": "cards/236.webp"
     },
     {
       "collector_number": 237,
@@ -4541,7 +4541,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/237.png"
+      "artwork_path": "cards/237.webp"
     },
     {
       "collector_number": 238,
@@ -4560,7 +4560,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/238.png"
+      "artwork_path": "cards/238.webp"
     },
     {
       "collector_number": 239,
@@ -4579,7 +4579,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/239.png"
+      "artwork_path": "cards/239.webp"
     },
     {
       "collector_number": 240,
@@ -4598,7 +4598,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/240.png"
+      "artwork_path": "cards/240.webp"
     },
     {
       "collector_number": 241,
@@ -4617,7 +4617,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/241.png"
+      "artwork_path": "cards/241.webp"
     },
     {
       "collector_number": 242,
@@ -4636,7 +4636,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/242.png"
+      "artwork_path": "cards/242.webp"
     },
     {
       "collector_number": 243,
@@ -4655,7 +4655,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/243.png"
+      "artwork_path": "cards/243.webp"
     },
     {
       "collector_number": 244,
@@ -4674,7 +4674,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/244.png"
+      "artwork_path": "cards/244.webp"
     },
     {
       "collector_number": 245,
@@ -4693,7 +4693,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/245.png"
+      "artwork_path": "cards/245.webp"
     },
     {
       "collector_number": 246,
@@ -4712,7 +4712,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/246.png"
+      "artwork_path": "cards/246.webp"
     },
     {
       "collector_number": 247,
@@ -4731,7 +4731,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/247.png"
+      "artwork_path": "cards/247.webp"
     },
     {
       "collector_number": 248,
@@ -4750,7 +4750,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/248.png"
+      "artwork_path": "cards/248.webp"
     },
     {
       "collector_number": 249,
@@ -4769,7 +4769,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/249.png"
+      "artwork_path": "cards/249.webp"
     },
     {
       "collector_number": 250,
@@ -4788,7 +4788,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/250.png"
+      "artwork_path": "cards/250.webp"
     },
     {
       "collector_number": 251,
@@ -4807,7 +4807,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/251.png"
+      "artwork_path": "cards/251.webp"
     },
     {
       "collector_number": 252,
@@ -4826,7 +4826,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/252.png"
+      "artwork_path": "cards/252.webp"
     },
     {
       "collector_number": 253,
@@ -4845,7 +4845,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/253.png"
+      "artwork_path": "cards/253.webp"
     },
     {
       "collector_number": 254,
@@ -4864,7 +4864,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/254.png"
+      "artwork_path": "cards/254.webp"
     },
     {
       "collector_number": 255,
@@ -4883,7 +4883,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/255.png"
+      "artwork_path": "cards/255.webp"
     },
     {
       "collector_number": 256,
@@ -4902,7 +4902,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/256.png"
+      "artwork_path": "cards/256.webp"
     },
     {
       "collector_number": 257,
@@ -4921,7 +4921,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/257.png"
+      "artwork_path": "cards/257.webp"
     },
     {
       "collector_number": 258,
@@ -4940,7 +4940,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/258.png"
+      "artwork_path": "cards/258.webp"
     },
     {
       "collector_number": 259,
@@ -4959,7 +4959,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/259.png"
+      "artwork_path": "cards/259.webp"
     },
     {
       "collector_number": 260,
@@ -4978,7 +4978,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/260.png"
+      "artwork_path": "cards/260.webp"
     },
     {
       "collector_number": 261,
@@ -4997,7 +4997,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/261.png"
+      "artwork_path": "cards/261.webp"
     }
   ],
   "balance": {
