@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090a0b">
+  <meta name="description" content="Explore The Boys, a custom Magic: The Gathering set.">
+  <title>Magic: The Gathering — The Boys</title>
+  <link rel="stylesheet" href="./showcase-v2.css">
+</head>
+<body>
+  <header class="site-nav">
+    <a class="brand" href="#top"><span class="brand-mark">TBY</span><span><b>Magic: The Gathering</b><small>The Boys</small></span></a>
+    <nav><a href="#story">The Set</a><a href="#archetypes-section">Archetypes</a><a href="#cards">Card Gallery</a></nav>
+  </header>
+  <main id="top">
+    <section class="hero">
+      <div class="hero-wash"></div>
+      <div class="hero-content">
+        <p class="kicker">A custom Magic: The Gathering set</p>
+        <h1 id="site-title">The Boys</h1>
+        <p class="hero-lede" id="site-premise"></p>
+        <a class="primary-action" href="#cards">Explore the cards <span>↓</span></a>
+      </div>
+      <div class="hero-card" id="hero-card"></div>
+      <div class="hero-facts" id="hero-facts"></div>
+    </section>
+    <section class="story section" id="story">
+      <div class="section-intro">
+        <p class="kicker">Welcome to the set</p>
+        <h2>Shared history.<br>Legendary nonsense.</h2>
+      </div>
+      <div class="story-copy">
+        <p id="set-story"></p>
+        <div class="mechanics"><span>Featuring</span><div id="mechanic-list"></div></div>
+      </div>
+    </section>
+    <section class="archetype-section section" id="archetypes-section">
+      <div class="section-intro inline">
+        <div><p class="kicker">Choose your colours</p><h2>Ten ways to play</h2></div>
+        <p>Each two-colour pair has its own identity, built for drafting and discovery.</p>
+      </div>
+      <div id="archetypes" class="archetypes"></div>
+    </section>
+    <section class="cards-section section" id="cards">
+      <div class="section-intro inline">
+        <div><p class="kicker">The complete collection</p><h2>Card gallery</h2></div>
+        <p id="gallery-count"></p>
+      </div>
+      <div class="gallery-tools">
+        <div class="filters" id="section-actions"></div>
+        <label class="search"><span>Search</span><input id="card-search" type="search" placeholder="Find a card…" autocomplete="off"></label>
+      </div>
+      <div id="gallery" class="gallery"></div>
+    </section>
+  </main>
+  <footer><span class="brand-mark">TBY</span><p>A fan-made custom set created for friends. Not affiliated with or endorsed by Wizards of the Coast.</p><a href="#top">Back to top ↑</a></footer>
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-card">
+      <button class="modal-close" type="button" aria-label="Close" data-close-modal>×</button>
+      <div id="modal-image" class="modal-image"></div>
+      <div class="modal-copy">
+        <p class="kicker">Card details</p>
+        <strong id="modal-name"></strong>
+        <p id="modal-type"></p>
+        <pre id="modal-rules"></pre>
+        <a class="download-card" id="modal-download" href="#" download>Download original PNG <span>↓</span></a>
+      </div>
+    </div>
+  </div>
+  <script src="./showcase-v2.js"></script>
+</body>
+</html>
