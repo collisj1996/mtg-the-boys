@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#090a0b">
   <meta name="description" content="Explore The Boys, a custom Magic: The Gathering set.">
   <title>Magic: The Gathering — The Boys</title>
-  <link rel="stylesheet" href="./showcase-v2.css?v=6">
+  <link rel="stylesheet" href="./showcase-v2.css?v=7">
 </head>
 <body>
   <header class="site-nav">
@@ -48,8 +48,17 @@
         <p id="gallery-count"></p>
       </div>
       <div class="gallery-tools">
-        <div class="filters" id="section-actions"></div>
-        <label class="search"><span>Search</span><input id="card-search" type="search" placeholder="Find a card…" autocomplete="off"></label>
+        <div class="gallery-primary">
+          <div class="filters" id="section-actions"></div>
+          <div class="gallery-actions">
+            <button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="advanced-filters">More filters <span id="active-filter-count">0</span></button>
+            <label class="search"><span>Search</span><input id="card-search" type="search" placeholder="Name, rules, person, number…" autocomplete="off"></label>
+          </div>
+        </div>
+        <div id="advanced-filters" class="advanced-filters" hidden>
+          <div id="filter-fields" class="filter-groups"></div>
+          <div class="filter-footer"><span id="filter-summary">Showing the complete set.</span><button id="clear-filters" type="button">Clear all filters</button></div>
+        </div>
       </div>
       <div id="gallery" class="gallery"></div>
     </section>
@@ -75,6 +84,6 @@
     </div>
     <button id="modal-next" class="modal-nav modal-next" type="button" aria-label="Next card">›</button>
   </div>
-  <script src="./showcase-v3.js?v=6"></script>
+  <script src="./showcase-v3.js?v=7"></script>
 </body>
 </html>
