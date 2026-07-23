@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T00:08:21.011527+00:00",
+  "generated_at": "2026-07-23T14:57:05.939927+00:00",
   "set": {
     "title": "The Boys",
     "code": "TBY",
@@ -49,7 +49,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/001.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/001.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/001.webp"
     },
     {
       "collector_number": 2,
@@ -100,7 +101,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/002.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/002.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/002.webp"
     },
     {
       "collector_number": 3,
@@ -142,7 +144,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/003.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/003.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/003.webp"
     },
     {
       "collector_number": 4,
@@ -191,7 +194,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/004.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/004.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/004.webp"
     },
     {
       "collector_number": 5,
@@ -232,7 +236,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/005.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/005.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/005.webp"
     },
     {
       "collector_number": 6,
@@ -289,7 +294,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/006.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/006.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/006.webp"
     },
     {
       "collector_number": 7,
@@ -330,7 +336,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/007.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/007.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/007.webp"
     },
     {
       "collector_number": 8,
@@ -364,7 +371,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/008.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/008.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/008.webp"
     },
     {
       "collector_number": 9,
@@ -405,7 +413,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/009.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/009.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/009.webp"
     },
     {
       "collector_number": 10,
@@ -454,7 +463,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/010.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/010.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/010.webp"
     },
     {
       "collector_number": 11,
@@ -496,7 +506,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/011.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/011.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/011.webp"
     },
     {
       "collector_number": 12,
@@ -539,7 +550,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/012.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/012.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/012.webp"
     },
     {
       "collector_number": 13,
@@ -588,7 +600,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/013.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/013.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/013.webp"
     },
     {
       "collector_number": 14,
@@ -637,7 +650,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/014.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/014.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/014.webp"
     },
     {
       "collector_number": 15,
@@ -680,7 +694,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/015.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/015.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/015.webp"
     },
     {
       "collector_number": 16,
@@ -729,7 +744,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/016.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/016.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/016.webp"
     },
     {
       "collector_number": 17,
@@ -778,7 +794,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/017.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/017.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/017.webp"
     },
     {
       "collector_number": 18,
@@ -827,7 +844,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/018.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/018.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/018.webp"
     },
     {
       "collector_number": 19,
@@ -876,7 +894,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/019.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/019.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/019.webp"
     },
     {
       "collector_number": 20,
@@ -910,7 +929,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/020.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/020.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/020.webp"
     },
     {
       "collector_number": 21,
@@ -951,7 +971,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/021.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/021.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/021.webp"
     },
     {
       "collector_number": 22,
@@ -994,7 +1015,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/022.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/022.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/022.webp"
     },
     {
       "collector_number": 23,
@@ -1030,7 +1052,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/023.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/023.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/023.webp"
     },
     {
       "collector_number": 24,
@@ -1079,7 +1102,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/024.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/024.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/024.webp"
     },
     {
       "collector_number": 25,
@@ -1111,7 +1135,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/025.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/025.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/025.webp"
     },
     {
       "collector_number": 26,
@@ -1161,7 +1186,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/026.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/026.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/026.webp"
     },
     {
       "collector_number": 27,
@@ -1202,7 +1228,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/027.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/027.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/027.webp"
     },
     {
       "collector_number": 28,
@@ -1253,7 +1280,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/028.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/028.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/028.webp"
     },
     {
       "collector_number": 29,
@@ -1297,7 +1325,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/029.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/029.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/029.webp"
     },
     {
       "collector_number": 30,
@@ -1339,7 +1368,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/030.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/030.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/030.webp"
     },
     {
       "collector_number": 31,
@@ -1374,7 +1404,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/031.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/031.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/031.webp"
     },
     {
       "collector_number": 32,
@@ -1415,7 +1446,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/032.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/032.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/032.webp"
     },
     {
       "collector_number": 33,
@@ -1456,7 +1488,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/033.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/033.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/033.webp"
     },
     {
       "collector_number": 34,
@@ -1506,7 +1539,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/034.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/034.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/034.webp"
     },
     {
       "collector_number": 35,
@@ -1565,7 +1599,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/035.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/035.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/035.webp"
     },
     {
       "collector_number": 36,
@@ -1614,7 +1649,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/036.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/036.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/036.webp"
     },
     {
       "collector_number": 37,
@@ -1661,7 +1697,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/037.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/037.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/037.webp"
     },
     {
       "collector_number": 38,
@@ -1702,7 +1739,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/038.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/038.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/038.webp"
     },
     {
       "collector_number": 39,
@@ -1745,7 +1783,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/039.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/039.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/039.webp"
     },
     {
       "collector_number": 40,
@@ -1786,7 +1825,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/040.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/040.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/040.webp"
     },
     {
       "collector_number": 41,
@@ -1827,7 +1867,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/041.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/041.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/041.webp"
     },
     {
       "collector_number": 42,
@@ -1868,7 +1909,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/042.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/042.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/042.webp"
     },
     {
       "collector_number": 43,
@@ -1911,7 +1953,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/043.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/043.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/043.webp"
     },
     {
       "collector_number": 44,
@@ -1943,7 +1986,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/044.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/044.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/044.webp"
     },
     {
       "collector_number": 45,
@@ -1977,7 +2021,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/045.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/045.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/045.webp"
     },
     {
       "collector_number": 46,
@@ -2021,7 +2066,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/046.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/046.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/046.webp"
     },
     {
       "collector_number": 47,
@@ -2070,7 +2116,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/047.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/047.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/047.webp"
     },
     {
       "collector_number": 48,
@@ -2111,7 +2158,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/048.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/048.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/048.webp"
     },
     {
       "collector_number": 49,
@@ -2154,7 +2202,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/049.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/049.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/049.webp"
     },
     {
       "collector_number": 50,
@@ -2195,7 +2244,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/050.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/050.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/050.webp"
     },
     {
       "collector_number": 51,
@@ -2236,7 +2286,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/051.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/051.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/051.webp"
     },
     {
       "collector_number": 52,
@@ -2277,7 +2328,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/052.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/052.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/052.webp"
     },
     {
       "collector_number": 53,
@@ -2318,7 +2370,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/053.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/053.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/053.webp"
     },
     {
       "collector_number": 54,
@@ -2359,7 +2412,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/054.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/054.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/054.webp"
     },
     {
       "collector_number": 55,
@@ -2408,7 +2462,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/055.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/055.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/055.webp"
     },
     {
       "collector_number": 56,
@@ -2449,7 +2504,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/056.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/056.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/056.webp"
     },
     {
       "collector_number": 57,
@@ -2493,7 +2549,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/057.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/057.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/057.webp"
     },
     {
       "collector_number": 58,
@@ -2536,7 +2593,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/058.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/058.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/058.webp"
     },
     {
       "collector_number": 59,
@@ -2577,7 +2635,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/059.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/059.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/059.webp"
     },
     {
       "collector_number": 60,
@@ -2611,7 +2670,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/060.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/060.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/060.webp"
     },
     {
       "collector_number": 61,
@@ -2643,7 +2703,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/061.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/061.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/061.webp"
     },
     {
       "collector_number": 62,
@@ -2675,7 +2736,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/062.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/062.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/062.webp"
     },
     {
       "collector_number": 63,
@@ -2732,7 +2794,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/063.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/063.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/063.webp"
     },
     {
       "collector_number": 64,
@@ -2775,7 +2838,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/064.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/064.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/064.webp"
     },
     {
       "collector_number": 65,
@@ -2816,7 +2880,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/065.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/065.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/065.webp"
     },
     {
       "collector_number": 66,
@@ -2851,7 +2916,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/066.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/066.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/066.webp"
     },
     {
       "collector_number": 67,
@@ -2900,7 +2966,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/067.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/067.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/067.webp"
     },
     {
       "collector_number": 68,
@@ -2932,7 +2999,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/068.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/068.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/068.webp"
     },
     {
       "collector_number": 69,
@@ -2973,7 +3041,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/069.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/069.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/069.webp"
     },
     {
       "collector_number": 70,
@@ -3014,7 +3083,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/070.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/070.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/070.webp"
     },
     {
       "collector_number": 71,
@@ -3073,7 +3143,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/071.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/071.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/071.webp"
     },
     {
       "collector_number": 72,
@@ -3122,7 +3193,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/072.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/072.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/072.webp"
     },
     {
       "collector_number": 73,
@@ -3171,7 +3243,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/073.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/073.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/073.webp"
     },
     {
       "collector_number": 74,
@@ -3212,7 +3285,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/074.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/074.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/074.webp"
     },
     {
       "collector_number": 75,
@@ -3253,7 +3327,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/075.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/075.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/075.webp"
     },
     {
       "collector_number": 76,
@@ -3294,7 +3369,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/076.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/076.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/076.webp"
     },
     {
       "collector_number": 77,
@@ -3343,7 +3419,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/077.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/077.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/077.webp"
     },
     {
       "collector_number": 78,
@@ -3384,7 +3461,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/078.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/078.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/078.webp"
     },
     {
       "collector_number": 79,
@@ -3425,7 +3503,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/079.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/079.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/079.webp"
     },
     {
       "collector_number": 80,
@@ -3475,7 +3554,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/080.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/080.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/080.webp"
     },
     {
       "collector_number": 81,
@@ -3516,7 +3596,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/081.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/081.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/081.webp"
     },
     {
       "collector_number": 82,
@@ -3550,7 +3631,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/082.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/082.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/082.webp"
     },
     {
       "collector_number": 83,
@@ -3601,7 +3683,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/083.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/083.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/083.webp"
     },
     {
       "collector_number": 84,
@@ -3650,7 +3733,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/084.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/084.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/084.webp"
     },
     {
       "collector_number": 85,
@@ -3691,7 +3775,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/085.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/085.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/085.webp"
     },
     {
       "collector_number": 86,
@@ -3742,7 +3827,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/086.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/086.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/086.webp"
     },
     {
       "collector_number": 87,
@@ -3791,7 +3877,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/087.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/087.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/087.webp"
     },
     {
       "collector_number": 88,
@@ -3840,7 +3927,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/088.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/088.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/088.webp"
     },
     {
       "collector_number": 89,
@@ -3874,7 +3962,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/089.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/089.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/089.webp"
     },
     {
       "collector_number": 90,
@@ -3915,7 +4004,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/090.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/090.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/090.webp"
     },
     {
       "collector_number": 91,
@@ -3956,7 +4046,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/091.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/091.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/091.webp"
     },
     {
       "collector_number": 92,
@@ -4013,7 +4104,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/092.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/092.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/092.webp"
     },
     {
       "collector_number": 93,
@@ -4045,7 +4137,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/093.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/093.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/093.webp"
     },
     {
       "collector_number": 94,
@@ -4079,7 +4172,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/094.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/094.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/094.webp"
     },
     {
       "collector_number": 95,
@@ -4122,7 +4216,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/095.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/095.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/095.webp"
     },
     {
       "collector_number": 96,
@@ -4156,7 +4251,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/096.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/096.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/096.webp"
     },
     {
       "collector_number": 97,
@@ -4197,7 +4293,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/097.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/097.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/097.webp"
     },
     {
       "collector_number": 98,
@@ -4246,7 +4343,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/098.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/098.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/098.webp"
     },
     {
       "collector_number": 99,
@@ -4280,7 +4378,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/099.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/099.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/099.webp"
     },
     {
       "collector_number": 100,
@@ -4321,7 +4420,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/100.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/100.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/100.webp"
     },
     {
       "collector_number": 101,
@@ -4370,7 +4470,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/101.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/101.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/101.webp"
     },
     {
       "collector_number": 102,
@@ -4419,7 +4520,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/102.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/102.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/102.webp"
     },
     {
       "collector_number": 103,
@@ -4453,7 +4555,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/103.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/103.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/103.webp"
     },
     {
       "collector_number": 104,
@@ -4502,7 +4605,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/104.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/104.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/104.webp"
     },
     {
       "collector_number": 105,
@@ -4543,7 +4647,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/105.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/105.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/105.webp"
     },
     {
       "collector_number": 106,
@@ -4592,7 +4697,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/106.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/106.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/106.webp"
     },
     {
       "collector_number": 107,
@@ -4641,7 +4747,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/107.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/107.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/107.webp"
     },
     {
       "collector_number": 108,
@@ -4698,7 +4805,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/108.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/108.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/108.webp"
     },
     {
       "collector_number": 109,
@@ -4755,7 +4863,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/109.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/109.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/109.webp"
     },
     {
       "collector_number": 110,
@@ -4812,7 +4921,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/110.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/110.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/110.webp"
     },
     {
       "collector_number": 111,
@@ -4861,7 +4971,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/111.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/111.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/111.webp"
     },
     {
       "collector_number": 112,
@@ -4902,7 +5013,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/112.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/112.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/112.webp"
     },
     {
       "collector_number": 113,
@@ -4943,7 +5055,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/113.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/113.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/113.webp"
     },
     {
       "collector_number": 114,
@@ -4984,7 +5097,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/114.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/114.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/114.webp"
     },
     {
       "collector_number": 115,
@@ -5025,7 +5139,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/115.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/115.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/115.webp"
     },
     {
       "collector_number": 116,
@@ -5066,7 +5181,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/116.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/116.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/116.webp"
     },
     {
       "collector_number": 117,
@@ -5107,7 +5223,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/117.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/117.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/117.webp"
     },
     {
       "collector_number": 118,
@@ -5148,7 +5265,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/118.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/118.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/118.webp"
     },
     {
       "collector_number": 119,
@@ -5192,7 +5310,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/119.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/119.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/119.webp"
     },
     {
       "collector_number": 120,
@@ -5233,7 +5352,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/120.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/120.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/120.webp"
     },
     {
       "collector_number": 121,
@@ -5274,7 +5394,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/121.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/121.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/121.webp"
     },
     {
       "collector_number": 122,
@@ -5323,7 +5444,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/122.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/122.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/122.webp"
     },
     {
       "collector_number": 123,
@@ -5364,7 +5486,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/123.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/123.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/123.webp"
     },
     {
       "collector_number": 124,
@@ -5405,7 +5528,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/124.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/124.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/124.webp"
     },
     {
       "collector_number": 125,
@@ -5446,7 +5570,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/125.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/125.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/125.webp"
     },
     {
       "collector_number": 126,
@@ -5489,7 +5614,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/126.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/126.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/126.webp"
     },
     {
       "collector_number": 127,
@@ -5531,7 +5657,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/127.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/127.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/127.webp"
     },
     {
       "collector_number": 128,
@@ -5572,7 +5699,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/128.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/128.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/128.webp"
     },
     {
       "collector_number": 129,
@@ -5613,7 +5741,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/129.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/129.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/129.webp"
     },
     {
       "collector_number": 130,
@@ -5654,7 +5783,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/130.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/130.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/130.webp"
     },
     {
       "collector_number": 131,
@@ -5698,7 +5828,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/131.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/131.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/131.webp"
     },
     {
       "collector_number": 132,
@@ -5741,7 +5872,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/132.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/132.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/132.webp"
     },
     {
       "collector_number": 133,
@@ -5782,7 +5914,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/133.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/133.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/133.webp"
     },
     {
       "collector_number": 134,
@@ -5816,7 +5949,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/134.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/134.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/134.webp"
     },
     {
       "collector_number": 135,
@@ -5850,7 +5984,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/135.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/135.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/135.webp"
     },
     {
       "collector_number": 136,
@@ -5884,7 +6019,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/136.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/136.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/136.webp"
     },
     {
       "collector_number": 137,
@@ -5925,7 +6061,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/137.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/137.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/137.webp"
     },
     {
       "collector_number": 138,
@@ -5966,7 +6103,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/138.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/138.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/138.webp"
     },
     {
       "collector_number": 139,
@@ -6007,7 +6145,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/139.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/139.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/139.webp"
     },
     {
       "collector_number": 140,
@@ -6051,7 +6190,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/140.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/140.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/140.webp"
     },
     {
       "collector_number": 141,
@@ -6100,7 +6240,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/141.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/141.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/141.webp"
     },
     {
       "collector_number": 142,
@@ -6134,7 +6275,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/142.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/142.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/142.webp"
     },
     {
       "collector_number": 143,
@@ -6175,7 +6317,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/143.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/143.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/143.webp"
     },
     {
       "collector_number": 144,
@@ -6216,7 +6359,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/144.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/144.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/144.webp"
     },
     {
       "collector_number": 145,
@@ -6276,7 +6420,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/145.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/145.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/145.webp"
     },
     {
       "collector_number": 146,
@@ -6317,7 +6462,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/146.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/146.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/146.webp"
     },
     {
       "collector_number": 147,
@@ -6361,7 +6507,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/147.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/147.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/147.webp"
     },
     {
       "collector_number": 148,
@@ -6405,7 +6552,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/148.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/148.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/148.webp"
     },
     {
       "collector_number": 149,
@@ -6454,7 +6602,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/149.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/149.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/149.webp"
     },
     {
       "collector_number": 150,
@@ -6495,7 +6644,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/150.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/150.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/150.webp"
     },
     {
       "collector_number": 151,
@@ -6536,7 +6686,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/151.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/151.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/151.webp"
     },
     {
       "collector_number": 152,
@@ -6585,7 +6736,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/152.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/152.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/152.webp"
     },
     {
       "collector_number": 153,
@@ -6626,7 +6778,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/153.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/153.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/153.webp"
     },
     {
       "collector_number": 154,
@@ -6658,7 +6811,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/154.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/154.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/154.webp"
     },
     {
       "collector_number": 155,
@@ -6699,7 +6853,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/155.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/155.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/155.webp"
     },
     {
       "collector_number": 156,
@@ -6733,7 +6888,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/156.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/156.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/156.webp"
     },
     {
       "collector_number": 157,
@@ -6782,7 +6938,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/157.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/157.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/157.webp"
     },
     {
       "collector_number": 158,
@@ -6839,7 +6996,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/158.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/158.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/158.webp"
     },
     {
       "collector_number": 159,
@@ -6880,7 +7038,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/159.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/159.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/159.webp"
     },
     {
       "collector_number": 160,
@@ -6929,7 +7088,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/160.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/160.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/160.webp"
     },
     {
       "collector_number": 161,
@@ -6978,7 +7138,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/161.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/161.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/161.webp"
     },
     {
       "collector_number": 162,
@@ -7019,7 +7180,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/162.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/162.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/162.webp"
     },
     {
       "collector_number": 163,
@@ -7063,7 +7225,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/163.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/163.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/163.webp"
     },
     {
       "collector_number": 164,
@@ -7112,7 +7275,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/164.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/164.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/164.webp"
     },
     {
       "collector_number": 165,
@@ -7161,7 +7325,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/165.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/165.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/165.webp"
     },
     {
       "collector_number": 166,
@@ -7203,7 +7368,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/166.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/166.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/166.webp"
     },
     {
       "collector_number": 167,
@@ -7245,7 +7411,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/167.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/167.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/167.webp"
     },
     {
       "collector_number": 168,
@@ -7297,7 +7464,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/168.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/168.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/168.webp"
     },
     {
       "collector_number": 169,
@@ -7329,7 +7497,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/169.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/169.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/169.webp"
     },
     {
       "collector_number": 170,
@@ -7372,7 +7541,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/170.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/170.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/170.webp"
     },
     {
       "collector_number": 171,
@@ -7407,7 +7577,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/171.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/171.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/171.webp"
     },
     {
       "collector_number": 172,
@@ -7450,7 +7621,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/172.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/172.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/172.webp"
     },
     {
       "collector_number": 173,
@@ -7499,7 +7671,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/173.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/173.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/173.webp"
     },
     {
       "collector_number": 174,
@@ -7540,7 +7713,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/174.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/174.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/174.webp"
     },
     {
       "collector_number": 175,
@@ -7589,7 +7763,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/175.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/175.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/175.webp"
     },
     {
       "collector_number": 176,
@@ -7632,7 +7807,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/176.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/176.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/176.webp"
     },
     {
       "collector_number": 177,
@@ -7675,7 +7851,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/177.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/177.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/177.webp"
     },
     {
       "collector_number": 178,
@@ -7724,7 +7901,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/178.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/178.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/178.webp"
     },
     {
       "collector_number": 179,
@@ -7767,7 +7945,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/179.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/179.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/179.webp"
     },
     {
       "collector_number": 180,
@@ -7824,7 +8003,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/180.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/180.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/180.webp"
     },
     {
       "collector_number": 181,
@@ -7889,7 +8069,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/181.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/181.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/181.webp"
     },
     {
       "collector_number": 182,
@@ -7938,7 +8119,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/182.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/182.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/182.webp"
     },
     {
       "collector_number": 183,
@@ -7995,7 +8177,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/183.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/183.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/183.webp"
     },
     {
       "collector_number": 184,
@@ -8042,7 +8225,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/184.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/184.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/184.webp"
     },
     {
       "collector_number": 185,
@@ -8091,7 +8275,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/185.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/185.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/185.webp"
     },
     {
       "collector_number": 186,
@@ -8136,7 +8321,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/186.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/186.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/186.webp"
     },
     {
       "collector_number": 187,
@@ -8180,7 +8366,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/187.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/187.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/187.webp"
     },
     {
       "collector_number": 188,
@@ -8224,7 +8411,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/188.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/188.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/188.webp"
     },
     {
       "collector_number": 189,
@@ -8266,7 +8454,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/189.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/189.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/189.webp"
     },
     {
       "collector_number": 190,
@@ -8309,7 +8498,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/190.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/190.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/190.webp"
     },
     {
       "collector_number": 191,
@@ -8353,7 +8543,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/191.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/191.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/191.webp"
     },
     {
       "collector_number": 192,
@@ -8396,7 +8587,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/192.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/192.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/192.webp"
     },
     {
       "collector_number": 193,
@@ -8438,7 +8630,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/193.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/193.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/193.webp"
     },
     {
       "collector_number": 194,
@@ -8483,7 +8676,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/194.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/194.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/194.webp"
     },
     {
       "collector_number": 195,
@@ -8533,7 +8727,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/195.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/195.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/195.webp"
     },
     {
       "collector_number": 196,
@@ -8575,7 +8770,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/196.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/196.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/196.webp"
     },
     {
       "collector_number": 197,
@@ -8619,7 +8815,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/197.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/197.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/197.webp"
     },
     {
       "collector_number": 198,
@@ -8661,7 +8858,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/198.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/198.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/198.webp"
     },
     {
       "collector_number": 199,
@@ -8703,7 +8901,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/199.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/199.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/199.webp"
     },
     {
       "collector_number": 200,
@@ -8745,7 +8944,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/200.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/200.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/200.webp"
     },
     {
       "collector_number": 201,
@@ -8787,7 +8987,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/201.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/201.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/201.webp"
     },
     {
       "collector_number": 202,
@@ -8829,7 +9030,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/202.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/202.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/202.webp"
     },
     {
       "collector_number": 203,
@@ -8871,7 +9073,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/203.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/203.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/203.webp"
     },
     {
       "collector_number": 204,
@@ -8915,7 +9118,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/204.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/204.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/204.webp"
     },
     {
       "collector_number": 205,
@@ -8957,7 +9161,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/205.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/205.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/205.webp"
     },
     {
       "collector_number": 206,
@@ -8999,7 +9204,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/206.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/206.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/206.webp"
     },
     {
       "collector_number": 207,
@@ -9041,7 +9247,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/207.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/207.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/207.webp"
     },
     {
       "collector_number": 208,
@@ -9083,7 +9290,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/208.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/208.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/208.webp"
     },
     {
       "collector_number": 209,
@@ -9125,7 +9333,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/209.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/209.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/209.webp"
     },
     {
       "collector_number": 210,
@@ -9169,7 +9378,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/210.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/210.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/210.webp"
     },
     {
       "collector_number": 211,
@@ -9211,7 +9421,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/211.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/211.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/211.webp"
     },
     {
       "collector_number": 212,
@@ -9253,7 +9464,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/212.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/212.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/212.webp"
     },
     {
       "collector_number": 213,
@@ -9295,7 +9507,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/213.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/213.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/213.webp"
     },
     {
       "collector_number": 214,
@@ -9337,7 +9550,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/214.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/214.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/214.webp"
     },
     {
       "collector_number": 215,
@@ -9379,7 +9593,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/215.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/215.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/215.webp"
     },
     {
       "collector_number": 216,
@@ -9420,7 +9635,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/216.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/216.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/216.webp"
     },
     {
       "collector_number": 217,
@@ -9461,7 +9677,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/217.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/217.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/217.webp"
     },
     {
       "collector_number": 218,
@@ -9493,7 +9710,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/218.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/218.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/218.webp"
     },
     {
       "collector_number": 219,
@@ -9536,7 +9754,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/219.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/219.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/219.webp"
     },
     {
       "collector_number": 220,
@@ -9593,7 +9812,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/220.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/220.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/220.webp"
     },
     {
       "collector_number": 221,
@@ -9658,7 +9878,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/221.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/221.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/221.webp"
     },
     {
       "collector_number": 222,
@@ -9699,7 +9920,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/222.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/222.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/222.webp"
     },
     {
       "collector_number": 223,
@@ -9740,7 +9962,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/223.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/223.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/223.webp"
     },
     {
       "collector_number": 224,
@@ -9784,7 +10007,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/224.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/224.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/224.webp"
     },
     {
       "collector_number": 225,
@@ -9833,7 +10057,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/225.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/225.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/225.webp"
     },
     {
       "collector_number": 226,
@@ -9874,7 +10099,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/226.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/226.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/226.webp"
     },
     {
       "collector_number": 227,
@@ -9923,7 +10149,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/227.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/227.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/227.webp"
     },
     {
       "collector_number": 228,
@@ -9980,7 +10207,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/228.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/228.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/228.webp"
     },
     {
       "collector_number": 229,
@@ -10029,7 +10257,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/229.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/229.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/229.webp"
     },
     {
       "collector_number": 230,
@@ -10086,7 +10315,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/230.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/230.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/230.webp"
     },
     {
       "collector_number": 231,
@@ -10143,7 +10373,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/231.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/231.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/231.webp"
     },
     {
       "collector_number": 232,
@@ -10192,7 +10423,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/232.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/232.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/232.webp"
     },
     {
       "collector_number": 233,
@@ -10233,7 +10465,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/233.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/233.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/233.webp"
     },
     {
       "collector_number": 234,
@@ -10282,7 +10515,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/234.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/234.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/234.webp"
     },
     {
       "collector_number": 235,
@@ -10331,7 +10565,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/235.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/235.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/235.webp"
     },
     {
       "collector_number": 236,
@@ -10381,7 +10616,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/236.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/236.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/236.webp"
     },
     {
       "collector_number": 237,
@@ -10432,7 +10668,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/237.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/237.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/237.webp"
     },
     {
       "collector_number": 238,
@@ -10481,7 +10718,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/238.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/238.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/238.webp"
     },
     {
       "collector_number": 239,
@@ -10511,7 +10749,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/239.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/239.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/239.webp"
     },
     {
       "collector_number": 240,
@@ -10541,7 +10780,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/240.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/240.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/240.webp"
     },
     {
       "collector_number": 241,
@@ -10571,7 +10811,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/241.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/241.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/241.webp"
     },
     {
       "collector_number": 242,
@@ -10601,7 +10842,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/242.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/242.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/242.webp"
     },
     {
       "collector_number": 243,
@@ -10631,7 +10873,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/243.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/243.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/243.webp"
     },
     {
       "collector_number": 244,
@@ -10661,7 +10904,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/244.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/244.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/244.webp"
     },
     {
       "collector_number": 245,
@@ -10691,7 +10935,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/245.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/245.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/245.webp"
     },
     {
       "collector_number": 246,
@@ -10721,7 +10966,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/246.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/246.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/246.webp"
     },
     {
       "collector_number": 247,
@@ -10751,7 +10997,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/247.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/247.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/247.webp"
     },
     {
       "collector_number": 248,
@@ -10781,7 +11028,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/248.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/248.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/248.webp"
     },
     {
       "collector_number": 249,
@@ -10811,7 +11059,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/249.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/249.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/249.webp"
     },
     {
       "collector_number": 250,
@@ -10841,7 +11090,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/250.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/250.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/250.webp"
     },
     {
       "collector_number": 251,
@@ -10871,7 +11121,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/251.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/251.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/251.webp"
     },
     {
       "collector_number": 252,
@@ -10901,7 +11152,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/252.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/252.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/252.webp"
     },
     {
       "collector_number": 253,
@@ -10931,7 +11183,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/253.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/253.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/253.webp"
     },
     {
       "collector_number": 254,
@@ -10961,7 +11214,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/254.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/254.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/254.webp"
     },
     {
       "collector_number": 255,
@@ -10991,7 +11245,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/255.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/255.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/255.webp"
     },
     {
       "collector_number": 256,
@@ -11021,7 +11276,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/256.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/256.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/256.webp"
     },
     {
       "collector_number": 257,
@@ -11051,7 +11307,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/257.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/257.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/257.webp"
     },
     {
       "collector_number": 258,
@@ -11081,7 +11338,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/258.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/258.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/258.webp"
     },
     {
       "collector_number": 259,
@@ -11111,7 +11369,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/259.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/259.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/259.webp"
     },
     {
       "collector_number": 260,
@@ -11141,7 +11400,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/260.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/260.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/260.webp"
     },
     {
       "collector_number": 261,
@@ -11171,7 +11431,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/261.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/261.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/261.webp"
     },
     {
       "collector_number": 262,
@@ -11218,7 +11479,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/262.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/262.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/262.webp"
     },
     {
       "collector_number": 263,
@@ -11257,7 +11519,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/263.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/263.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/263.webp"
     },
     {
       "collector_number": 264,
@@ -11296,7 +11559,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/264.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/264.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/264.webp"
     },
     {
       "collector_number": 265,
@@ -11335,7 +11599,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/265.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/265.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/265.webp"
     },
     {
       "collector_number": 266,
@@ -11374,7 +11639,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/266.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/266.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/266.webp"
     },
     {
       "collector_number": 267,
@@ -11413,7 +11679,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/267.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/267.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/267.webp"
     },
     {
       "collector_number": 268,
@@ -11454,7 +11721,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/268.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/268.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/268.webp"
     },
     {
       "collector_number": 269,
@@ -11493,7 +11761,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/269.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/269.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/269.webp"
     },
     {
       "collector_number": 270,
@@ -11532,7 +11801,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/270.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/270.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/270.webp"
     },
     {
       "collector_number": 271,
@@ -11571,7 +11841,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/271.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/271.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/271.webp"
     },
     {
       "collector_number": 272,
@@ -11610,7 +11881,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/272.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/272.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/272.webp"
     },
     {
       "collector_number": 273,
@@ -11649,7 +11921,8 @@
       "people": [],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/273.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/273.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/273.webp"
     },
     {
       "collector_number": 274,
@@ -11683,7 +11956,8 @@
       ],
       "mechanics": [],
       "artwork_status": "complete",
-      "artwork_path": "cards/274.webp"
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/play/274.webp",
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/274.webp"
     }
   ],
   "balance": {
@@ -13722,5 +13996,10 @@
     "cards": 274,
     "artwork_complete": 274,
     "artwork_pending": 0
+  },
+  "image_delivery": {
+    "provider": "bunny",
+    "public_url": "https://mtg-the-boys.b-cdn.net",
+    "verified_at": "2026-07-23T14:57:05.837911+00:00"
   }
 }
