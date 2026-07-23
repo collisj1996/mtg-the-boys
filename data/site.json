@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T19:39:55.884600+00:00",
+  "generated_at": "2026-07-22T23:55:34.547928+00:00",
   "set": {
     "title": "The Boys",
     "code": "TBY",
     "premise": "The cards should primarily exhibit one of the many shared joke or weird contexts provided by the images, when referencing the same image, be more creative in its direction",
     "tone": "Funny",
-    "target_size": 261,
+    "target_size": 274,
     "play_style": "Draftable Limited",
-    "updated_at": "2026-07-22T09:58:53.247740+00:00"
+    "updated_at": "2026-07-22T23:40:05.689058+00:00"
   },
   "cards": [
     {
@@ -202,6 +202,25 @@
     },
     {
       "collector_number": 11,
+      "name": "Occasion Outfitter",
+      "mana_cost": "{2}{W}",
+      "mana_value": 3.0,
+      "type_line": "Creature — Human Advisor",
+      "oracle_text": "When Occasion Outfitter enters, you may attach target Equipment you control to it.\nWhenever Occasion Outfitter attacks while equipped, another target attacking creature gets +1/+1 until end of turn.",
+      "flavour_text": "“Nearly ready. Adjust the enchantment.”",
+      "rarity": "C",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "colours": [
+        "W"
+      ],
+      "colour_section": "W",
+      "artwork_status": "complete",
+      "artwork_path": "cards/011.webp"
+    },
+    {
+      "collector_number": 12,
       "name": "Unexpected Close-Up",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -217,10 +236,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/011.webp"
+      "artwork_path": "cards/012.webp"
     },
     {
-      "collector_number": 12,
+      "collector_number": 13,
       "name": "Rest Until Morning",
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
@@ -236,10 +255,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/012.webp"
+      "artwork_path": "cards/013.webp"
     },
     {
-      "collector_number": 13,
+      "collector_number": 14,
       "name": "Pauper's Example",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -255,10 +274,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/013.webp"
+      "artwork_path": "cards/014.webp"
     },
     {
-      "collector_number": 14,
+      "collector_number": 15,
       "name": "Festival Stand-In",
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
@@ -274,10 +293,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/014.webp"
+      "artwork_path": "cards/015.webp"
     },
     {
-      "collector_number": 15,
+      "collector_number": 16,
       "name": "Plan for the Whole Table",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -293,10 +312,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/015.webp"
+      "artwork_path": "cards/016.webp"
     },
     {
-      "collector_number": 16,
+      "collector_number": 17,
       "name": "Clubroom Coordinator",
       "mana_cost": "{3}{W}",
       "mana_value": 4.0,
@@ -312,10 +331,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/016.webp"
+      "artwork_path": "cards/017.webp"
     },
     {
-      "collector_number": 17,
+      "collector_number": 18,
       "name": "Archive the Dark Look",
       "mana_cost": "{3}{W}",
       "mana_value": 4.0,
@@ -331,10 +350,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/017.webp"
+      "artwork_path": "cards/018.webp"
     },
     {
-      "collector_number": 18,
+      "collector_number": 19,
       "name": "Ready to Protect",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -350,10 +369,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/018.webp"
+      "artwork_path": "cards/019.webp"
     },
     {
-      "collector_number": 19,
+      "collector_number": 20,
       "name": "General Prohibition",
       "mana_cost": "{X}{W}{W}",
       "mana_value": 2.0,
@@ -369,10 +388,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/019.webp"
+      "artwork_path": "cards/020.webp"
     },
     {
-      "collector_number": 20,
+      "collector_number": 21,
       "name": "Obscure Bedside Witness",
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
@@ -388,10 +407,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/020.webp"
+      "artwork_path": "cards/021.webp"
     },
     {
-      "collector_number": 21,
+      "collector_number": 22,
       "name": "Eight-O'Clock Sentinel",
       "mana_cost": "{4}{W}",
       "mana_value": 5.0,
@@ -407,10 +426,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/021.webp"
+      "artwork_path": "cards/022.webp"
     },
     {
-      "collector_number": 22,
+      "collector_number": 23,
       "name": "Formal Investigation",
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
@@ -426,10 +445,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/022.webp"
+      "artwork_path": "cards/023.webp"
     },
     {
-      "collector_number": 23,
+      "collector_number": 24,
       "name": "Meatloaf's Favourite Chair",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -445,10 +464,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/023.webp"
+      "artwork_path": "cards/024.webp"
     },
     {
-      "collector_number": 24,
+      "collector_number": 25,
       "name": "Ear-Muffed Wayfarer",
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
@@ -464,10 +483,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/024.webp"
+      "artwork_path": "cards/025.webp"
     },
     {
-      "collector_number": 25,
+      "collector_number": 26,
       "name": "Before the Plans Changed",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -483,10 +502,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/025.webp"
+      "artwork_path": "cards/026.webp"
     },
     {
-      "collector_number": 26,
+      "collector_number": 27,
       "name": "Bordan, Meticulous Collector",
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
@@ -502,10 +521,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/026.webp"
+      "artwork_path": "cards/027.webp"
     },
     {
-      "collector_number": 27,
+      "collector_number": 28,
       "name": "Claim the High Ground",
       "mana_cost": "{3}{W}",
       "mana_value": 4.0,
@@ -521,10 +540,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/027.webp"
+      "artwork_path": "cards/028.webp"
     },
     {
-      "collector_number": 28,
+      "collector_number": 29,
       "name": "Two Sides of the Story",
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
@@ -540,10 +559,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/028.webp"
+      "artwork_path": "cards/029.webp"
     },
     {
-      "collector_number": 29,
+      "collector_number": 30,
       "name": "Absurdly Close Documentation",
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
@@ -559,10 +578,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/029.webp"
+      "artwork_path": "cards/030.webp"
     },
     {
-      "collector_number": 30,
+      "collector_number": 31,
       "name": "The Unaccountable Outfit",
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
@@ -578,10 +597,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/030.webp"
+      "artwork_path": "cards/031.webp"
     },
     {
-      "collector_number": 31,
+      "collector_number": 32,
       "name": "Jon, Gentle Colossus",
       "mana_cost": "{4}{W}{W}",
       "mana_value": 6.0,
@@ -597,48 +616,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/031.webp"
-    },
-    {
-      "collector_number": 32,
-      "name": "Matt, the Changed Traveller",
-      "mana_cost": "{3}{W}{W}",
-      "mana_value": 5.0,
-      "type_line": "Legendary Creature — Human Scout",
-      "oracle_text": "Vigilance\nWhenever Matt, the Changed Traveller enters the battlefield or attacks, put a +1/+1 counter on up to one other target creature and attach up to one target Equipment you control to that creature.\nChanged — Other Changed creatures you control have double strike.",
-      "flavour_text": "He waited long enough for the road, the photograph, and eventually everyone else to change.",
-      "rarity": "M",
-      "power": "4",
-      "toughness": "5",
-      "loyalty": null,
-      "colours": [
-        "W"
-      ],
-      "colour_section": "W",
-      "artwork_status": "complete",
       "artwork_path": "cards/032.webp"
     },
     {
       "collector_number": 33,
-      "name": "All Together for the Photograph",
-      "mana_cost": "{5}{W}{W}",
-      "mana_value": 7.0,
-      "type_line": "Sorcery",
-      "oracle_text": "Create a 1/1 white Human creature token for each creature you control. Then put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and indestructible until your next turn.",
-      "flavour_text": "One day, one frame, and enough stories to outlast the archive.",
-      "rarity": "M",
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "colours": [
-        "W"
-      ],
-      "colour_section": "W",
-      "artwork_status": "complete",
-      "artwork_path": "cards/033.webp"
-    },
-    {
-      "collector_number": 34,
       "name": "Jack, the White Beluga",
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
@@ -654,10 +635,10 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
-      "artwork_path": "cards/034.webp"
+      "artwork_path": "cards/033.webp"
     },
     {
-      "collector_number": 35,
+      "collector_number": 34,
       "name": "The Night Remembers Everyone",
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
@@ -673,10 +654,67 @@
       ],
       "colour_section": "W",
       "artwork_status": "complete",
+      "artwork_path": "cards/034.webp"
+    },
+    {
+      "collector_number": 35,
+      "name": "Jack",
+      "mana_cost": "{2}{W}{W}",
+      "mana_value": 4.0,
+      "type_line": "Legendary Planeswalker — Jack",
+      "oracle_text": "+1: Put a +1/+1 counter on each of up to two target creatures. Those creatures gain vigilance until your next turn.\n−3: Exile target nonland permanent until Jack leaves the battlefield. You gain 2 life.\n−8: You get an emblem with “At the beginning of combat on your turn, create two 1/1 white Human creature tokens, then put a +1/+1 counter on each creature you control. Creatures you control gain indestructible until end of turn.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "5",
+      "colours": [
+        "W"
+      ],
+      "colour_section": "W",
+      "artwork_status": "complete",
       "artwork_path": "cards/035.webp"
     },
     {
       "collector_number": 36,
+      "name": "Matt, the Changed Traveller",
+      "mana_cost": "{3}{W}{W}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Creature — Human Scout",
+      "oracle_text": "Vigilance\nWhenever Matt, the Changed Traveller enters the battlefield or attacks, put a +1/+1 counter on up to one other target creature and attach up to one target Equipment you control to that creature.\nChanged — Other Changed creatures you control have double strike.",
+      "flavour_text": "He waited long enough for the road, the photograph, and eventually everyone else to change.",
+      "rarity": "M",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "colours": [
+        "W"
+      ],
+      "colour_section": "W",
+      "artwork_status": "complete",
+      "artwork_path": "cards/036.webp"
+    },
+    {
+      "collector_number": 37,
+      "name": "All Together for the Photograph",
+      "mana_cost": "{5}{W}{W}",
+      "mana_value": 7.0,
+      "type_line": "Sorcery",
+      "oracle_text": "Create a 1/1 white Human creature token for each creature you control. Then put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and indestructible until your next turn.",
+      "flavour_text": "One day, one frame, and enough stories to outlast the archive.",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "W"
+      ],
+      "colour_section": "W",
+      "artwork_status": "complete",
+      "artwork_path": "cards/037.webp"
+    },
+    {
+      "collector_number": 38,
       "name": "Nose for the Next Story",
       "mana_cost": "{U}",
       "mana_value": 1.0,
@@ -692,10 +730,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/036.webp"
+      "artwork_path": "cards/038.webp"
     },
     {
-      "collector_number": 37,
+      "collector_number": 39,
       "name": "Shoreline Impostor",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -711,10 +749,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/037.webp"
+      "artwork_path": "cards/039.webp"
     },
     {
-      "collector_number": 38,
+      "collector_number": 40,
       "name": "Too-Close Archivist",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -730,10 +768,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/038.webp"
+      "artwork_path": "cards/040.webp"
     },
     {
-      "collector_number": 39,
+      "collector_number": 41,
       "name": "Panoramic Recollector",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -749,10 +787,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/039.webp"
+      "artwork_path": "cards/041.webp"
     },
     {
-      "collector_number": 40,
+      "collector_number": 42,
       "name": "Unwrapped Memory-Keeper",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -768,10 +806,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/040.webp"
+      "artwork_path": "cards/042.webp"
     },
     {
-      "collector_number": 41,
+      "collector_number": 43,
       "name": "Zoom-Frame Courier",
       "mana_cost": "{3}{U}",
       "mana_value": 4.0,
@@ -787,10 +825,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/041.webp"
+      "artwork_path": "cards/043.webp"
     },
     {
-      "collector_number": 42,
+      "collector_number": 44,
       "name": "Ancient Punchline",
       "mana_cost": "{5}{U}",
       "mana_value": 6.0,
@@ -806,10 +844,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/042.webp"
+      "artwork_path": "cards/044.webp"
     },
     {
-      "collector_number": 43,
+      "collector_number": 45,
       "name": "Request Denied in General",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -825,10 +863,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/043.webp"
+      "artwork_path": "cards/045.webp"
     },
     {
-      "collector_number": 44,
+      "collector_number": 46,
       "name": "Reality Creases Sideways",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -844,10 +882,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/044.webp"
+      "artwork_path": "cards/046.webp"
     },
     {
-      "collector_number": 45,
+      "collector_number": 47,
       "name": "Sort the Next Version",
       "mana_cost": "{U}",
       "mana_value": 1.0,
@@ -863,10 +901,29 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/045.webp"
+      "artwork_path": "cards/047.webp"
     },
     {
-      "collector_number": 46,
+      "collector_number": 48,
+      "name": "Satisfied Strategist",
+      "mana_cost": "{2}{U}",
+      "mana_value": 3.0,
+      "type_line": "Creature — Human Advisor",
+      "oracle_text": "When Satisfied Strategist enters, if you control a creature with a counter on it, draw a card. Otherwise, scry 2.",
+      "flavour_text": "The smallest change had made the whole plan click.",
+      "rarity": "C",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "colours": [
+        "U"
+      ],
+      "colour_section": "U",
+      "artwork_status": "complete",
+      "artwork_path": "cards/048.webp"
+    },
+    {
+      "collector_number": 49,
       "name": "Overhead Node-Presenter",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -882,10 +939,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/046.webp"
+      "artwork_path": "cards/049.webp"
     },
     {
-      "collector_number": 47,
+      "collector_number": 50,
       "name": "Mask in the Mirror",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -901,10 +958,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/047.webp"
+      "artwork_path": "cards/050.webp"
     },
     {
-      "collector_number": 48,
+      "collector_number": 51,
       "name": "Arcade Sequence-Breaker",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -920,10 +977,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/048.webp"
+      "artwork_path": "cards/051.webp"
     },
     {
-      "collector_number": 49,
+      "collector_number": 52,
       "name": "Buffed Beyond the Draft",
       "mana_cost": "{3}{U}",
       "mana_value": 4.0,
@@ -939,10 +996,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/049.webp"
+      "artwork_path": "cards/052.webp"
     },
     {
-      "collector_number": 50,
+      "collector_number": 53,
       "name": "Please, One Thing at a Time",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -958,10 +1015,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/050.webp"
+      "artwork_path": "cards/053.webp"
     },
     {
-      "collector_number": 51,
+      "collector_number": 54,
       "name": "Waterglass Custodian",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -977,10 +1034,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/051.webp"
+      "artwork_path": "cards/054.webp"
     },
     {
-      "collector_number": 52,
+      "collector_number": 55,
       "name": "Recover the Missing Setup",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -996,10 +1053,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/052.webp"
+      "artwork_path": "cards/055.webp"
     },
     {
-      "collector_number": 53,
+      "collector_number": 56,
       "name": "Manager of New Versions",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -1015,10 +1072,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/053.webp"
+      "artwork_path": "cards/056.webp"
     },
     {
-      "collector_number": 54,
+      "collector_number": 57,
       "name": "Widen the Distortion",
       "mana_cost": "{X}{U}{U}",
       "mana_value": 2.0,
@@ -1034,10 +1091,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/054.webp"
+      "artwork_path": "cards/057.webp"
     },
     {
-      "collector_number": 55,
+      "collector_number": 58,
       "name": "Sleepy Systems Monitor",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -1053,10 +1110,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/055.webp"
+      "artwork_path": "cards/058.webp"
     },
     {
-      "collector_number": 56,
+      "collector_number": 59,
       "name": "Layered Crowd Apparition",
       "mana_cost": "{4}{U}",
       "mana_value": 5.0,
@@ -1072,10 +1129,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/056.webp"
+      "artwork_path": "cards/059.webp"
     },
     {
-      "collector_number": 57,
+      "collector_number": 60,
       "name": "Clear the Unhealthy Haze",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -1091,10 +1148,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/057.webp"
+      "artwork_path": "cards/060.webp"
     },
     {
-      "collector_number": 58,
+      "collector_number": 61,
       "name": "The Frame Cannot Contain Him",
       "mana_cost": "{3}{U}",
       "mana_value": 4.0,
@@ -1110,10 +1167,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/058.webp"
+      "artwork_path": "cards/061.webp"
     },
     {
-      "collector_number": 59,
+      "collector_number": 62,
       "name": "Shoreline Note-Taker",
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
@@ -1129,10 +1186,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/059.webp"
+      "artwork_path": "cards/062.webp"
     },
     {
-      "collector_number": 60,
+      "collector_number": 63,
       "name": "Plans Seen from Every Angle",
       "mana_cost": "{2}{U}{U}",
       "mana_value": 4.0,
@@ -1148,10 +1205,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/060.webp"
+      "artwork_path": "cards/063.webp"
     },
     {
-      "collector_number": 61,
+      "collector_number": 64,
       "name": "James, Broadside Bulwark",
       "mana_cost": "{2}{U}{U}",
       "mana_value": 4.0,
@@ -1167,10 +1224,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/061.webp"
+      "artwork_path": "cards/064.webp"
     },
     {
-      "collector_number": 62,
+      "collector_number": 65,
       "name": "Evidence of the Last Course",
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
@@ -1186,10 +1243,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/062.webp"
+      "artwork_path": "cards/065.webp"
     },
     {
-      "collector_number": 63,
+      "collector_number": 66,
       "name": "Remove the Festive Version",
       "mana_cost": "{1}{U}{U}",
       "mana_value": 3.0,
@@ -1205,10 +1262,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/063.webp"
+      "artwork_path": "cards/066.webp"
     },
     {
-      "collector_number": 64,
+      "collector_number": 67,
       "name": "Another Matt for the Archive",
       "mana_cost": "{3}{U}",
       "mana_value": 4.0,
@@ -1224,10 +1281,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/064.webp"
+      "artwork_path": "cards/067.webp"
     },
     {
-      "collector_number": 65,
+      "collector_number": 68,
       "name": "Post-Bulk Projection",
       "mana_cost": "{3}{U}{U}",
       "mana_value": 5.0,
@@ -1243,10 +1300,10 @@
       ],
       "colour_section": "U",
       "artwork_status": "complete",
-      "artwork_path": "cards/065.webp"
+      "artwork_path": "cards/068.webp"
     },
     {
-      "collector_number": 66,
+      "collector_number": 69,
       "name": "Festival Heat Mirage",
       "mana_cost": "{5}{U}{U}",
       "mana_value": 7.0,
@@ -1256,63 +1313,6 @@
       "rarity": "R",
       "power": "6",
       "toughness": "6",
-      "loyalty": null,
-      "colours": [
-        "U"
-      ],
-      "colour_section": "U",
-      "artwork_status": "complete",
-      "artwork_path": "cards/066.webp"
-    },
-    {
-      "collector_number": 67,
-      "name": "Matt, Simulation Mastermind",
-      "mana_cost": "{3}{U}{U}",
-      "mana_value": 5.0,
-      "type_line": "Legendary Creature — Human Artificer",
-      "oracle_text": "Ward {2}\nWhenever Matt enters the battlefield or attacks, recount 4.\nOnce during each of your turns, when you put an instant or sorcery card into your graveyard while recounting, you may copy that card. You may cast the copy without paying its mana cost if its mana value is 2 or less.",
-      "flavour_text": "Every match was simulated perfectly, including the parts nobody understood.",
-      "rarity": "M",
-      "power": "4",
-      "toughness": "5",
-      "loyalty": null,
-      "colours": [
-        "U"
-      ],
-      "colour_section": "U",
-      "artwork_status": "complete",
-      "artwork_path": "cards/067.webp"
-    },
-    {
-      "collector_number": 68,
-      "name": "The Tikka Incident",
-      "mana_cost": "{4}{U}{U}",
-      "mana_value": 6.0,
-      "type_line": "Sorcery",
-      "oracle_text": "For each artifact token you control, create a token that's a copy of it.\nTap all nonland permanents your opponents control. They don't untap during their controllers' next untap steps.",
-      "flavour_text": "One photograph became two, then four, and eventually an official incident.",
-      "rarity": "M",
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "colours": [
-        "U"
-      ],
-      "colour_section": "U",
-      "artwork_status": "complete",
-      "artwork_path": "cards/068.webp"
-    },
-    {
-      "collector_number": 69,
-      "name": "Matt Beyond the Margins",
-      "mana_cost": "{5}{U}{U}",
-      "mana_value": 7.0,
-      "type_line": "Legendary Creature — Human Illusion",
-      "oracle_text": "Ward {3}\nMatt Beyond the Margins has power and toughness each equal to the number of cards in your hand plus the number of artifacts you control.\nWhenever Matt attacks, draw two cards, then return up to one other target nonland permanent to its owner's hand.",
-      "flavour_text": "The frame expanded until scale became a matter of opinion.",
-      "rarity": "M",
-      "power": "*",
-      "toughness": "*",
       "loyalty": null,
       "colours": [
         "U"
@@ -1342,6 +1342,82 @@
     },
     {
       "collector_number": 71,
+      "name": "Adam",
+      "mana_cost": "{2}{U}{U}",
+      "mana_value": 4.0,
+      "type_line": "Legendary Planeswalker — Adam",
+      "oracle_text": "+1: Draw a card, then recount 3.\n−2: Create two Clue tokens. Tap up to one target nonland permanent. It doesn’t untap during its controller’s next untap step.\n−8: You get an emblem with “Whenever you cast an instant or sorcery spell, copy that spell. You may choose new targets for the copy.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "5",
+      "colours": [
+        "U"
+      ],
+      "colour_section": "U",
+      "artwork_status": "complete",
+      "artwork_path": "cards/071.webp"
+    },
+    {
+      "collector_number": 72,
+      "name": "Matt, Simulation Mastermind",
+      "mana_cost": "{3}{U}{U}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Creature — Human Artificer",
+      "oracle_text": "Ward {2}\nWhenever Matt enters the battlefield or attacks, recount 4.\nOnce during each of your turns, when you put an instant or sorcery card into your graveyard while recounting, you may copy that card. You may cast the copy without paying its mana cost if its mana value is 2 or less.",
+      "flavour_text": "Every match was simulated perfectly, including the parts nobody understood.",
+      "rarity": "M",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "colours": [
+        "U"
+      ],
+      "colour_section": "U",
+      "artwork_status": "complete",
+      "artwork_path": "cards/072.webp"
+    },
+    {
+      "collector_number": 73,
+      "name": "The Tikka Incident",
+      "mana_cost": "{4}{U}{U}",
+      "mana_value": 6.0,
+      "type_line": "Sorcery",
+      "oracle_text": "For each artifact token you control, create a token that's a copy of it.\nTap all nonland permanents your opponents control. They don't untap during their controllers' next untap steps.",
+      "flavour_text": "One photograph became two, then four, and eventually an official incident.",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "U"
+      ],
+      "colour_section": "U",
+      "artwork_status": "complete",
+      "artwork_path": "cards/073.webp"
+    },
+    {
+      "collector_number": 74,
+      "name": "Matt Beyond the Margins",
+      "mana_cost": "{5}{U}{U}",
+      "mana_value": 7.0,
+      "type_line": "Legendary Creature — Human Illusion",
+      "oracle_text": "Ward {3}\nMatt Beyond the Margins has power and toughness each equal to the number of cards in your hand plus the number of artifacts you control.\nWhenever Matt attacks, draw two cards, then return up to one other target nonland permanent to its owner's hand.",
+      "flavour_text": "The frame expanded until scale became a matter of opinion.",
+      "rarity": "M",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "colours": [
+        "U"
+      ],
+      "colour_section": "U",
+      "artwork_status": "complete",
+      "artwork_path": "cards/074.webp"
+    },
+    {
+      "collector_number": 75,
       "name": "Melted-Rig Sprinter",
       "mana_cost": "{B}",
       "mana_value": 1.0,
@@ -1357,10 +1433,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/071.webp"
+      "artwork_path": "cards/075.webp"
     },
     {
-      "collector_number": 72,
+      "collector_number": 76,
       "name": "Tikka Table Scrounger",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1376,10 +1452,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/072.webp"
+      "artwork_path": "cards/076.webp"
     },
     {
-      "collector_number": 73,
+      "collector_number": 77,
       "name": "Sombrero-Shaped Suspect",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1395,10 +1471,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/073.webp"
+      "artwork_path": "cards/077.webp"
     },
     {
-      "collector_number": 74,
+      "collector_number": 78,
       "name": "Aviator Dealbroker",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1414,10 +1490,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/074.webp"
+      "artwork_path": "cards/078.webp"
     },
     {
-      "collector_number": 75,
+      "collector_number": 79,
       "name": "Midlife Asset Keeper",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1433,10 +1509,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/075.webp"
+      "artwork_path": "cards/079.webp"
     },
     {
-      "collector_number": 76,
+      "collector_number": 80,
       "name": "Last Voice by the Fire",
       "mana_cost": "{3}{B}",
       "mana_value": 4.0,
@@ -1452,10 +1528,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/076.webp"
+      "artwork_path": "cards/080.webp"
     },
     {
-      "collector_number": 77,
+      "collector_number": 81,
       "name": "Shackle-Break Dependable",
       "mana_cost": "{4}{B}",
       "mana_value": 5.0,
@@ -1471,10 +1547,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/077.webp"
+      "artwork_path": "cards/081.webp"
     },
     {
-      "collector_number": 78,
+      "collector_number": 82,
       "name": "A Hundred and Fourteen Past Safe",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1490,10 +1566,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/078.webp"
+      "artwork_path": "cards/082.webp"
     },
     {
-      "collector_number": 79,
+      "collector_number": 83,
       "name": "Lost Beyond the Footpath",
       "mana_cost": "{4}{B}",
       "mana_value": 5.0,
@@ -1509,10 +1585,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/079.webp"
+      "artwork_path": "cards/083.webp"
     },
     {
-      "collector_number": 80,
+      "collector_number": 84,
       "name": "Embers of the Retelling",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1528,10 +1604,29 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/080.webp"
+      "artwork_path": "cards/084.webp"
     },
     {
-      "collector_number": 81,
+      "collector_number": 85,
+      "name": "Monochrome Pleader",
+      "mana_cost": "{2}{B}",
+      "mana_value": 3.0,
+      "type_line": "Creature — Human Rogue",
+      "oracle_text": "When Monochrome Pleader enters, mill two cards.\nWhenever you sacrifice a Clue, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn.",
+      "flavour_text": "Every fragment repeated the same impossible request.",
+      "rarity": "C",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "colours": [
+        "B"
+      ],
+      "colour_section": "B",
+      "artwork_status": "complete",
+      "artwork_path": "cards/085.webp"
+    },
+    {
+      "collector_number": 86,
       "name": "Mask-Shard Interrogator",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1547,10 +1642,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/081.webp"
+      "artwork_path": "cards/086.webp"
     },
     {
-      "collector_number": 82,
+      "collector_number": 87,
       "name": "After-Hours Caretaker",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1566,10 +1661,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/082.webp"
+      "artwork_path": "cards/087.webp"
     },
     {
-      "collector_number": 83,
+      "collector_number": 88,
       "name": "Keeper of Abandoned Plates",
       "mana_cost": "{3}{B}",
       "mana_value": 4.0,
@@ -1585,10 +1680,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/083.webp"
+      "artwork_path": "cards/088.webp"
     },
     {
-      "collector_number": 84,
+      "collector_number": 89,
       "name": "Change-Order Enforcer",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1604,10 +1699,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/084.webp"
+      "artwork_path": "cards/089.webp"
     },
     {
-      "collector_number": 85,
+      "collector_number": 90,
       "name": "Party Past the Evidence",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1623,10 +1718,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/085.webp"
+      "artwork_path": "cards/090.webp"
     },
     {
-      "collector_number": 86,
+      "collector_number": 91,
       "name": "Custodian of Spare Change",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1642,10 +1737,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/086.webp"
+      "artwork_path": "cards/091.webp"
     },
     {
-      "collector_number": 87,
+      "collector_number": 92,
       "name": "Wake the Old Punchline",
       "mana_cost": "{3}{B}",
       "mana_value": 4.0,
@@ -1661,10 +1756,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/087.webp"
+      "artwork_path": "cards/092.webp"
     },
     {
-      "collector_number": 88,
+      "collector_number": 93,
       "name": "Discarded Version Stalker",
       "mana_cost": "{B}",
       "mana_value": 1.0,
@@ -1680,10 +1775,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/088.webp"
+      "artwork_path": "cards/093.webp"
     },
     {
-      "collector_number": 89,
+      "collector_number": 94,
       "name": "Compress the Unflattering Angle",
       "mana_cost": "{X}{B}",
       "mana_value": 1.0,
@@ -1699,10 +1794,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/089.webp"
+      "artwork_path": "cards/094.webp"
     },
     {
-      "collector_number": 90,
+      "collector_number": 95,
       "name": "Sofa-Bound Informant",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1718,10 +1813,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/090.webp"
+      "artwork_path": "cards/095.webp"
     },
     {
-      "collector_number": 91,
+      "collector_number": 96,
       "name": "Too Large for the Alibi",
       "mana_cost": "{5}{B}",
       "mana_value": 6.0,
@@ -1737,10 +1832,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/091.webp"
+      "artwork_path": "cards/096.webp"
     },
     {
-      "collector_number": 92,
+      "collector_number": 97,
       "name": "Strike It from the Record",
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
@@ -1756,10 +1851,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/092.webp"
+      "artwork_path": "cards/097.webp"
     },
     {
-      "collector_number": 93,
+      "collector_number": 98,
       "name": "The Chins Convene",
       "mana_cost": "{3}{B}",
       "mana_value": 4.0,
@@ -1775,10 +1870,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/093.webp"
+      "artwork_path": "cards/098.webp"
     },
     {
-      "collector_number": 94,
+      "collector_number": 99,
       "name": "Dependable Loose End",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1794,10 +1889,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/094.webp"
+      "artwork_path": "cards/099.webp"
     },
     {
-      "collector_number": 95,
+      "collector_number": 100,
       "name": "Every Story Leaves Something",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1813,10 +1908,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/095.webp"
+      "artwork_path": "cards/100.webp"
     },
     {
-      "collector_number": 96,
+      "collector_number": 101,
       "name": "Oliver, Last One Standing",
       "mana_cost": "{3}{B}{B}",
       "mana_value": 5.0,
@@ -1832,10 +1927,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/096.webp"
+      "artwork_path": "cards/101.webp"
     },
     {
-      "collector_number": 97,
+      "collector_number": 102,
       "name": "Archive of Unwanted Versions",
       "mana_cost": "{2}{B}{B}",
       "mana_value": 4.0,
@@ -1851,10 +1946,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/097.webp"
+      "artwork_path": "cards/102.webp"
     },
     {
-      "collector_number": 98,
+      "collector_number": 103,
       "name": "No Exceptions in General",
       "mana_cost": "{3}{B}{B}",
       "mana_value": 5.0,
@@ -1870,10 +1965,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/098.webp"
+      "artwork_path": "cards/103.webp"
     },
     {
-      "collector_number": 99,
+      "collector_number": 104,
       "name": "Waterglass Black Market",
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
@@ -1889,10 +1984,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/099.webp"
+      "artwork_path": "cards/104.webp"
     },
     {
-      "collector_number": 100,
+      "collector_number": 105,
       "name": "Panorama Eats the Witness",
       "mana_cost": "{2}{B}{B}",
       "mana_value": 4.0,
@@ -1908,10 +2003,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/100.webp"
+      "artwork_path": "cards/105.webp"
     },
     {
-      "collector_number": 101,
+      "collector_number": 106,
       "name": "The Feast That Wouldn't End",
       "mana_cost": "{5}{B}{B}",
       "mana_value": 7.0,
@@ -1927,67 +2022,10 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/101.webp"
+      "artwork_path": "cards/106.webp"
     },
     {
-      "collector_number": 102,
-      "name": "Adam, Liability Uncontained",
-      "mana_cost": "{3}{B}{B}",
-      "mana_value": 5.0,
-      "type_line": "Legendary Creature — Human Warlock",
-      "oracle_text": "Menace, lifelink\nWhenever Adam, Liability Uncontained attacks, you may sacrifice another permanent. When you do, return target permanent card with lesser mana value from your graveyard to the battlefield tapped. This ability triggers only once each turn.",
-      "flavour_text": "“Yeah, it's safe.” The archive recorded these as his final words on the matter.",
-      "rarity": "M",
-      "power": "5",
-      "toughness": "4",
-      "loyalty": null,
-      "colours": [
-        "B"
-      ],
-      "colour_section": "B",
-      "artwork_status": "complete",
-      "artwork_path": "cards/102.webp"
-    },
-    {
-      "collector_number": 103,
-      "name": "One Last Story Before Bed",
-      "mana_cost": "{4}{B}{B}",
-      "mana_value": 6.0,
-      "type_line": "Sorcery",
-      "oracle_text": "Return up to two target creature cards from your graveyard to the battlefield. Put a finality counter on each of them.",
-      "flavour_text": "At eight o'clock, every tale ended. One was permitted to begin again.",
-      "rarity": "M",
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "colours": [
-        "B"
-      ],
-      "colour_section": "B",
-      "artwork_status": "complete",
-      "artwork_path": "cards/103.webp"
-    },
-    {
-      "collector_number": 104,
-      "name": "James, Panorama Devourer",
-      "mana_cost": "{4}{B}{B}",
-      "mana_value": 6.0,
-      "type_line": "Legendary Creature — Human Horror",
-      "oracle_text": "Menace\nWhen James, Panorama Devourer enters the battlefield, exile all creature cards from graveyards.\nJames has base power and toughness each equal to 3 plus the number of cards exiled with it.\nWhen James leaves the battlefield, put the cards exiled with it into their owners' graveyards.",
-      "flavour_text": "The photograph stretched until every discarded version fit behind his smile.",
-      "rarity": "M",
-      "power": "3+*",
-      "toughness": "3+*",
-      "loyalty": null,
-      "colours": [
-        "B"
-      ],
-      "colour_section": "B",
-      "artwork_status": "complete",
-      "artwork_path": "cards/104.webp"
-    },
-    {
-      "collector_number": 105,
+      "collector_number": 107,
       "name": "Nothing Truly Leaves the Table",
       "mana_cost": "{2}{B}{B}",
       "mana_value": 4.0,
@@ -2003,10 +2041,86 @@
       ],
       "colour_section": "B",
       "artwork_status": "complete",
-      "artwork_path": "cards/105.webp"
+      "artwork_path": "cards/107.webp"
     },
     {
-      "collector_number": 106,
+      "collector_number": 108,
+      "name": "Jordan",
+      "mana_cost": "{2}{B}{B}",
+      "mana_value": 4.0,
+      "type_line": "Legendary Planeswalker — Jordan",
+      "oracle_text": "+1: Create a tapped Treasure token. Each opponent loses 1 life and you gain 1 life.\n−2: Return target artifact card with mana value 4 or less from your graveyard to the battlefield.\n−8: You get an emblem with “Whenever an artifact you control is put into a graveyard from the battlefield, draw a card and each opponent loses 1 life.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "5",
+      "colours": [
+        "B"
+      ],
+      "colour_section": "B",
+      "artwork_status": "complete",
+      "artwork_path": "cards/108.webp"
+    },
+    {
+      "collector_number": 109,
+      "name": "Adam, Liability Uncontained",
+      "mana_cost": "{3}{B}{B}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Creature — Human Warlock",
+      "oracle_text": "Menace, lifelink\nWhenever Adam, Liability Uncontained attacks, you may sacrifice another permanent. When you do, return target permanent card with lesser mana value from your graveyard to the battlefield tapped. This ability triggers only once each turn.",
+      "flavour_text": "“Yeah, it's safe.” The archive recorded these as his final words on the matter.",
+      "rarity": "M",
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "colours": [
+        "B"
+      ],
+      "colour_section": "B",
+      "artwork_status": "complete",
+      "artwork_path": "cards/109.webp"
+    },
+    {
+      "collector_number": 110,
+      "name": "One Last Story Before Bed",
+      "mana_cost": "{4}{B}{B}",
+      "mana_value": 6.0,
+      "type_line": "Sorcery",
+      "oracle_text": "Return up to two target creature cards from your graveyard to the battlefield. Put a finality counter on each of them.",
+      "flavour_text": "At eight o'clock, every tale ended. One was permitted to begin again.",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "B"
+      ],
+      "colour_section": "B",
+      "artwork_status": "complete",
+      "artwork_path": "cards/110.webp"
+    },
+    {
+      "collector_number": 111,
+      "name": "James, Panorama Devourer",
+      "mana_cost": "{4}{B}{B}",
+      "mana_value": 6.0,
+      "type_line": "Legendary Creature — Human Horror",
+      "oracle_text": "Menace\nWhen James, Panorama Devourer enters the battlefield, exile all creature cards from graveyards.\nJames has base power and toughness each equal to 3 plus the number of cards exiled with it.\nWhen James leaves the battlefield, put the cards exiled with it into their owners' graveyards.",
+      "flavour_text": "The photograph stretched until every discarded version fit behind his smile.",
+      "rarity": "M",
+      "power": "3+*",
+      "toughness": "3+*",
+      "loyalty": null,
+      "colours": [
+        "B"
+      ],
+      "colour_section": "B",
+      "artwork_status": "complete",
+      "artwork_path": "cards/111.webp"
+    },
+    {
+      "collector_number": 112,
       "name": "Melted-Rig Spark",
       "mana_cost": "{R}",
       "mana_value": 1.0,
@@ -2022,15 +2136,15 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/106.webp"
+      "artwork_path": "cards/112.webp"
     },
     {
-      "collector_number": 107,
+      "collector_number": 113,
       "name": "After-Party Scavenger",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Reveler",
-      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, After-Party Scavenger gets +1/+0 until end of turn. This ability triggers only once each turn.\nWhen After-Party Scavenger dies, create a tapped Treasure token.",
+      "oracle_text": "At the beginning of combat on your turn, you may sacrifice an artifact. When you do, After-Party Scavenger gets +1/+0 and gains menace until end of turn.",
       "flavour_text": "Jack found value in everything the night had misplaced.",
       "rarity": "C",
       "power": "2",
@@ -2041,10 +2155,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/107.webp"
+      "artwork_path": "cards/113.webp"
     },
     {
-      "collector_number": 108,
+      "collector_number": 114,
       "name": "Festival Kit Runner",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
@@ -2060,10 +2174,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/108.webp"
+      "artwork_path": "cards/114.webp"
     },
     {
-      "collector_number": 109,
+      "collector_number": 115,
       "name": "Change-Order Hothead",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2079,10 +2193,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/109.webp"
+      "artwork_path": "cards/115.webp"
     },
     {
-      "collector_number": 110,
+      "collector_number": 116,
       "name": "Bots-and-Bans Broker",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2098,10 +2212,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/110.webp"
+      "artwork_path": "cards/116.webp"
     },
     {
-      "collector_number": 111,
+      "collector_number": 117,
       "name": "Sunburnt Stagecrasher",
       "mana_cost": "{3}{R}",
       "mana_value": 4.0,
@@ -2117,10 +2231,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/111.webp"
+      "artwork_path": "cards/117.webp"
     },
     {
-      "collector_number": 112,
+      "collector_number": 118,
       "name": "Jon at Full Momentum",
       "mana_cost": "{4}{R}",
       "mana_value": 5.0,
@@ -2136,15 +2250,15 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/112.webp"
+      "artwork_path": "cards/118.webp"
     },
     {
-      "collector_number": 113,
+      "collector_number": 119,
       "name": "Frame-Searing Retort",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
       "type_line": "Instant",
-      "oracle_text": "Frame-Searing Retort deals 3 damage to target creature. If you cast another instant or sorcery spell this turn, it deals 4 damage to that creature instead.",
+      "oracle_text": "Frame-Searing Retort deals 2 damage to any target. If you sacrificed a permanent this turn, it deals 3 damage instead.",
       "flavour_text": "The second version of the story arrived hotter and considerably shorter.",
       "rarity": "C",
       "power": null,
@@ -2155,10 +2269,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/113.webp"
+      "artwork_path": "cards/119.webp"
     },
     {
-      "collector_number": 114,
+      "collector_number": 120,
       "name": "Yeah, It's Still Safe",
       "mana_cost": "{R}",
       "mana_value": 1.0,
@@ -2174,10 +2288,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/114.webp"
+      "artwork_path": "cards/120.webp"
     },
     {
-      "collector_number": 115,
+      "collector_number": 121,
       "name": "Heese, Freshly Cut",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
@@ -2193,10 +2307,29 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/115.webp"
+      "artwork_path": "cards/121.webp"
     },
     {
-      "collector_number": 116,
+      "collector_number": 122,
+      "name": "Story Sparks Again",
+      "mana_cost": "{1}{R}",
+      "mana_value": 2.0,
+      "type_line": "Instant",
+      "oracle_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards. If this is the second spell you cast this turn, create a tapped Treasure token.",
+      "flavour_text": "The fire heard the tale and offered its own ending.",
+      "rarity": "C",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "R"
+      ],
+      "colour_section": "R",
+      "artwork_status": "complete",
+      "artwork_path": "cards/122.webp"
+    },
+    {
+      "collector_number": 123,
       "name": "Last Call Firekeeper",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2212,10 +2345,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/116.webp"
+      "artwork_path": "cards/123.webp"
     },
     {
-      "collector_number": 117,
+      "collector_number": 124,
       "name": "Arcade Combo-Chaser",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
@@ -2231,10 +2364,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/117.webp"
+      "artwork_path": "cards/124.webp"
     },
     {
-      "collector_number": 118,
+      "collector_number": 125,
       "name": "Wardrobe Change Captain",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2250,10 +2383,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/118.webp"
+      "artwork_path": "cards/125.webp"
     },
     {
-      "collector_number": 119,
+      "collector_number": 126,
       "name": "Boulder-Top Instigator",
       "mana_cost": "{3}{R}",
       "mana_value": 4.0,
@@ -2269,10 +2402,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/119.webp"
+      "artwork_path": "cards/126.webp"
     },
     {
-      "collector_number": 120,
+      "collector_number": 127,
       "name": "The Round Remembers",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2288,10 +2421,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/120.webp"
+      "artwork_path": "cards/127.webp"
     },
     {
-      "collector_number": 121,
+      "collector_number": 128,
       "name": "Beachside Last-Bite Dealer",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
@@ -2307,10 +2440,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/121.webp"
+      "artwork_path": "cards/128.webp"
     },
     {
-      "collector_number": 122,
+      "collector_number": 129,
       "name": "Breakfast Comes Around",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2326,10 +2459,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/122.webp"
+      "artwork_path": "cards/129.webp"
     },
     {
-      "collector_number": 123,
+      "collector_number": 130,
       "name": "Suit-Up Firebrand",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
@@ -2345,10 +2478,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/123.webp"
+      "artwork_path": "cards/130.webp"
     },
     {
-      "collector_number": 124,
+      "collector_number": 131,
       "name": "Escalating Response",
       "mana_cost": "{X}{R}",
       "mana_value": 1.0,
@@ -2364,10 +2497,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/124.webp"
+      "artwork_path": "cards/131.webp"
     },
     {
-      "collector_number": 125,
+      "collector_number": 132,
       "name": "Startled Sparkguard",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2383,10 +2516,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/125.webp"
+      "artwork_path": "cards/132.webp"
     },
     {
-      "collector_number": 126,
+      "collector_number": 133,
       "name": "Protector at Full Tension",
       "mana_cost": "{4}{R}",
       "mana_value": 5.0,
@@ -2402,10 +2535,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/126.webp"
+      "artwork_path": "cards/133.webp"
     },
     {
-      "collector_number": 127,
+      "collector_number": 134,
       "name": "Clear the Clutter",
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
@@ -2421,10 +2554,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/127.webp"
+      "artwork_path": "cards/134.webp"
     },
     {
-      "collector_number": 128,
+      "collector_number": 135,
       "name": "Beluga Breach",
       "mana_cost": "{3}{R}",
       "mana_value": 4.0,
@@ -2440,10 +2573,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/128.webp"
+      "artwork_path": "cards/135.webp"
     },
     {
-      "collector_number": 129,
+      "collector_number": 136,
       "name": "Broadside Sparring Partner",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2459,10 +2592,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/129.webp"
+      "artwork_path": "cards/136.webp"
     },
     {
-      "collector_number": 130,
+      "collector_number": 137,
       "name": "Stories Catch Fire",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2478,10 +2611,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/130.webp"
+      "artwork_path": "cards/137.webp"
     },
     {
-      "collector_number": 131,
+      "collector_number": 138,
       "name": "Jon, Unstoppable Close-Up",
       "mana_cost": "{2}{R}{R}",
       "mana_value": 4.0,
@@ -2497,10 +2630,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/131.webp"
+      "artwork_path": "cards/138.webp"
     },
     {
-      "collector_number": 132,
+      "collector_number": 139,
       "name": "Every Version Runs Hotter",
       "mana_cost": "{3}{R}",
       "mana_value": 4.0,
@@ -2516,10 +2649,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/132.webp"
+      "artwork_path": "cards/139.webp"
     },
     {
-      "collector_number": 133,
+      "collector_number": 140,
       "name": "Refuse the Revised Outcome",
       "mana_cost": "{1}{R}{R}",
       "mana_value": 3.0,
@@ -2535,10 +2668,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/133.webp"
+      "artwork_path": "cards/140.webp"
     },
     {
-      "collector_number": 134,
+      "collector_number": 141,
       "name": "The Traveller's Spare Kit",
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
@@ -2554,10 +2687,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/134.webp"
+      "artwork_path": "cards/141.webp"
     },
     {
-      "collector_number": 135,
+      "collector_number": 142,
       "name": "Too Wide for One Reality",
       "mana_cost": "{3}{R}{R}",
       "mana_value": 5.0,
@@ -2573,10 +2706,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/135.webp"
+      "artwork_path": "cards/142.webp"
     },
     {
-      "collector_number": 136,
+      "collector_number": 143,
       "name": "Bulk-Fed Juggernaut",
       "mana_cost": "{5}{R}",
       "mana_value": 6.0,
@@ -2592,67 +2725,10 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/136.webp"
+      "artwork_path": "cards/143.webp"
     },
     {
-      "collector_number": 137,
-      "name": "Oliver, Change Set Ablaze",
-      "mana_cost": "{3}{R}{R}",
-      "mana_value": 5.0,
-      "type_line": "Legendary Creature — Human Advisor",
-      "oracle_text": "Haste\nWhenever Oliver, Change Set Ablaze attacks, exile the top two cards of your library. You may play one of them this turn.\nWhenever you play a card from exile, create a tapped Treasure token and put a +1/+1 counter on Oliver. This ability triggers only once each turn.",
-      "flavour_text": "Every sensible revision contained one line nobody remembered approving: “Proceed at full speed.”",
-      "rarity": "M",
-      "power": "4",
-      "toughness": "4",
-      "loyalty": null,
-      "colours": [
-        "R"
-      ],
-      "colour_section": "R",
-      "artwork_status": "complete",
-      "artwork_path": "cards/137.webp"
-    },
-    {
-      "collector_number": 138,
-      "name": "The Rig Reaches Critical Speed",
-      "mana_cost": "{4}{R}{R}",
-      "mana_value": 6.0,
-      "type_line": "Sorcery",
-      "oracle_text": "The Rig Reaches Critical Speed deals 6 damage to each creature and each planeswalker.\nFor each permanent dealt excess damage this way, create a tapped Treasure token.\nExile The Rig Reaches Critical Speed.",
-      "flavour_text": "The camera recorded six frames. None agreed on where Matt had been.",
-      "rarity": "M",
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "colours": [
-        "R"
-      ],
-      "colour_section": "R",
-      "artwork_status": "complete",
-      "artwork_path": "cards/138.webp"
-    },
-    {
-      "collector_number": 139,
-      "name": "James, Horizon-Wide Impact",
-      "mana_cost": "{4}{R}{R}",
-      "mana_value": 6.0,
-      "type_line": "Legendary Creature — Human Giant",
-      "oracle_text": "Trample\nWhen James, Horizon-Wide Impact enters the battlefield, it deals damage equal to its power divided as you choose among any number of target creatures and planeswalkers your opponents control.\nWhenever James is dealt damage, put that many +1/+1 counters on him at the beginning of the next end step.",
-      "flavour_text": "The panorama attempted to contain James. The panorama required reinforcement.",
-      "rarity": "M",
-      "power": "5",
-      "toughness": "5",
-      "loyalty": null,
-      "colours": [
-        "R"
-      ],
-      "colour_section": "R",
-      "artwork_status": "complete",
-      "artwork_path": "cards/139.webp"
-    },
-    {
-      "collector_number": 140,
+      "collector_number": 144,
       "name": "The Story Demands Another Round",
       "mana_cost": "{2}{R}{R}",
       "mana_value": 4.0,
@@ -2668,10 +2744,86 @@
       ],
       "colour_section": "R",
       "artwork_status": "complete",
-      "artwork_path": "cards/140.webp"
+      "artwork_path": "cards/144.webp"
     },
     {
-      "collector_number": 141,
+      "collector_number": 145,
+      "name": "Oliver",
+      "mana_cost": "{2}{R}{R}",
+      "mana_value": 4.0,
+      "type_line": "Legendary Planeswalker — Oliver",
+      "oracle_text": "+1: Exile the top two cards of your library. You may play one of them until the end of your next turn.\n−2: Oliver deals 4 damage to any target. If a permanent dealt damage this way dies this turn, create a Treasure token.\n−8: You get an emblem with “You may play cards you own from exile” and “Whenever you cast a spell from exile, copy it. You may choose new targets for the copy.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "5",
+      "colours": [
+        "R"
+      ],
+      "colour_section": "R",
+      "artwork_status": "complete",
+      "artwork_path": "cards/145.webp"
+    },
+    {
+      "collector_number": 146,
+      "name": "Oliver, Change Set Ablaze",
+      "mana_cost": "{3}{R}{R}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Creature — Human Advisor",
+      "oracle_text": "Haste\nWhenever Oliver, Change Set Ablaze attacks, exile the top two cards of your library. You may play one of them this turn.\nWhenever you play a card from exile, create a tapped Treasure token and put a +1/+1 counter on Oliver. This ability triggers only once each turn.",
+      "flavour_text": "Every sensible revision contained one line nobody remembered approving: “Proceed at full speed.”",
+      "rarity": "M",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "colours": [
+        "R"
+      ],
+      "colour_section": "R",
+      "artwork_status": "complete",
+      "artwork_path": "cards/146.webp"
+    },
+    {
+      "collector_number": 147,
+      "name": "The Rig Reaches Critical Speed",
+      "mana_cost": "{4}{R}{R}",
+      "mana_value": 6.0,
+      "type_line": "Sorcery",
+      "oracle_text": "The Rig Reaches Critical Speed deals 6 damage to each creature and each planeswalker.\nFor each permanent dealt excess damage this way, create a tapped Treasure token.\nExile The Rig Reaches Critical Speed.",
+      "flavour_text": "The camera recorded six frames. None agreed on where Matt had been.",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "R"
+      ],
+      "colour_section": "R",
+      "artwork_status": "complete",
+      "artwork_path": "cards/147.webp"
+    },
+    {
+      "collector_number": 148,
+      "name": "James, Horizon-Wide Impact",
+      "mana_cost": "{4}{R}{R}",
+      "mana_value": 6.0,
+      "type_line": "Legendary Creature — Human Giant",
+      "oracle_text": "Trample\nWhen James, Horizon-Wide Impact enters the battlefield, it deals damage equal to its power divided as you choose among any number of target creatures and planeswalkers your opponents control.\nWhenever James is dealt damage, put that many +1/+1 counters on him at the beginning of the next end step.",
+      "flavour_text": "The panorama attempted to contain James. The panorama required reinforcement.",
+      "rarity": "M",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "colours": [
+        "R"
+      ],
+      "colour_section": "R",
+      "artwork_status": "complete",
+      "artwork_path": "cards/148.webp"
+    },
+    {
+      "collector_number": 149,
       "name": "Bedroom Sproutwatcher",
       "mana_cost": "{G}",
       "mana_value": 1.0,
@@ -2687,10 +2839,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/141.webp"
+      "artwork_path": "cards/149.webp"
     },
     {
-      "collector_number": 142,
+      "collector_number": 150,
       "name": "Sofa-Side Tender",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -2706,10 +2858,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/142.webp"
+      "artwork_path": "cards/150.webp"
     },
     {
-      "collector_number": 143,
+      "collector_number": 151,
       "name": "Humble Garden Helper",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -2725,10 +2877,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/143.webp"
+      "artwork_path": "cards/151.webp"
     },
     {
-      "collector_number": 144,
+      "collector_number": 152,
       "name": "Smiling Growth Coach",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2744,10 +2896,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/144.webp"
+      "artwork_path": "cards/152.webp"
     },
     {
-      "collector_number": 145,
+      "collector_number": 153,
       "name": "Last-Course Forager",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2763,10 +2915,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/145.webp"
+      "artwork_path": "cards/153.webp"
     },
     {
-      "collector_number": 146,
+      "collector_number": 154,
       "name": "Waterside Flock-Impostor",
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
@@ -2782,10 +2934,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/146.webp"
+      "artwork_path": "cards/154.webp"
     },
     {
-      "collector_number": 147,
+      "collector_number": 155,
       "name": "Generated Grove Champion",
       "mana_cost": "{5}{G}",
       "mana_value": 6.0,
@@ -2801,10 +2953,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/147.webp"
+      "artwork_path": "cards/155.webp"
     },
     {
-      "collector_number": 148,
+      "collector_number": 156,
       "name": "Wake the Heavy Hitter",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -2820,10 +2972,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/148.webp"
+      "artwork_path": "cards/156.webp"
     },
     {
-      "collector_number": 149,
+      "collector_number": 157,
       "name": "Another Matt Steps Forward",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -2839,10 +2991,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/149.webp"
+      "artwork_path": "cards/157.webp"
     },
     {
-      "collector_number": 150,
+      "collector_number": 158,
       "name": "Earlier Roots",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2858,10 +3010,29 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/150.webp"
+      "artwork_path": "cards/158.webp"
     },
     {
-      "collector_number": 151,
+      "collector_number": 159,
+      "name": "Impossible Training Montage",
+      "mana_cost": "{2}{G}",
+      "mana_value": 3.0,
+      "type_line": "Sorcery",
+      "oracle_text": "Put two +1/+1 counters on target creature you control. It gains trample until end of turn.",
+      "flavour_text": "The portrait promised results reality had never attempted.",
+      "rarity": "C",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "G"
+      ],
+      "colour_section": "G",
+      "artwork_status": "complete",
+      "artwork_path": "cards/159.webp"
+    },
+    {
+      "collector_number": 160,
       "name": "Bulk-Plan Trailblazer",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2877,10 +3048,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/151.webp"
+      "artwork_path": "cards/160.webp"
     },
     {
-      "collector_number": 152,
+      "collector_number": 161,
       "name": "Tikka-Garden Recycler",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2896,10 +3067,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/152.webp"
+      "artwork_path": "cards/161.webp"
     },
     {
-      "collector_number": 153,
+      "collector_number": 162,
       "name": "Pantry-Fed Pathfinder",
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
@@ -2915,10 +3086,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/153.webp"
+      "artwork_path": "cards/162.webp"
     },
     {
-      "collector_number": 154,
+      "collector_number": 163,
       "name": "Leave the Haze Behind",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -2934,10 +3105,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/154.webp"
+      "artwork_path": "cards/163.webp"
     },
     {
-      "collector_number": 155,
+      "collector_number": 164,
       "name": "Second-Helping Assembly",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2953,10 +3124,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/155.webp"
+      "artwork_path": "cards/164.webp"
     },
     {
-      "collector_number": 156,
+      "collector_number": 165,
       "name": "Wide-Brimmed Provisioner",
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
@@ -2972,10 +3143,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/156.webp"
+      "artwork_path": "cards/165.webp"
     },
     {
-      "collector_number": 157,
+      "collector_number": 166,
       "name": "Return to Simpler Routes",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -2991,10 +3162,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/157.webp"
+      "artwork_path": "cards/166.webp"
     },
     {
-      "collector_number": 158,
+      "collector_number": 167,
       "name": "Background Cat Coordinator",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -3010,10 +3181,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/158.webp"
+      "artwork_path": "cards/167.webp"
     },
     {
-      "collector_number": 159,
+      "collector_number": 168,
       "name": "Resolve the Park Dispute",
       "mana_cost": "{X}{G}",
       "mana_value": 1.0,
@@ -3029,10 +3200,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/159.webp"
+      "artwork_path": "cards/168.webp"
     },
     {
-      "collector_number": 160,
+      "collector_number": 169,
       "name": "Please, Stay Among the Trees",
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
@@ -3048,10 +3219,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/160.webp"
+      "artwork_path": "cards/169.webp"
     },
     {
-      "collector_number": 161,
+      "collector_number": 170,
       "name": "Boulderback Pathbreaker",
       "mana_cost": "{4}{G}",
       "mana_value": 5.0,
@@ -3067,10 +3238,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/161.webp"
+      "artwork_path": "cards/170.webp"
     },
     {
-      "collector_number": 162,
+      "collector_number": 171,
       "name": "Sweep Away the Embers",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -3086,10 +3257,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/162.webp"
+      "artwork_path": "cards/171.webp"
     },
     {
-      "collector_number": 163,
+      "collector_number": 172,
       "name": "Reach for the Last Portion",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -3105,10 +3276,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/163.webp"
+      "artwork_path": "cards/172.webp"
     },
     {
-      "collector_number": 164,
+      "collector_number": 173,
       "name": "Woodland Ear-Muff Guide",
       "mana_cost": "{1}{G}",
       "mana_value": 2.0,
@@ -3124,10 +3295,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/164.webp"
+      "artwork_path": "cards/173.webp"
     },
     {
-      "collector_number": 165,
+      "collector_number": 174,
       "name": "Plans Take Root",
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
@@ -3143,10 +3314,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/165.webp"
+      "artwork_path": "cards/174.webp"
     },
     {
-      "collector_number": 166,
+      "collector_number": 175,
       "name": "Jon, Patient Powerhouse",
       "mana_cost": "{2}{G}{G}",
       "mana_value": 4.0,
@@ -3162,10 +3333,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/166.webp"
+      "artwork_path": "cards/175.webp"
     },
     {
-      "collector_number": 167,
+      "collector_number": 176,
       "name": "The Group Finds Its Footing",
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
@@ -3181,10 +3352,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/167.webp"
+      "artwork_path": "cards/176.webp"
     },
     {
-      "collector_number": 168,
+      "collector_number": 177,
       "name": "Outgrow the Frame",
       "mana_cost": "{2}{G}{G}",
       "mana_value": 4.0,
@@ -3200,10 +3371,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/168.webp"
+      "artwork_path": "cards/177.webp"
     },
     {
-      "collector_number": 169,
+      "collector_number": 178,
       "name": "Garden of Unfinished Meals",
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
@@ -3219,10 +3390,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/169.webp"
+      "artwork_path": "cards/178.webp"
     },
     {
-      "collector_number": 170,
+      "collector_number": 179,
       "name": "The Stool Supports a Forest",
       "mana_cost": "{3}{G}{G}",
       "mana_value": 5.0,
@@ -3238,10 +3409,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/170.webp"
+      "artwork_path": "cards/179.webp"
     },
     {
-      "collector_number": 171,
+      "collector_number": 180,
       "name": "Matt, Hillside Colossus",
       "mana_cost": "{5}{G}{G}",
       "mana_value": 7.0,
@@ -3257,10 +3428,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/171.webp"
+      "artwork_path": "cards/180.webp"
     },
     {
-      "collector_number": 172,
+      "collector_number": 181,
       "name": "Matt, Ever-Changing Traveller",
       "mana_cost": "{2}{G}{G}",
       "mana_value": 4.0,
@@ -3276,48 +3447,10 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/172.webp"
+      "artwork_path": "cards/181.webp"
     },
     {
-      "collector_number": 173,
-      "name": "The Photograph Grows Around Us",
-      "mana_cost": "{4}{G}{G}",
-      "mana_value": 6.0,
-      "type_line": "Sorcery",
-      "oracle_text": "For each creature you control, create a token that's a copy of that creature, except it's a 1/1 green Saproling in addition to its other types. Put a +1/+1 counter on each creature you control. Exile The Photograph Grows Around Us.",
-      "flavour_text": "The frame held one gathering. Memory supplied the forest beyond it.",
-      "rarity": "M",
-      "power": null,
-      "toughness": null,
-      "loyalty": null,
-      "colours": [
-        "G"
-      ],
-      "colour_section": "G",
-      "artwork_status": "complete",
-      "artwork_path": "cards/173.webp"
-    },
-    {
-      "collector_number": 174,
-      "name": "Adam, Deep-Fried Ecosystem",
-      "mana_cost": "{4}{G}{G}",
-      "mana_value": 6.0,
-      "type_line": "Legendary Creature — Human Plant",
-      "oracle_text": "Trample, ward {2}\nWhen Adam, Deep-Fried Ecosystem enters the battlefield, create three Food tokens.\nWhenever you sacrifice a Food, choose one. This ability triggers only once each turn —\n• Create a 2/2 green Beast creature token.\n• Put two +1/+1 counters on target creature.\n• Return target land card from your graveyard to the battlefield tapped.",
-      "flavour_text": "The edit added one filter too many and accidentally achieved photosynthesis.",
-      "rarity": "M",
-      "power": "6",
-      "toughness": "6",
-      "loyalty": null,
-      "colours": [
-        "G"
-      ],
-      "colour_section": "G",
-      "artwork_status": "complete",
-      "artwork_path": "cards/174.webp"
-    },
-    {
-      "collector_number": 175,
+      "collector_number": 182,
       "name": "Every Change Leaves Roots",
       "mana_cost": "{2}{G}{G}",
       "mana_value": 4.0,
@@ -3333,10 +3466,67 @@
       ],
       "colour_section": "G",
       "artwork_status": "complete",
-      "artwork_path": "cards/175.webp"
+      "artwork_path": "cards/182.webp"
     },
     {
-      "collector_number": 176,
+      "collector_number": 183,
+      "name": "Matt",
+      "mana_cost": "{3}{G}{G}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Planeswalker — Matt",
+      "oracle_text": "+1: Put a +1/+1 counter on each of up to two target creatures. Untap those creatures. They gain trample until end of turn.\n−3: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Create a 3/3 green Beast creature token.\n−9: You get an emblem with “Creatures you control have trample” and “Whenever one or more creatures you control with power 4 or greater attack, draw a card and put two +1/+1 counters on each attacking creature.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "6",
+      "colours": [
+        "G"
+      ],
+      "colour_section": "G",
+      "artwork_status": "complete",
+      "artwork_path": "cards/183.webp"
+    },
+    {
+      "collector_number": 184,
+      "name": "The Photograph Grows Around Us",
+      "mana_cost": "{4}{G}{G}",
+      "mana_value": 6.0,
+      "type_line": "Sorcery",
+      "oracle_text": "For each creature you control, create a token that's a copy of that creature, except it's a 1/1 green Saproling in addition to its other types. Put a +1/+1 counter on each creature you control. Exile The Photograph Grows Around Us.",
+      "flavour_text": "The frame held one gathering. Memory supplied the forest beyond it.",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "G"
+      ],
+      "colour_section": "G",
+      "artwork_status": "complete",
+      "artwork_path": "cards/184.webp"
+    },
+    {
+      "collector_number": 185,
+      "name": "Adam, Deep-Fried Ecosystem",
+      "mana_cost": "{4}{G}{G}",
+      "mana_value": 6.0,
+      "type_line": "Legendary Creature — Human Plant",
+      "oracle_text": "Trample, ward {2}\nWhen Adam, Deep-Fried Ecosystem enters the battlefield, create three Food tokens.\nWhenever you sacrifice a Food, choose one. This ability triggers only once each turn —\n• Create a 2/2 green Beast creature token.\n• Put two +1/+1 counters on target creature.\n• Return target land card from your graveyard to the battlefield tapped.",
+      "flavour_text": "The edit added one filter too many and accidentally achieved photosynthesis.",
+      "rarity": "M",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "colours": [
+        "G"
+      ],
+      "colour_section": "G",
+      "artwork_status": "complete",
+      "artwork_path": "cards/185.webp"
+    },
+    {
+      "collector_number": 186,
       "name": "Absurd-Proximity Surveyors",
       "mana_cost": "{1}{W}{U}",
       "mana_value": 3.0,
@@ -3353,10 +3543,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/176.webp"
+      "artwork_path": "cards/186.webp"
     },
     {
-      "collector_number": 177,
+      "collector_number": 187,
       "name": "Protective Plankeeper",
       "mana_cost": "{W}{U}",
       "mana_value": 2.0,
@@ -3373,10 +3563,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/177.webp"
+      "artwork_path": "cards/187.webp"
     },
     {
-      "collector_number": 178,
+      "collector_number": 188,
       "name": "Adam, Draft-Night Architect",
       "mana_cost": "{2}{W}{U}",
       "mana_value": 4.0,
@@ -3393,10 +3583,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/178.webp"
+      "artwork_path": "cards/188.webp"
     },
     {
-      "collector_number": 179,
+      "collector_number": 189,
       "name": "Mirror-Mask Evidence Broker",
       "mana_cost": "{1}{U}{B}",
       "mana_value": 3.0,
@@ -3413,10 +3603,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/179.webp"
+      "artwork_path": "cards/189.webp"
     },
     {
-      "collector_number": 180,
+      "collector_number": 190,
       "name": "Keeper of the Final Recount",
       "mana_cost": "{2}{U}{B}",
       "mana_value": 4.0,
@@ -3433,10 +3623,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/180.webp"
+      "artwork_path": "cards/190.webp"
     },
     {
-      "collector_number": 181,
+      "collector_number": 191,
       "name": "The Hills Keep Every Secret",
       "mana_cost": "{2}{U}{B}",
       "mana_value": 4.0,
@@ -3453,10 +3643,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/181.webp"
+      "artwork_path": "cards/191.webp"
     },
     {
-      "collector_number": 182,
+      "collector_number": 192,
       "name": "Carry the Night Forward",
       "mana_cost": "{B}{R}",
       "mana_value": 2.0,
@@ -3473,10 +3663,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/182.webp"
+      "artwork_path": "cards/192.webp"
     },
     {
-      "collector_number": 183,
+      "collector_number": 193,
       "name": "Obscure-Room Converter",
       "mana_cost": "{1}{B}{R}",
       "mana_value": 3.0,
@@ -3493,10 +3683,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/183.webp"
+      "artwork_path": "cards/193.webp"
     },
     {
-      "collector_number": 184,
+      "collector_number": 194,
       "name": "One More Course, One Less Problem",
       "mana_cost": "{2}{B}{R}",
       "mana_value": 4.0,
@@ -3513,10 +3703,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/184.webp"
+      "artwork_path": "cards/194.webp"
     },
     {
-      "collector_number": 185,
+      "collector_number": 195,
       "name": "Demanding Change-Charger",
       "mana_cost": "{1}{R}{G}",
       "mana_value": 3.0,
@@ -3533,10 +3723,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/185.webp"
+      "artwork_path": "cards/195.webp"
     },
     {
-      "collector_number": 186,
+      "collector_number": 196,
       "name": "Breakfast-Fuel Trail Guide",
       "mana_cost": "{R}{G}",
       "mana_value": 2.0,
@@ -3553,10 +3743,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/186.webp"
+      "artwork_path": "cards/196.webp"
     },
     {
-      "collector_number": 187,
+      "collector_number": 197,
       "name": "The Sleeper Wakes the Giants",
       "mana_cost": "{3}{R}{G}",
       "mana_value": 5.0,
@@ -3573,10 +3763,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/187.webp"
+      "artwork_path": "cards/197.webp"
     },
     {
-      "collector_number": 188,
+      "collector_number": 198,
       "name": "Simpler-Times Rallykeeper",
       "mana_cost": "{1}{G}{W}",
       "mana_value": 3.0,
@@ -3593,10 +3783,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/188.webp"
+      "artwork_path": "cards/198.webp"
     },
     {
-      "collector_number": 189,
+      "collector_number": 199,
       "name": "No One Attacks Unprepared",
       "mana_cost": "{G}{W}",
       "mana_value": 2.0,
@@ -3613,10 +3803,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/189.webp"
+      "artwork_path": "cards/199.webp"
     },
     {
-      "collector_number": 190,
+      "collector_number": 200,
       "name": "Memes for the Whole Group",
       "mana_cost": "{2}{G}{W}",
       "mana_value": 4.0,
@@ -3633,10 +3823,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/190.webp"
+      "artwork_path": "cards/200.webp"
     },
     {
-      "collector_number": 191,
+      "collector_number": 201,
       "name": "After-Party Remembrancer",
       "mana_cost": "{1}{W}{B}",
       "mana_value": 3.0,
@@ -3653,10 +3843,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/191.webp"
+      "artwork_path": "cards/201.webp"
     },
     {
-      "collector_number": 192,
+      "collector_number": 202,
       "name": "Witness Beside HIM",
       "mana_cost": "{2}{W}{B}",
       "mana_value": 4.0,
@@ -3673,10 +3863,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/192.webp"
+      "artwork_path": "cards/202.webp"
     },
     {
-      "collector_number": 193,
+      "collector_number": 203,
       "name": "The Close-Up Outlives Us",
       "mana_cost": "{3}{W}{B}",
       "mana_value": 5.0,
@@ -3693,10 +3883,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/193.webp"
+      "artwork_path": "cards/203.webp"
     },
     {
-      "collector_number": 194,
+      "collector_number": 204,
       "name": "Dark-Archive Improviser",
       "mana_cost": "{1}{U}{R}",
       "mana_value": 3.0,
@@ -3713,10 +3903,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/194.webp"
+      "artwork_path": "cards/204.webp"
     },
     {
-      "collector_number": 195,
+      "collector_number": 205,
       "name": "Festival Retelling Savant",
       "mana_cost": "{U}{R}",
       "mana_value": 2.0,
@@ -3733,10 +3923,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/195.webp"
+      "artwork_path": "cards/205.webp"
     },
     {
-      "collector_number": 196,
+      "collector_number": 206,
       "name": "The Pauper's Story Multiplies",
       "mana_cost": "{3}{U}{R}",
       "mana_value": 5.0,
@@ -3753,10 +3943,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/196.webp"
+      "artwork_path": "cards/206.webp"
     },
     {
-      "collector_number": 197,
+      "collector_number": 207,
       "name": "Meatloaf's Scrap-Garden Keeper",
       "mana_cost": "{1}{B}{G}",
       "mana_value": 3.0,
@@ -3773,10 +3963,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/197.webp"
+      "artwork_path": "cards/207.webp"
     },
     {
-      "collector_number": 198,
+      "collector_number": 208,
       "name": "Beluga Compost Diver",
       "mana_cost": "{2}{B}{G}",
       "mana_value": 4.0,
@@ -3793,10 +3983,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/198.webp"
+      "artwork_path": "cards/208.webp"
     },
     {
-      "collector_number": 199,
+      "collector_number": 209,
       "name": "Eight O'Clock, Nothing Wasted",
       "mana_cost": "{2}{B}{G}",
       "mana_value": 4.0,
@@ -3813,10 +4003,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/199.webp"
+      "artwork_path": "cards/209.webp"
     },
     {
-      "collector_number": 200,
+      "collector_number": 210,
       "name": "Panoramic Kit-Runner",
       "mana_cost": "{1}{R}{W}",
       "mana_value": 3.0,
@@ -3833,10 +4023,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/200.webp"
+      "artwork_path": "cards/210.webp"
     },
     {
-      "collector_number": 201,
+      "collector_number": 211,
       "name": "Changed Between Takes",
       "mana_cost": "{1}{R}{W}",
       "mana_value": 3.0,
@@ -3853,10 +4043,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/201.webp"
+      "artwork_path": "cards/211.webp"
     },
     {
-      "collector_number": 202,
+      "collector_number": 212,
       "name": "Ready for Every Version",
       "mana_cost": "{2}{R}{W}",
       "mana_value": 4.0,
@@ -3873,10 +4063,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/202.webp"
+      "artwork_path": "cards/212.webp"
     },
     {
-      "collector_number": 203,
+      "collector_number": 213,
       "name": "Plans Improve Under Pressure",
       "mana_cost": "{1}{G}{U}",
       "mana_value": 3.0,
@@ -3893,10 +4083,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/203.webp"
+      "artwork_path": "cards/213.webp"
     },
     {
-      "collector_number": 204,
+      "collector_number": 214,
       "name": "Reclining Contingency Planner",
       "mana_cost": "{G}{U}",
       "mana_value": 2.0,
@@ -3913,10 +4103,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/204.webp"
+      "artwork_path": "cards/214.webp"
     },
     {
-      "collector_number": 205,
+      "collector_number": 215,
       "name": "Every Plan Has Another Plan",
       "mana_cost": "{2}{G}{U}",
       "mana_value": 4.0,
@@ -3933,10 +4123,10 @@
       ],
       "colour_section": "M",
       "artwork_status": "complete",
-      "artwork_path": "cards/205.webp"
+      "artwork_path": "cards/215.webp"
     },
     {
-      "collector_number": 206,
+      "collector_number": 216,
       "name": "Pocket Training Weights",
       "mana_cost": "{1}",
       "mana_value": 1.0,
@@ -3952,10 +4142,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/206.webp"
+      "artwork_path": "cards/216.webp"
     },
     {
-      "collector_number": 207,
+      "collector_number": 217,
       "name": "Contingency Rucksack",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -3971,10 +4161,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/207.webp"
+      "artwork_path": "cards/217.webp"
     },
     {
-      "collector_number": 208,
+      "collector_number": 218,
       "name": "Mislabelled Change Machine",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -3990,10 +4180,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/208.webp"
+      "artwork_path": "cards/218.webp"
     },
     {
-      "collector_number": 209,
+      "collector_number": 219,
       "name": "Barchive Doorstop",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4009,10 +4199,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/209.webp"
+      "artwork_path": "cards/219.webp"
     },
     {
-      "collector_number": 210,
+      "collector_number": 220,
       "name": "Disposable Bessenger",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4028,10 +4218,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/210.webp"
+      "artwork_path": "cards/220.webp"
     },
     {
-      "collector_number": 211,
+      "collector_number": 221,
       "name": "Comically Small Serving Tray",
       "mana_cost": "{1}",
       "mana_value": 1.0,
@@ -4047,10 +4237,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/211.webp"
+      "artwork_path": "cards/221.webp"
     },
     {
-      "collector_number": 212,
+      "collector_number": 222,
       "name": "Impossible Hero Photograph",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4066,10 +4256,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/212.webp"
+      "artwork_path": "cards/222.webp"
     },
     {
-      "collector_number": 213,
+      "collector_number": 223,
       "name": "Festive Version Index",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4085,10 +4275,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/213.webp"
+      "artwork_path": "cards/223.webp"
     },
     {
-      "collector_number": 214,
+      "collector_number": 224,
       "name": "Node-Top Disassembler",
       "mana_cost": "{3}",
       "mana_value": 3.0,
@@ -4104,10 +4294,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/214.webp"
+      "artwork_path": "cards/224.webp"
     },
     {
-      "collector_number": 215,
+      "collector_number": 225,
       "name": "Drowsing Barchive Golem",
       "mana_cost": "{6}",
       "mana_value": 6.0,
@@ -4123,10 +4313,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/215.webp"
+      "artwork_path": "cards/225.webp"
     },
     {
-      "collector_number": 216,
+      "collector_number": 226,
       "name": "Long-Distance Viewfinder",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4142,10 +4332,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/216.webp"
+      "artwork_path": "cards/226.webp"
     },
     {
-      "collector_number": 217,
+      "collector_number": 227,
       "name": "The Unaccountable Wardrobe",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4161,10 +4351,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/217.webp"
+      "artwork_path": "cards/227.webp"
     },
     {
-      "collector_number": 218,
+      "collector_number": 228,
       "name": "Ordinary Matt Replica",
       "mana_cost": "{3}",
       "mana_value": 3.0,
@@ -4180,10 +4370,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/218.webp"
+      "artwork_path": "cards/228.webp"
     },
     {
-      "collector_number": 219,
+      "collector_number": 229,
       "name": "Panoramic Adaptation Rig",
       "mana_cost": "{3}",
       "mana_value": 3.0,
@@ -4199,10 +4389,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/219.webp"
+      "artwork_path": "cards/229.webp"
     },
     {
-      "collector_number": 220,
+      "collector_number": 230,
       "name": "Scuffed Archive Seal",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4218,10 +4408,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/220.webp"
+      "artwork_path": "cards/230.webp"
     },
     {
-      "collector_number": 221,
+      "collector_number": 231,
       "name": "Round-to-Round Exchange",
       "mana_cost": "{3}",
       "mana_value": 3.0,
@@ -4237,10 +4427,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/221.webp"
+      "artwork_path": "cards/231.webp"
     },
     {
-      "collector_number": 222,
+      "collector_number": 232,
       "name": "The Please Button",
       "mana_cost": "{2}",
       "mana_value": 2.0,
@@ -4256,10 +4446,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/222.webp"
+      "artwork_path": "cards/232.webp"
     },
     {
-      "collector_number": 223,
+      "collector_number": 233,
       "name": "Bordan's Load-Bearing Stool",
       "mana_cost": "{3}",
       "mana_value": 3.0,
@@ -4275,10 +4465,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/223.webp"
+      "artwork_path": "cards/233.webp"
     },
     {
-      "collector_number": 224,
+      "collector_number": 234,
       "name": "Panorama of Misremembered Faces",
       "mana_cost": "{4}",
       "mana_value": 4.0,
@@ -4294,10 +4484,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/224.webp"
+      "artwork_path": "cards/234.webp"
     },
     {
-      "collector_number": 225,
+      "collector_number": 235,
       "name": "The Table's Final Portion",
       "mana_cost": "{3}",
       "mana_value": 3.0,
@@ -4313,10 +4503,10 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/225.webp"
+      "artwork_path": "cards/235.webp"
     },
     {
-      "collector_number": 226,
+      "collector_number": 236,
       "name": "Keeper of the Contingency Box",
       "mana_cost": "{4}",
       "mana_value": 4.0,
@@ -4332,10 +4522,48 @@
       ],
       "colour_section": "C",
       "artwork_status": "complete",
-      "artwork_path": "cards/226.webp"
+      "artwork_path": "cards/236.webp"
     },
     {
-      "collector_number": 227,
+      "collector_number": 237,
+      "name": "James",
+      "mana_cost": "{5}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Planeswalker — James",
+      "oracle_text": "+1: Scry 2, then draw a card.\n−3: Tap up to two target nonland permanents. Put a stun counter on each of them. They lose all abilities until your next turn.\n−8: You get an emblem with “Each opponent can’t cast more than one spell each turn” and “Nonland permanents your opponents control enter the battlefield tapped.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "5",
+      "colours": [
+        "C"
+      ],
+      "colour_section": "C",
+      "artwork_status": "complete",
+      "artwork_path": "cards/237.webp"
+    },
+    {
+      "collector_number": 238,
+      "name": "Jon",
+      "mana_cost": "{5}",
+      "mana_value": 5.0,
+      "type_line": "Legendary Planeswalker — Jon",
+      "oracle_text": "+1: Look at the top three cards of target player’s library. Exile one of them face down, then put the rest back in any order. You may look at and cast the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.\n−2: Create a token that’s a copy of target creature, except it’s a 1/1 colourless Illusion artifact creature in addition to its other types.\n−8: You get an emblem with “You may look at and play the top card of each player’s library” and “You may spend mana as though it were mana of any type to cast spells this way.”",
+      "flavour_text": "",
+      "rarity": "M",
+      "power": null,
+      "toughness": null,
+      "loyalty": "5",
+      "colours": [
+        "C"
+      ],
+      "colour_section": "C",
+      "artwork_status": "complete",
+      "artwork_path": "cards/238.webp"
+    },
+    {
+      "collector_number": 239,
       "name": "Humberston, First Light",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4351,10 +4579,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/227.webp"
+      "artwork_path": "cards/239.webp"
     },
     {
-      "collector_number": 228,
+      "collector_number": 240,
       "name": "Humberston, Long Afternoon",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4370,10 +4598,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/228.webp"
+      "artwork_path": "cards/240.webp"
     },
     {
-      "collector_number": 229,
+      "collector_number": 241,
       "name": "Humberston, Amber Fields",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4389,10 +4617,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/229.webp"
+      "artwork_path": "cards/241.webp"
     },
     {
-      "collector_number": 230,
+      "collector_number": 242,
       "name": "Humberston, Quiet Horizon",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4408,10 +4636,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/230.webp"
+      "artwork_path": "cards/242.webp"
     },
     {
-      "collector_number": 231,
+      "collector_number": 243,
       "name": "Cleethorpes, Silver Tide",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4427,10 +4655,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/231.webp"
+      "artwork_path": "cards/243.webp"
     },
     {
-      "collector_number": 232,
+      "collector_number": 244,
       "name": "Cleethorpes, Glasswater Morning",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4446,10 +4674,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/232.webp"
+      "artwork_path": "cards/244.webp"
     },
     {
-      "collector_number": 233,
+      "collector_number": 245,
       "name": "Cleethorpes, Pier in Mist",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4465,10 +4693,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/233.webp"
+      "artwork_path": "cards/245.webp"
     },
     {
-      "collector_number": 234,
+      "collector_number": 246,
       "name": "Cleethorpes, Stormline",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4484,10 +4712,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/234.webp"
+      "artwork_path": "cards/246.webp"
     },
     {
-      "collector_number": 235,
+      "collector_number": 247,
       "name": "Freeman Street, Rainlit",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4503,10 +4731,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/235.webp"
+      "artwork_path": "cards/247.webp"
     },
     {
-      "collector_number": 236,
+      "collector_number": 248,
       "name": "Freeman Street, Closing Time",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4522,10 +4750,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/236.webp"
+      "artwork_path": "cards/248.webp"
     },
     {
-      "collector_number": 237,
+      "collector_number": 249,
       "name": "Freeman Street, Twin Reflections",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4541,10 +4769,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/237.webp"
+      "artwork_path": "cards/249.webp"
     },
     {
-      "collector_number": 238,
+      "collector_number": 250,
       "name": "Freeman Street, Uncanny Dawn",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4560,10 +4788,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/238.webp"
+      "artwork_path": "cards/250.webp"
     },
     {
-      "collector_number": 239,
+      "collector_number": 251,
       "name": "Peak District, First Ascent",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4579,10 +4807,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/239.webp"
+      "artwork_path": "cards/251.webp"
     },
     {
-      "collector_number": 240,
+      "collector_number": 252,
       "name": "Peak District, Iron Steps",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4598,10 +4826,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/240.webp"
+      "artwork_path": "cards/252.webp"
     },
     {
-      "collector_number": 241,
+      "collector_number": 253,
       "name": "Peak District, Ember Valley",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4617,10 +4845,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/241.webp"
+      "artwork_path": "cards/253.webp"
     },
     {
-      "collector_number": 242,
+      "collector_number": 254,
       "name": "Peak District, Weathered Summit",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4636,10 +4864,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/242.webp"
+      "artwork_path": "cards/254.webp"
     },
     {
-      "collector_number": 243,
+      "collector_number": 255,
       "name": "Pub Garden, Opening Hour",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4655,10 +4883,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/243.webp"
+      "artwork_path": "cards/255.webp"
     },
     {
-      "collector_number": 244,
+      "collector_number": 256,
       "name": "Pub Garden, Dappled Tables",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4674,10 +4902,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/244.webp"
+      "artwork_path": "cards/256.webp"
     },
     {
-      "collector_number": 245,
+      "collector_number": 257,
       "name": "Pub Garden, Evening Gathering",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4693,10 +4921,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/245.webp"
+      "artwork_path": "cards/257.webp"
     },
     {
-      "collector_number": 246,
+      "collector_number": 258,
       "name": "Pub Garden, Lantern Leaves",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4712,10 +4940,29 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/246.webp"
+      "artwork_path": "cards/258.webp"
     },
     {
-      "collector_number": 247,
+      "collector_number": 259,
+      "name": "Stansted Airport",
+      "mana_cost": "",
+      "mana_value": 0.0,
+      "type_line": "Land",
+      "oracle_text": "{T}, Sacrifice Stansted Airport: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+      "flavour_text": "",
+      "rarity": "C",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "colours": [
+        "C"
+      ],
+      "colour_section": "L",
+      "artwork_status": "complete",
+      "artwork_path": "cards/259.webp"
+    },
+    {
+      "collector_number": 260,
       "name": "Crossroads of Retellings",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4731,10 +4978,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/247.webp"
+      "artwork_path": "cards/260.webp"
     },
     {
-      "collector_number": 248,
+      "collector_number": 261,
       "name": "The Unlabelled Meeting Point",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4750,10 +4997,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/248.webp"
+      "artwork_path": "cards/261.webp"
     },
     {
-      "collector_number": 249,
+      "collector_number": 262,
       "name": "Discarded-Story Allotment",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4769,10 +5016,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/249.webp"
+      "artwork_path": "cards/262.webp"
     },
     {
-      "collector_number": 250,
+      "collector_number": 263,
       "name": "Prepared Formation Yard",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4788,10 +5035,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/250.webp"
+      "artwork_path": "cards/263.webp"
     },
     {
-      "collector_number": 251,
+      "collector_number": 264,
       "name": "Portsmouth Overlook",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4807,10 +5054,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/251.webp"
+      "artwork_path": "cards/264.webp"
     },
     {
-      "collector_number": 252,
+      "collector_number": 265,
       "name": "London Afterimage",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4826,10 +5073,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/252.webp"
+      "artwork_path": "cards/265.webp"
     },
     {
-      "collector_number": 253,
+      "collector_number": 266,
       "name": "Icelandic Last Light",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4845,10 +5092,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/253.webp"
+      "artwork_path": "cards/266.webp"
     },
     {
-      "collector_number": 254,
+      "collector_number": 267,
       "name": "Swiss Giant's Pass",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4864,10 +5111,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/254.webp"
+      "artwork_path": "cards/267.webp"
     },
     {
-      "collector_number": 255,
+      "collector_number": 268,
       "name": "Ostrava, New Roots",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4883,10 +5130,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/255.webp"
+      "artwork_path": "cards/268.webp"
     },
     {
-      "collector_number": 256,
+      "collector_number": 269,
       "name": "Hall of Saved Places",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4902,10 +5149,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/256.webp"
+      "artwork_path": "cards/269.webp"
     },
     {
-      "collector_number": 257,
+      "collector_number": 270,
       "name": "The Escalation Studio",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4921,10 +5168,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/257.webp"
+      "artwork_path": "cards/270.webp"
     },
     {
-      "collector_number": 258,
+      "collector_number": 271,
       "name": "Garden of Lost Objects",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4940,10 +5187,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/258.webp"
+      "artwork_path": "cards/271.webp"
     },
     {
-      "collector_number": 259,
+      "collector_number": 272,
       "name": "The Readiness Line",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4959,10 +5206,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/259.webp"
+      "artwork_path": "cards/272.webp"
     },
     {
-      "collector_number": 260,
+      "collector_number": 273,
       "name": "Nested Planning Grounds",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4978,10 +5225,10 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/260.webp"
+      "artwork_path": "cards/273.webp"
     },
     {
-      "collector_number": 261,
+      "collector_number": 274,
       "name": "The Ever-Expanding Group Photo",
       "mana_cost": "",
       "mana_value": 0.0,
@@ -4997,7 +5244,7 @@
       ],
       "colour_section": "L",
       "artwork_status": "complete",
-      "artwork_path": "cards/261.webp"
+      "artwork_path": "cards/274.webp"
     }
   ],
   "balance": {
@@ -5005,12 +5252,12 @@
       {
         "set_id": 1,
         "rarity": "C",
-        "card_count": 81
+        "card_count": 87
       },
       {
         "set_id": 1,
         "rarity": "M",
-        "card_count": 20
+        "card_count": 27
       },
       {
         "set_id": 1,
@@ -5043,7 +5290,7 @@
         "colour": "B",
         "rarity": "C",
         "mana_value": 3.0,
-        "card_count": 2
+        "card_count": 3
       },
       {
         "set_id": 1,
@@ -5064,7 +5311,7 @@
         "colour": "B",
         "rarity": "M",
         "mana_value": 4.0,
-        "card_count": 1
+        "card_count": 2
       },
       {
         "set_id": 1,
@@ -5148,7 +5395,7 @@
         "colour": "C",
         "rarity": "C",
         "mana_value": 0.0,
-        "card_count": 20
+        "card_count": 21
       },
       {
         "set_id": 1,
@@ -5177,6 +5424,13 @@
         "rarity": "C",
         "mana_value": 6.0,
         "card_count": 1
+      },
+      {
+        "set_id": 1,
+        "colour": "C",
+        "rarity": "M",
+        "mana_value": 5.0,
+        "card_count": 2
       },
       {
         "set_id": 1,
@@ -5239,7 +5493,7 @@
         "colour": "G",
         "rarity": "C",
         "mana_value": 3.0,
-        "card_count": 3
+        "card_count": 4
       },
       {
         "set_id": 1,
@@ -5261,6 +5515,13 @@
         "rarity": "M",
         "mana_value": 4.0,
         "card_count": 2
+      },
+      {
+        "set_id": 1,
+        "colour": "G",
+        "rarity": "M",
+        "mana_value": 5.0,
+        "card_count": 1
       },
       {
         "set_id": 1,
@@ -5344,7 +5605,7 @@
         "colour": "R",
         "rarity": "C",
         "mana_value": 2.0,
-        "card_count": 4
+        "card_count": 5
       },
       {
         "set_id": 1,
@@ -5372,7 +5633,7 @@
         "colour": "R",
         "rarity": "M",
         "mana_value": 4.0,
-        "card_count": 1
+        "card_count": 2
       },
       {
         "set_id": 1,
@@ -5470,7 +5731,7 @@
         "colour": "U",
         "rarity": "C",
         "mana_value": 3.0,
-        "card_count": 2
+        "card_count": 3
       },
       {
         "set_id": 1,
@@ -5491,7 +5752,7 @@
         "colour": "U",
         "rarity": "M",
         "mana_value": 4.0,
-        "card_count": 1
+        "card_count": 2
       },
       {
         "set_id": 1,
@@ -5589,7 +5850,7 @@
         "colour": "W",
         "rarity": "C",
         "mana_value": 3.0,
-        "card_count": 3
+        "card_count": 4
       },
       {
         "set_id": 1,
@@ -5610,7 +5871,7 @@
         "colour": "W",
         "rarity": "M",
         "mana_value": 4.0,
-        "card_count": 2
+        "card_count": 3
       },
       {
         "set_id": 1,
@@ -5687,12 +5948,12 @@
       {
         "rarity": "C",
         "colour_section": "B",
-        "card_count": 10
+        "card_count": 11
       },
       {
         "rarity": "M",
         "colour_section": "B",
-        "card_count": 4
+        "card_count": 5
       },
       {
         "rarity": "R",
@@ -5708,6 +5969,11 @@
         "rarity": "C",
         "colour_section": "C",
         "card_count": 11
+      },
+      {
+        "rarity": "M",
+        "colour_section": "C",
+        "card_count": 2
       },
       {
         "rarity": "R",
@@ -5722,12 +5988,12 @@
       {
         "rarity": "C",
         "colour_section": "G",
-        "card_count": 10
+        "card_count": 11
       },
       {
         "rarity": "M",
         "colour_section": "G",
-        "card_count": 4
+        "card_count": 5
       },
       {
         "rarity": "R",
@@ -5742,7 +6008,7 @@
       {
         "rarity": "C",
         "colour_section": "L",
-        "card_count": 20
+        "card_count": 21
       },
       {
         "rarity": "R",
@@ -5767,12 +6033,12 @@
       {
         "rarity": "C",
         "colour_section": "R",
-        "card_count": 10
+        "card_count": 11
       },
       {
         "rarity": "M",
         "colour_section": "R",
-        "card_count": 4
+        "card_count": 5
       },
       {
         "rarity": "R",
@@ -5787,12 +6053,12 @@
       {
         "rarity": "C",
         "colour_section": "U",
-        "card_count": 10
+        "card_count": 11
       },
       {
         "rarity": "M",
         "colour_section": "U",
-        "card_count": 4
+        "card_count": 5
       },
       {
         "rarity": "R",
@@ -5807,12 +6073,12 @@
       {
         "rarity": "C",
         "colour_section": "W",
-        "card_count": 10
+        "card_count": 11
       },
       {
         "rarity": "M",
         "colour_section": "W",
-        "card_count": 4
+        "card_count": 5
       },
       {
         "rarity": "R",
@@ -5827,20 +6093,28 @@
     ],
     "evaluations": [
       {
+        "rule_code": "ARCHETYPE_SUPPORT_STRUCTURE",
+        "severity": "error",
+        "passed": 1,
+        "observed": "all ten pass",
+        "expected": "each pair has reviewed common/uncommon support in both colours, primary enablers/payoffs, and two signposts",
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+      },
+      {
         "rule_code": "CARD_COUNT",
         "severity": "info",
         "passed": 1,
-        "observed": "261",
+        "observed": "274",
         "expected": "0–target cards",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "EXPLICIT_IMAGE_REUSE",
         "severity": "error",
-        "passed": 0,
-        "observed": "80",
+        "passed": 1,
+        "observed": "0",
         "expected": "0 reused images marked anchored",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "MANA_VALUE_SLOT_MATCH",
@@ -5848,15 +6122,15 @@
         "passed": 1,
         "observed": "0",
         "expected": "0 mismatches",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "PRIMARY_SOURCE_IMAGE",
         "severity": "error",
-        "passed": 1,
-        "observed": "0",
+        "passed": 0,
+        "observed": "1",
         "expected": "0 cards missing primary image",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "RARITY_SLOT_MATCH",
@@ -5864,7 +6138,7 @@
         "passed": 1,
         "observed": "0",
         "expected": "0 mismatches",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "REMOVAL_COLOUR_IDENTITY",
@@ -5872,7 +6146,7 @@
         "passed": 1,
         "observed": "0",
         "expected": "0 off-colour removal cards",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "REMOVAL_COMPLETED_COLOUR_TARGETS",
@@ -5880,15 +6154,15 @@
         "passed": 1,
         "observed": "none",
         "expected": "completed colour sections meet removal targets",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       },
       {
         "rule_code": "SOURCE_IMAGE_DISTRIBUTION",
         "severity": "error",
-        "passed": 1,
-        "observed": "1",
+        "passed": 0,
+        "observed": "3",
         "expected": "maximum usage differs from minimum by at most 1",
-        "evaluated_at": "2026-07-22T12:41:19.288160+00:00"
+        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
       }
     ],
     "design_elements": [
@@ -5975,32 +6249,583 @@
         "description": "Flying and tempo; small evasive creatures are supported by tapping, protection, and card selection."
       }
     ],
+    "archetype_audit": [
+      {
+        "colour_pair": "BG",
+        "name": "What We Left Behind",
+        "roles": {
+          "enabler": 3,
+          "enabler_payoff": 15,
+          "payoff": 5,
+          "support": 0
+        },
+        "total_links": 40,
+        "primary_links": 23,
+        "limited_enablers": 13,
+        "limited_payoffs": 13,
+        "mono_common_support": 5,
+        "mono_common_colours": [
+          "B",
+          "G"
+        ],
+        "mono_uncommon_support": 10,
+        "mono_uncommon_colours": [
+          "B",
+          "G"
+        ],
+        "primary_mono_common_support": 3,
+        "primary_mono_common_colours": [
+          "B",
+          "G"
+        ],
+        "primary_mono_uncommon_support": 8,
+        "primary_mono_uncommon_colours": [
+          "B",
+          "G"
+        ],
+        "signposts": [
+          {
+            "collector_number": 207,
+            "name": "Meatloaf's Scrap-Garden Keeper",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 208,
+            "name": "Beluga Compost Diver",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "BR",
+        "name": "One More Round",
+        "roles": {
+          "enabler": 9,
+          "enabler_payoff": 14,
+          "payoff": 11,
+          "support": 0
+        },
+        "total_links": 43,
+        "primary_links": 34,
+        "limited_enablers": 16,
+        "limited_payoffs": 18,
+        "mono_common_support": 11,
+        "mono_common_colours": [
+          "B",
+          "R"
+        ],
+        "mono_uncommon_support": 9,
+        "mono_uncommon_colours": [
+          "B",
+          "R"
+        ],
+        "primary_mono_common_support": 10,
+        "primary_mono_common_colours": [
+          "B",
+          "R"
+        ],
+        "primary_mono_uncommon_support": 7,
+        "primary_mono_uncommon_colours": [
+          "B",
+          "R"
+        ],
+        "signposts": [
+          {
+            "collector_number": 192,
+            "name": "Carry the Night Forward",
+            "role": "payoff"
+          },
+          {
+            "collector_number": 193,
+            "name": "Obscure-Room Converter",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "GU",
+        "name": "Plans Within Plans",
+        "roles": {
+          "enabler": 4,
+          "enabler_payoff": 7,
+          "payoff": 2,
+          "support": 0
+        },
+        "total_links": 26,
+        "primary_links": 13,
+        "limited_enablers": 7,
+        "limited_payoffs": 6,
+        "mono_common_support": 5,
+        "mono_common_colours": [
+          "G",
+          "U"
+        ],
+        "mono_uncommon_support": 6,
+        "mono_uncommon_colours": [
+          "G",
+          "U"
+        ],
+        "primary_mono_common_support": 2,
+        "primary_mono_common_colours": [
+          "G",
+          "U"
+        ],
+        "primary_mono_uncommon_support": 3,
+        "primary_mono_uncommon_colours": [
+          "G",
+          "U"
+        ],
+        "signposts": [
+          {
+            "collector_number": 213,
+            "name": "Plans Improve Under Pressure",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 214,
+            "name": "Reclining Contingency Planner",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "GW",
+        "name": "The Whole Group",
+        "roles": {
+          "enabler": 5,
+          "enabler_payoff": 14,
+          "payoff": 6,
+          "support": 1
+        },
+        "total_links": 45,
+        "primary_links": 26,
+        "limited_enablers": 11,
+        "limited_payoffs": 10,
+        "mono_common_support": 7,
+        "mono_common_colours": [
+          "G",
+          "W"
+        ],
+        "mono_uncommon_support": 12,
+        "mono_uncommon_colours": [
+          "G",
+          "W"
+        ],
+        "primary_mono_common_support": 6,
+        "primary_mono_common_colours": [
+          "G",
+          "W"
+        ],
+        "primary_mono_uncommon_support": 6,
+        "primary_mono_uncommon_colours": [
+          "G",
+          "W"
+        ],
+        "signposts": [
+          {
+            "collector_number": 198,
+            "name": "Simpler-Times Rallykeeper",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 199,
+            "name": "No One Attacks Unprepared",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "RG",
+        "name": "Go Big Together",
+        "roles": {
+          "enabler": 6,
+          "enabler_payoff": 6,
+          "payoff": 6,
+          "support": 0
+        },
+        "total_links": 19,
+        "primary_links": 18,
+        "limited_enablers": 8,
+        "limited_payoffs": 6,
+        "mono_common_support": 4,
+        "mono_common_colours": [
+          "G",
+          "R"
+        ],
+        "mono_uncommon_support": 4,
+        "mono_uncommon_colours": [
+          "G",
+          "R"
+        ],
+        "primary_mono_common_support": 4,
+        "primary_mono_common_colours": [
+          "G",
+          "R"
+        ],
+        "primary_mono_uncommon_support": 4,
+        "primary_mono_uncommon_colours": [
+          "G",
+          "R"
+        ],
+        "signposts": [
+          {
+            "collector_number": 195,
+            "name": "Demanding Change-Charger",
+            "role": "payoff"
+          },
+          {
+            "collector_number": 196,
+            "name": "Breakfast-Fuel Trail Guide",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "RW",
+        "name": "Ready for Anything",
+        "roles": {
+          "enabler": 4,
+          "enabler_payoff": 12,
+          "payoff": 8,
+          "support": 1
+        },
+        "total_links": 34,
+        "primary_links": 25,
+        "limited_enablers": 11,
+        "limited_payoffs": 13,
+        "mono_common_support": 6,
+        "mono_common_colours": [
+          "R",
+          "W"
+        ],
+        "mono_uncommon_support": 7,
+        "mono_uncommon_colours": [
+          "R",
+          "W"
+        ],
+        "primary_mono_common_support": 4,
+        "primary_mono_common_colours": [
+          "R",
+          "W"
+        ],
+        "primary_mono_uncommon_support": 5,
+        "primary_mono_uncommon_colours": [
+          "R",
+          "W"
+        ],
+        "signposts": [
+          {
+            "collector_number": 210,
+            "name": "Panoramic Kit-Runner",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 211,
+            "name": "Changed Between Takes",
+            "role": "payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "UB",
+        "name": "Secrets Kept",
+        "roles": {
+          "enabler": 9,
+          "enabler_payoff": 8,
+          "payoff": 7,
+          "support": 0
+        },
+        "total_links": 40,
+        "primary_links": 24,
+        "limited_enablers": 13,
+        "limited_payoffs": 6,
+        "mono_common_support": 8,
+        "mono_common_colours": [
+          "B",
+          "U"
+        ],
+        "mono_uncommon_support": 8,
+        "mono_uncommon_colours": [
+          "B",
+          "U"
+        ],
+        "primary_mono_common_support": 6,
+        "primary_mono_common_colours": [
+          "B",
+          "U"
+        ],
+        "primary_mono_uncommon_support": 5,
+        "primary_mono_uncommon_colours": [
+          "B",
+          "U"
+        ],
+        "signposts": [
+          {
+            "collector_number": 189,
+            "name": "Mirror-Mask Evidence Broker",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 190,
+            "name": "Keeper of the Final Recount",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "UR",
+        "name": "Stories Escalate",
+        "roles": {
+          "enabler": 0,
+          "enabler_payoff": 8,
+          "payoff": 8,
+          "support": 0
+        },
+        "total_links": 20,
+        "primary_links": 16,
+        "limited_enablers": 4,
+        "limited_payoffs": 9,
+        "mono_common_support": 3,
+        "mono_common_colours": [
+          "R",
+          "U"
+        ],
+        "mono_uncommon_support": 4,
+        "mono_uncommon_colours": [
+          "R",
+          "U"
+        ],
+        "primary_mono_common_support": 2,
+        "primary_mono_common_colours": [
+          "R"
+        ],
+        "primary_mono_uncommon_support": 4,
+        "primary_mono_uncommon_colours": [
+          "R",
+          "U"
+        ],
+        "signposts": [
+          {
+            "collector_number": 204,
+            "name": "Dark-Archive Improviser",
+            "role": "payoff"
+          },
+          {
+            "collector_number": 205,
+            "name": "Festival Retelling Savant",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "WB",
+        "name": "Long Memories",
+        "roles": {
+          "enabler": 9,
+          "enabler_payoff": 7,
+          "payoff": 2,
+          "support": 0
+        },
+        "total_links": 25,
+        "primary_links": 18,
+        "limited_enablers": 10,
+        "limited_payoffs": 5,
+        "mono_common_support": 6,
+        "mono_common_colours": [
+          "B",
+          "W"
+        ],
+        "mono_uncommon_support": 6,
+        "mono_uncommon_colours": [
+          "B",
+          "W"
+        ],
+        "primary_mono_common_support": 5,
+        "primary_mono_common_colours": [
+          "B",
+          "W"
+        ],
+        "primary_mono_uncommon_support": 4,
+        "primary_mono_uncommon_colours": [
+          "B",
+          "W"
+        ],
+        "signposts": [
+          {
+            "collector_number": 201,
+            "name": "After-Party Remembrancer",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 202,
+            "name": "Witness Beside HIM",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      },
+      {
+        "colour_pair": "WU",
+        "name": "Shared Plans",
+        "roles": {
+          "enabler": 15,
+          "enabler_payoff": 4,
+          "payoff": 2,
+          "support": 1
+        },
+        "total_links": 27,
+        "primary_links": 22,
+        "limited_enablers": 15,
+        "limited_payoffs": 3,
+        "mono_common_support": 6,
+        "mono_common_colours": [
+          "U",
+          "W"
+        ],
+        "mono_uncommon_support": 6,
+        "mono_uncommon_colours": [
+          "U",
+          "W"
+        ],
+        "primary_mono_common_support": 6,
+        "primary_mono_common_colours": [
+          "U",
+          "W"
+        ],
+        "primary_mono_uncommon_support": 6,
+        "primary_mono_uncommon_colours": [
+          "U",
+          "W"
+        ],
+        "signposts": [
+          {
+            "collector_number": 186,
+            "name": "Absurd-Proximity Surveyors",
+            "role": "enabler_payoff"
+          },
+          {
+            "collector_number": 187,
+            "name": "Protective Plankeeper",
+            "role": "enabler_payoff"
+          }
+        ],
+        "checks": {
+          "common_support_both_colours": true,
+          "uncommon_support_both_colours": true,
+          "has_enabler": true,
+          "has_payoff": true,
+          "has_two_signposts": true
+        },
+        "passes_structure": true,
+        "unreviewed_links": 0
+      }
+    ],
     "dashboard": {
       "colour_sections": [
         {
           "bucket": "W",
-          "current": 35,
-          "target": 35
+          "current": 37,
+          "target": 37
         },
         {
           "bucket": "U",
-          "current": 35,
-          "target": 35
+          "current": 37,
+          "target": 37
         },
         {
           "bucket": "B",
-          "current": 35,
-          "target": 35
+          "current": 37,
+          "target": 37
         },
         {
           "bucket": "R",
-          "current": 35,
-          "target": 35
+          "current": 37,
+          "target": 37
         },
         {
           "bucket": "G",
-          "current": 35,
-          "target": 35
+          "current": 37,
+          "target": 37
         },
         {
           "bucket": "M",
@@ -6009,20 +6834,20 @@
         },
         {
           "bucket": "C",
-          "current": 21,
-          "target": 21
+          "current": 23,
+          "target": 23
         },
         {
           "bucket": "L",
-          "current": 35,
-          "target": 35
+          "current": 36,
+          "target": 36
         }
       ],
       "rarity": [
         {
           "bucket": "C",
-          "current": 81,
-          "target": 81
+          "current": 87,
+          "target": 87
         },
         {
           "bucket": "U",
@@ -6036,8 +6861,8 @@
         },
         {
           "bucket": "M",
-          "current": 20,
-          "target": 20
+          "current": 27,
+          "target": 27
         }
       ],
       "mana_value": [
@@ -6049,27 +6874,27 @@
         {
           "bucket": "1",
           "current": 14,
-          "target": 18
+          "target": 19
         },
         {
           "bucket": "2",
-          "current": 59,
-          "target": 54
+          "current": 60,
+          "target": 57
         },
         {
           "bucket": "3",
-          "current": 64,
-          "target": 61
+          "current": 68,
+          "target": 64
         },
         {
           "bucket": "4",
-          "current": 51,
-          "target": 45
+          "current": 55,
+          "target": 48
         },
         {
           "bucket": "5",
-          "current": 20,
-          "target": 25
+          "current": 23,
+          "target": 26
         },
         {
           "bucket": "6",
@@ -6079,24 +6904,29 @@
         {
           "bucket": "7+",
           "current": 5,
-          "target": 9
+          "target": 10
         }
       ],
       "card_types": [
         {
           "bucket": "Creature",
-          "current": 137,
-          "target": 137.0
+          "current": 140,
+          "target": 140.0
+        },
+        {
+          "bucket": "Planeswalker",
+          "current": 7,
+          "target": 7.0
         },
         {
           "bucket": "Instant",
-          "current": 27,
-          "target": 27.0
+          "current": 28,
+          "target": 28.0
         },
         {
           "bucket": "Sorcery",
-          "current": 24,
-          "target": 24.0
+          "current": 25,
+          "target": 25.0
         },
         {
           "bucket": "Artifact",
@@ -6110,20 +6940,20 @@
         },
         {
           "bucket": "Land",
-          "current": 35,
-          "target": 35.0
+          "current": 36,
+          "target": 36.0
         }
       ],
       "creature_split": [
         {
           "bucket": "Creature",
-          "current": 137,
-          "target": 137.0
+          "current": 140,
+          "target": 140.0
         },
         {
           "bucket": "Noncreature spell",
-          "current": 89,
-          "target": 89.0
+          "current": 91,
+          "target": 91.0
         }
       ],
       "creature_mana_by_colour": {
@@ -6140,8 +6970,8 @@
           },
           {
             "bucket": "3",
-            "current": 7,
-            "target": 6.0
+            "current": 8,
+            "target": 7.0
           },
           {
             "bucket": "4",
@@ -6172,8 +7002,8 @@
           },
           {
             "bucket": "3",
-            "current": 5,
-            "target": 6.0
+            "current": 6,
+            "target": 7.0
           },
           {
             "bucket": "4",
@@ -6204,8 +7034,8 @@
           },
           {
             "bucket": "3",
-            "current": 7,
-            "target": 6.0
+            "current": 8,
+            "target": 7.0
           },
           {
             "bucket": "4",
@@ -6291,12 +7121,12 @@
       "removal_by_colour": [
         {
           "bucket": "W",
-          "current": 9,
+          "current": 10,
           "target": 9
         },
         {
           "bucket": "U",
-          "current": 10,
+          "current": 11,
           "target": 10
         },
         {
@@ -6306,7 +7136,7 @@
         },
         {
           "bucket": "R",
-          "current": 10,
+          "current": 11,
           "target": 10
         },
         {
@@ -6321,7 +7151,7 @@
         },
         {
           "bucket": "C",
-          "current": 2,
+          "current": 3,
           "target": 2
         },
         {
@@ -6359,7 +7189,7 @@
         {
           "colour_section": "C",
           "removal_method": "tap",
-          "current": 1
+          "current": 2
         },
         {
           "colour_section": "G",
@@ -6404,7 +7234,7 @@
         {
           "colour_section": "R",
           "removal_method": "damage",
-          "current": 9
+          "current": 10
         },
         {
           "colour_section": "R",
@@ -6424,12 +7254,12 @@
         {
           "colour_section": "U",
           "removal_method": "tap",
-          "current": 6
+          "current": 7
         },
         {
           "colour_section": "W",
           "removal_method": "exile",
-          "current": 5
+          "current": 6
         },
         {
           "colour_section": "W",
@@ -6438,20 +7268,20 @@
         }
       ],
       "source_images": {
-        "eligible": 80,
-        "used": 80,
+        "eligible": 87,
+        "used": 87,
         "unused": 0,
-        "minimum_usage": 3,
+        "minimum_usage": 1,
         "maximum_usage": 4,
         "target_minimum": 3,
         "target_maximum": 4,
-        "cards_per_image": 3.26
+        "cards_per_image": 3.15
       }
     }
   },
   "summary": {
-    "cards": 261,
-    "artwork_complete": 261,
+    "cards": 274,
+    "artwork_complete": 274,
     "artwork_pending": 0
   }
 }
