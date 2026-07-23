@@ -13,6 +13,8 @@ const imageAttempts = new Map();
 const cardByNumber = new Map();
 let imageObserver = null;
 let modalImageState = null;
+let activeModalNumber = null;
+let preloadStarted = false;
 
 function escapeHtml(value) {
   const el = document.createElement('span');
@@ -98,6 +100,67 @@ function armImageLoading(root=document) {
   });
 }
 
+function updateDownloadProgress(done, total, failed=0, complete=false) {
+  const panel = $('#download-progress');
+  if (!panel) return;
+  panel.hidden = false;
+  $('#download-progress-label').textContent = complete
+    ? (failed ? `${failed} card${failed === 1 ? '' : 's'} unavailable` : 'Cards ready')
+    : 'Downloading cards';
+  $('#download-progress-count').textContent = `${done} / ${total}`;
+  $('#download-progress-bar').style.width = `${total ? Math.round((done / total) * 100) : 100}%`;
+  if (complete) window.setTimeout(() => { panel.hidden = true; }, failed ? 8000 : 3000);
+}
+
+async function preloadCard(card) {
+  const source = artworkSource(card);
+  if (!source) return true;
+  if (localFileMode) {
+    return new Promise(resolve => {
+      const image = new Image();
+      image.onload = () => resolve(true);
+      image.onerror = () => resolve(false);
+      image.src = source;
+    });
+  }
+  for (let attempt = 0; attempt < 5; attempt += 1) {
+    try {
+      await cachedImageUrl(source);
+      return true;
+    } catch (_) {
+      if (attempt < 4) {
+        const delay = Math.min(8000, 600 * (2 ** attempt)) + Math.floor(Math.random() * 350);
+        await new Promise(resolve => window.setTimeout(resolve, delay));
+      }
+    }
+  }
+  return false;
+}
+
+async function preloadAllCards(cards) {
+  if (preloadStarted) return;
+  const queue = cards.filter(card => card.artwork_path);
+  if (!queue.length) return;
+  preloadStarted = true;
+  let cursor = 0;
+  let done = 0;
+  let failed = 0;
+  updateDownloadProgress(0, queue.length);
+  const connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  const concurrency = connection && connection.saveData ? 2 : 5;
+  async function worker() {
+    while (cursor < queue.length) {
+      const card = queue[cursor++];
+      const success = await preloadCard(card);
+      done += 1;
+      if (!success) failed += 1;
+      updateDownloadProgress(done, queue.length, failed);
+    }
+  }
+  await Promise.all(Array.from({length:Math.min(concurrency, queue.length)}, worker));
+  updateDownloadProgress(done, queue.length, failed, true);
+}
+
 function cardMarkup(card) {
   const stats = card.loyalty || (card.power !== null && card.toughness !== null && card.power !== undefined && card.toughness !== undefined ? `${card.power}/${card.toughness}` : '');
   return `<article class="card-tile" data-number="${card.collector_number}">
@@ -121,6 +184,37 @@ function closeModal() {
   releaseModalImage();
   $('#modal').classList.add('hidden');
   document.body.style.overflow = '';
+  activeModalNumber = null;
+}
+
+function modalCards() {
+  return [...(siteData.cards || [])].sort((left, right) => left.collector_number - right.collector_number);
+}
+
+function sourceRootForCard(card) {
+  return $(`[data-number="${card.collector_number}"]`, $('#gallery'))
+    || $(`[data-hero-number="${card.collector_number}"]`, $('#hero-card'));
+}
+
+function updateModalNavigation() {
+  const cards = modalCards();
+  const index = cards.findIndex(card => card.collector_number === activeModalNumber);
+  const previous = index > 0 ? cards[index - 1] : null;
+  const next = index >= 0 && index < cards.length - 1 ? cards[index + 1] : null;
+  const previousButton = $('#modal-prev');
+  const nextButton = $('#modal-next');
+  previousButton.disabled = !previous;
+  nextButton.disabled = !next;
+  previousButton.title = previous ? `Previous: ${previous.name}` : 'No previous card';
+  nextButton.title = next ? `Next: ${next.name}` : 'No next card';
+}
+
+function navigateModal(offset) {
+  if ($('#modal').classList.contains('hidden')) return;
+  const cards = modalCards();
+  const index = cards.findIndex(card => card.collector_number === activeModalNumber);
+  const card = cards[index + offset];
+  if (card) showModal(card, sourceRootForCard(card));
 }
 
 function showModal(card, sourceRoot=null) {
@@ -140,6 +234,7 @@ ${card.flavour_text}` : ''].join('').trim() || 'No rules text.';
     reusableImage.replaceWith(marker);
     modalImage.append(reusableImage);
     modalImageState = {image:reusableImage, marker};
+    hydrateImage(reusableImage);
   } else {
     modalImage.innerHTML = imageMarkup(card);
     armImageLoading(modalImage);
@@ -153,6 +248,8 @@ ${card.flavour_text}` : ''].join('').trim() || 'No rules text.';
   }
   modal.classList.remove('hidden');
   document.body.style.overflow = 'hidden';
+  activeModalNumber = card.collector_number;
+  updateModalNavigation();
 }
 
 function matchesCurrentFilter(card) {
@@ -250,6 +347,7 @@ function loadSite() {
   const archetypes = $('#archetypes');
   archetypes.innerHTML = (data.balance.archetypes || []).map(row => `<article class="archetype" data-pair="${escapeHtml(row.colour_pair)}"><span class="archetype-pair">${escapeHtml(row.colour_pair)}</span><strong>${escapeHtml(row.name)}</strong><small>${escapeHtml(row.description || '')}</small></article>`).join('');
   buildGallery(data.cards || []);
+  window.setTimeout(() => preloadAllCards(data.cards || []), 350);
 }
 
 $('#card-search').addEventListener('input', event => {
@@ -261,7 +359,17 @@ $('#modal').onclick = event => {
     closeModal();
   }
 };
+$('#modal-prev').onclick = () => navigateModal(-1);
+$('#modal-next').onclick = () => navigateModal(1);
 document.addEventListener('keydown', event => {
   if (event.key === 'Escape') closeModal();
+  if (event.key === 'ArrowLeft' && !$('#modal').classList.contains('hidden')) {
+    event.preventDefault();
+    navigateModal(-1);
+  }
+  if (event.key === 'ArrowRight' && !$('#modal').classList.contains('hidden')) {
+    event.preventDefault();
+    navigateModal(1);
+  }
 });
 try { loadSite(); } catch (err) { $('#site-premise').textContent = err.message; }
