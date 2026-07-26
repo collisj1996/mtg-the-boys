@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:42:33.831578+00:00",
+  "generated_at": "2026-07-26T23:42:29.309401+00:00",
   "set": {
     "title": "The Boys",
     "code": "TBY",
@@ -48,6 +48,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/001.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/001.webp"
@@ -100,6 +101,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/002.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/002.webp"
@@ -143,6 +145,7 @@
         "Harry"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/003.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/003.webp"
@@ -193,6 +196,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/004.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/004.webp"
@@ -235,6 +239,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/005.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/005.webp"
@@ -293,6 +300,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/006.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/006.webp"
@@ -335,6 +343,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/007.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/007.webp"
@@ -370,6 +381,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/008.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/008.webp"
@@ -412,6 +424,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/009.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/009.webp"
@@ -462,6 +475,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/010.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/010.webp"
@@ -505,6 +521,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/011.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/011.webp"
@@ -549,6 +566,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/012.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/012.webp"
@@ -599,6 +617,7 @@
         "Harry"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/013.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/013.webp"
@@ -649,6 +668,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/014.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/014.webp"
@@ -693,6 +713,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/015.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/015.webp"
@@ -743,6 +764,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/016.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/016.webp"
@@ -793,6 +815,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/017.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/017.webp"
@@ -843,6 +868,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/018.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/018.webp"
@@ -893,6 +919,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/019.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/019.webp"
@@ -928,6 +955,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/020.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/020.webp"
@@ -970,6 +998,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/021.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/021.webp"
@@ -1014,6 +1043,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/022.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/022.webp"
@@ -1051,6 +1081,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/023.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/023.webp"
@@ -1101,6 +1132,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "cat-1-1-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/024.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/024.webp"
@@ -1134,6 +1168,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/025.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/025.webp"
@@ -1185,6 +1220,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/026.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/026.webp"
@@ -1227,6 +1265,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/027.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/027.webp"
@@ -1279,6 +1320,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/028.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/028.webp"
@@ -1324,6 +1366,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/029.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/029.webp"
@@ -1367,6 +1410,10 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue",
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/030.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/030.webp"
@@ -1402,6 +1449,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/031.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/031.webp"
@@ -1444,6 +1492,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/032.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/032.webp"
@@ -1488,6 +1537,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/033.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/033.webp"
@@ -1539,6 +1589,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/034.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/034.webp"
@@ -1599,6 +1650,10 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white",
+        "jack-emblem"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/035.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/035.webp"
@@ -1649,6 +1704,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/036.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/036.webp"
@@ -1697,6 +1753,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/037.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/037.webp"
@@ -1739,6 +1798,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/038.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/038.webp"
@@ -1783,6 +1843,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/039.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/039.webp"
@@ -1825,6 +1886,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/040.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/040.webp"
@@ -1867,6 +1931,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/041.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/041.webp"
@@ -1909,6 +1974,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/042.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/042.webp"
@@ -1953,6 +2021,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/043.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/043.webp"
@@ -1986,6 +2055,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/044.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/044.webp"
@@ -2021,6 +2091,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/045.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/045.webp"
@@ -2065,6 +2136,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/046.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/046.webp"
@@ -2115,6 +2187,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/047.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/047.webp"
@@ -2157,6 +2230,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/048.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/048.webp"
@@ -2201,6 +2275,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/049.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/049.webp"
@@ -2243,6 +2318,9 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/050.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/050.webp"
@@ -2285,6 +2363,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/051.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/051.webp"
@@ -2327,6 +2406,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/052.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/052.webp"
@@ -2369,6 +2449,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/053.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/053.webp"
@@ -2411,6 +2492,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/054.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/054.webp"
@@ -2461,6 +2545,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/055.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/055.webp"
@@ -2503,6 +2588,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/056.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/056.webp"
@@ -2547,6 +2633,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/057.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/057.webp"
@@ -2591,6 +2678,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/058.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/058.webp"
@@ -2635,6 +2723,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/059.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/059.webp"
@@ -2670,6 +2759,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/060.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/060.webp"
@@ -2703,6 +2793,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/061.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/061.webp"
@@ -2736,6 +2827,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/062.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/062.webp"
@@ -2794,6 +2886,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/063.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/063.webp"
@@ -2838,6 +2933,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/064.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/064.webp"
@@ -2880,6 +2976,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/065.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/065.webp"
@@ -2915,6 +3012,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/066.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/066.webp"
@@ -2965,6 +3065,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/067.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/067.webp"
@@ -2998,6 +3101,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/068.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/068.webp"
@@ -3040,6 +3144,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/069.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/069.webp"
@@ -3082,6 +3187,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/070.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/070.webp"
@@ -3142,6 +3248,10 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue",
+        "adam-emblem"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/071.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/071.webp"
@@ -3192,6 +3302,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/072.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/072.webp"
@@ -3242,6 +3353,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "artifact-copy"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/073.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/073.webp"
@@ -3284,6 +3398,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/074.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/074.webp"
@@ -3326,6 +3441,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/075.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/075.webp"
@@ -3368,6 +3484,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/076.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/076.webp"
@@ -3418,6 +3535,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/077.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/077.webp"
@@ -3460,6 +3578,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/078.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/078.webp"
@@ -3502,6 +3623,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/079.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/079.webp"
@@ -3553,6 +3677,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/080.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/080.webp"
@@ -3595,6 +3720,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/081.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/081.webp"
@@ -3630,6 +3756,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/082.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/082.webp"
@@ -3682,6 +3809,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/083.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/083.webp"
@@ -3732,6 +3860,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/084.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/084.webp"
@@ -3774,6 +3903,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/085.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/085.webp"
@@ -3826,6 +3956,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/086.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/086.webp"
@@ -3876,6 +4007,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/087.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/087.webp"
@@ -3926,6 +4058,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/088.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/088.webp"
@@ -3961,6 +4096,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/089.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/089.webp"
@@ -4003,6 +4139,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/090.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/090.webp"
@@ -4045,6 +4182,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/091.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/091.webp"
@@ -4103,6 +4243,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/092.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/092.webp"
@@ -4136,6 +4277,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/093.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/093.webp"
@@ -4171,6 +4313,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/094.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/094.webp"
@@ -4215,6 +4358,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/095.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/095.webp"
@@ -4250,6 +4394,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/096.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/096.webp"
@@ -4292,6 +4437,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/097.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/097.webp"
@@ -4342,6 +4490,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/098.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/098.webp"
@@ -4377,6 +4526,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/099.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/099.webp"
@@ -4419,6 +4569,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/100.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/100.webp"
@@ -4469,6 +4620,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/101.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/101.webp"
@@ -4519,6 +4671,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/102.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/102.webp"
@@ -4554,6 +4707,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/103.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/103.webp"
@@ -4604,6 +4758,10 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food",
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/104.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/104.webp"
@@ -4646,6 +4804,9 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [
+        "shade-copy-1-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/105.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/105.webp"
@@ -4696,6 +4857,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/106.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/106.webp"
@@ -4746,6 +4908,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/107.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/107.webp"
@@ -4804,6 +4967,10 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure",
+        "jordan-emblem"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/108.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/108.webp"
@@ -4862,6 +5029,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/109.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/109.webp"
@@ -4920,6 +5088,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/110.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/110.webp"
@@ -4970,6 +5139,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/111.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/111.webp"
@@ -5012,6 +5182,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/112.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/112.webp"
@@ -5054,6 +5225,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/113.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/113.webp"
@@ -5096,6 +5268,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/114.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/114.webp"
@@ -5138,6 +5311,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/115.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/115.webp"
@@ -5180,6 +5354,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/116.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/116.webp"
@@ -5222,6 +5399,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/117.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/117.webp"
@@ -5264,6 +5442,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/118.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/118.webp"
@@ -5309,6 +5488,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/119.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/119.webp"
@@ -5351,6 +5531,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/120.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/120.webp"
@@ -5393,6 +5574,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/121.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/121.webp"
@@ -5443,6 +5627,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/122.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/122.webp"
@@ -5485,6 +5672,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/123.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/123.webp"
@@ -5527,6 +5715,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/124.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/124.webp"
@@ -5569,6 +5760,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/125.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/125.webp"
@@ -5613,6 +5805,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/126.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/126.webp"
@@ -5656,6 +5849,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "reveler-1-1-black-red"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/127.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/127.webp"
@@ -5698,6 +5894,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/128.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/128.webp"
@@ -5740,6 +5939,10 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food",
+        "hasty-creature-copy"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/129.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/129.webp"
@@ -5782,6 +5985,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/130.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/130.webp"
@@ -5827,6 +6031,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/131.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/131.webp"
@@ -5871,6 +6076,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/132.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/132.webp"
@@ -5913,6 +6119,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/133.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/133.webp"
@@ -5948,6 +6155,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/134.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/134.webp"
@@ -5983,6 +6191,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/135.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/135.webp"
@@ -6018,6 +6229,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/136.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/136.webp"
@@ -6060,6 +6272,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/137.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/137.webp"
@@ -6102,6 +6315,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/138.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/138.webp"
@@ -6144,6 +6358,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/139.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/139.webp"
@@ -6189,6 +6404,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/140.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/140.webp"
@@ -6239,6 +6455,10 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure",
+        "spare-kit"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/141.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/141.webp"
@@ -6274,6 +6494,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/142.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/142.webp"
@@ -6316,6 +6537,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/143.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/143.webp"
@@ -6358,6 +6582,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/144.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/144.webp"
@@ -6419,6 +6644,10 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure",
+        "oliver-emblem"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/145.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/145.webp"
@@ -6461,6 +6690,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/146.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/146.webp"
@@ -6506,6 +6738,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/147.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/147.webp"
@@ -6551,6 +6786,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/148.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/148.webp"
@@ -6601,6 +6837,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/149.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/149.webp"
@@ -6643,6 +6880,7 @@
         "Harry"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/150.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/150.webp"
@@ -6685,6 +6923,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/151.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/151.webp"
@@ -6735,6 +6974,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/152.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/152.webp"
@@ -6777,6 +7017,9 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/153.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/153.webp"
@@ -6810,6 +7053,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/154.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/154.webp"
@@ -6852,6 +7096,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/155.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/155.webp"
@@ -6887,6 +7132,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/156.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/156.webp"
@@ -6937,6 +7183,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/157.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/157.webp"
@@ -6995,6 +7242,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/158.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/158.webp"
@@ -7037,6 +7285,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/159.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/159.webp"
@@ -7087,6 +7336,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/160.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/160.webp"
@@ -7137,6 +7387,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "saproling-1-1-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/161.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/161.webp"
@@ -7179,6 +7432,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/162.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/162.webp"
@@ -7224,6 +7478,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/163.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/163.webp"
@@ -7274,6 +7531,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/164.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/164.webp"
@@ -7324,6 +7582,10 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food",
+        "saproling-1-1-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/165.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/165.webp"
@@ -7367,6 +7629,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/166.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/166.webp"
@@ -7410,6 +7673,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "cat-1-1-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/167.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/167.webp"
@@ -7463,6 +7729,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/168.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/168.webp"
@@ -7496,6 +7763,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/169.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/169.webp"
@@ -7540,6 +7808,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/170.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/170.webp"
@@ -7576,6 +7845,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/171.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/171.webp"
@@ -7620,6 +7890,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/172.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/172.webp"
@@ -7670,6 +7943,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/173.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/173.webp"
@@ -7712,6 +7986,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/174.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/174.webp"
@@ -7762,6 +8037,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/175.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/175.webp"
@@ -7806,6 +8082,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/176.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/176.webp"
@@ -7850,6 +8127,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/177.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/177.webp"
@@ -7900,6 +8178,10 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food",
+        "saproling-1-1-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/178.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/178.webp"
@@ -7944,6 +8226,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "stool-0-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/179.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/179.webp"
@@ -8002,6 +8287,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/180.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/180.webp"
@@ -8068,6 +8354,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/181.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/181.webp"
@@ -8118,6 +8405,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "saproling-copy-1-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/182.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/182.webp"
@@ -8176,6 +8466,10 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "beast-3-3-green",
+        "matt-emblem"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/183.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/183.webp"
@@ -8224,6 +8518,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "saproling-copy-1-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/184.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/184.webp"
@@ -8274,6 +8571,10 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food",
+        "beast-2-2-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/185.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/185.webp"
@@ -8320,6 +8621,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/186.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/186.webp"
@@ -8365,6 +8667,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/187.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/187.webp"
@@ -8410,6 +8713,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/188.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/188.webp"
@@ -8453,6 +8759,9 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [
+        "clue"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/189.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/189.webp"
@@ -8497,6 +8806,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/190.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/190.webp"
@@ -8542,6 +8852,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/191.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/191.webp"
@@ -8586,6 +8897,7 @@
         "Harry"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/192.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/192.webp"
@@ -8629,6 +8941,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/193.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/193.webp"
@@ -8675,6 +8990,10 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure",
+        "reveler-1-1-black-red"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/194.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/194.webp"
@@ -8726,6 +9045,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/195.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/195.webp"
@@ -8769,6 +9089,7 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/196.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/196.webp"
@@ -8814,6 +9135,7 @@
         "Harry"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/197.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/197.webp"
@@ -8857,6 +9179,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/198.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/198.webp"
@@ -8900,6 +9225,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/199.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/199.webp"
@@ -8943,6 +9269,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/200.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/200.webp"
@@ -8986,6 +9315,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/201.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/201.webp"
@@ -9029,6 +9359,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/202.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/202.webp"
@@ -9072,6 +9403,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/203.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/203.webp"
@@ -9117,6 +9449,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/204.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/204.webp"
@@ -9160,6 +9493,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/205.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/205.webp"
@@ -9203,6 +9537,7 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/206.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/206.webp"
@@ -9246,6 +9581,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "cat-1-1-green"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/207.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/207.webp"
@@ -9289,6 +9627,9 @@
         "Jack"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/208.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/208.webp"
@@ -9332,6 +9673,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/209.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/209.webp"
@@ -9377,6 +9719,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/210.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/210.webp"
@@ -9420,6 +9763,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/211.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/211.webp"
@@ -9463,6 +9807,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/212.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/212.webp"
@@ -9506,6 +9851,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/213.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/213.webp"
@@ -9549,6 +9895,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/214.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/214.webp"
@@ -9592,6 +9939,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/215.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/215.webp"
@@ -9634,6 +9982,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/216.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/216.webp"
@@ -9676,6 +10025,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/217.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/217.webp"
@@ -9709,6 +10059,7 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/218.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/218.webp"
@@ -9753,6 +10104,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/219.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/219.webp"
@@ -9811,6 +10163,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/220.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/220.webp"
@@ -9877,6 +10232,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/221.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/221.webp"
@@ -9919,6 +10275,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/222.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/222.webp"
@@ -9961,6 +10318,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/223.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/223.webp"
@@ -10006,6 +10364,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/224.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/224.webp"
@@ -10056,6 +10415,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/225.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/225.webp"
@@ -10098,6 +10458,7 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/226.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/226.webp"
@@ -10148,6 +10509,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/227.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/227.webp"
@@ -10206,6 +10568,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/228.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/228.webp"
@@ -10256,6 +10621,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/229.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/229.webp"
@@ -10314,6 +10680,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/230.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/230.webp"
@@ -10372,6 +10739,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "treasure"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/231.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/231.webp"
@@ -10422,6 +10792,7 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/232.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/232.webp"
@@ -10464,6 +10835,9 @@
         "Jordan"
       ],
       "mechanics": [],
+      "token_keys": [
+        "stool-0-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/233.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/233.webp"
@@ -10514,6 +10888,9 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [
+        "illusion-copy-1-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/234.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/234.webp"
@@ -10564,6 +10941,9 @@
         "Adam"
       ],
       "mechanics": [],
+      "token_keys": [
+        "food"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/235.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/235.webp"
@@ -10615,6 +10995,9 @@
         "Oliver"
       ],
       "mechanics": [],
+      "token_keys": [
+        "human-1-1-white"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/236.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/236.webp"
@@ -10667,6 +11050,7 @@
         "James"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/237.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/237.webp"
@@ -10717,6 +11101,10 @@
         "Jon"
       ],
       "mechanics": [],
+      "token_keys": [
+        "jon-emblem",
+        "illusion-copy-1-1"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/238.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/238.webp"
@@ -10748,6 +11136,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/239.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/239.webp"
@@ -10779,6 +11168,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/240.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/240.webp"
@@ -10810,6 +11200,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/241.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/241.webp"
@@ -10841,6 +11232,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/242.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/242.webp"
@@ -10872,6 +11264,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/243.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/243.webp"
@@ -10903,6 +11296,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/244.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/244.webp"
@@ -10934,6 +11328,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/245.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/245.webp"
@@ -10965,6 +11360,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/246.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/246.webp"
@@ -10996,6 +11392,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/247.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/247.webp"
@@ -11027,6 +11424,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/248.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/248.webp"
@@ -11058,6 +11456,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/249.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/249.webp"
@@ -11089,6 +11488,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/250.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/250.webp"
@@ -11120,6 +11520,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/251.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/251.webp"
@@ -11151,6 +11552,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/252.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/252.webp"
@@ -11182,6 +11584,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/253.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/253.webp"
@@ -11213,6 +11616,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/254.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/254.webp"
@@ -11244,6 +11648,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/255.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/255.webp"
@@ -11275,6 +11680,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/256.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/256.webp"
@@ -11306,6 +11712,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/257.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/257.webp"
@@ -11337,6 +11744,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/258.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/258.webp"
@@ -11368,6 +11776,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/259.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/259.webp"
@@ -11399,6 +11808,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/260.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/260.webp"
@@ -11430,6 +11840,7 @@
       "archetypes": [],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/261.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/261.webp"
@@ -11478,6 +11889,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/262.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/262.webp"
@@ -11518,6 +11930,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/263.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/263.webp"
@@ -11558,6 +11971,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/264.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/264.webp"
@@ -11598,6 +12012,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/265.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/265.webp"
@@ -11638,6 +12053,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/266.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/266.webp"
@@ -11678,6 +12094,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/267.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/267.webp"
@@ -11720,6 +12137,7 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/268.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/268.webp"
@@ -11760,6 +12178,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/269.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/269.webp"
@@ -11800,6 +12219,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/270.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/270.webp"
@@ -11840,6 +12260,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/271.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/271.webp"
@@ -11880,6 +12301,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/272.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/272.webp"
@@ -11920,6 +12342,7 @@
       ],
       "people": [],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/273.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/273.webp"
@@ -11955,9 +12378,731 @@
         "Matt"
       ],
       "mechanics": [],
+      "token_keys": [],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/274.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/274.webp"
+    }
+  ],
+  "tokens": [
+    {
+      "token_number": 1,
+      "token_key": "food",
+      "name": "Food",
+      "type_line": "Token Artifact — Food",
+      "oracle_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T01.webp",
+      "source_cards": [
+        {
+          "collector_number": 5,
+          "name": "Last-Bite Opportunist"
+        },
+        {
+          "collector_number": 7,
+          "name": "Feast-Hall Mainstay"
+        },
+        {
+          "collector_number": 88,
+          "name": "Keeper of Abandoned Plates"
+        },
+        {
+          "collector_number": 104,
+          "name": "Waterglass Black Market"
+        },
+        {
+          "collector_number": 121,
+          "name": "Heese, Freshly Cut"
+        },
+        {
+          "collector_number": 129,
+          "name": "Breakfast Comes Around"
+        },
+        {
+          "collector_number": 153,
+          "name": "Last-Course Forager"
+        },
+        {
+          "collector_number": 163,
+          "name": "Leave the Haze Behind"
+        },
+        {
+          "collector_number": 165,
+          "name": "Wide-Brimmed Provisioner"
+        },
+        {
+          "collector_number": 172,
+          "name": "Reach for the Last Portion"
+        },
+        {
+          "collector_number": 178,
+          "name": "Garden of Unfinished Meals"
+        },
+        {
+          "collector_number": 185,
+          "name": "Adam, Deep-Fried Ecosystem"
+        },
+        {
+          "collector_number": 208,
+          "name": "Beluga Compost Diver"
+        },
+        {
+          "collector_number": 235,
+          "name": "The Table's Final Portion"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T01.webp"
+    },
+    {
+      "token_number": 2,
+      "token_key": "clue",
+      "name": "Clue",
+      "type_line": "Token Artifact — Clue",
+      "oracle_text": "{2}, Sacrifice this artifact: Draw a card.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T02.webp",
+      "source_cards": [
+        {
+          "collector_number": 27,
+          "name": "Bordan, Meticulous Collector"
+        },
+        {
+          "collector_number": 30,
+          "name": "Absurdly Close Documentation"
+        },
+        {
+          "collector_number": 40,
+          "name": "Too-Close Archivist"
+        },
+        {
+          "collector_number": 42,
+          "name": "Unwrapped Memory-Keeper"
+        },
+        {
+          "collector_number": 50,
+          "name": "Mask in the Mirror"
+        },
+        {
+          "collector_number": 54,
+          "name": "Waterglass Custodian"
+        },
+        {
+          "collector_number": 63,
+          "name": "Plans Seen from Every Angle"
+        },
+        {
+          "collector_number": 66,
+          "name": "Remove the Festive Version"
+        },
+        {
+          "collector_number": 67,
+          "name": "Another Matt for the Archive"
+        },
+        {
+          "collector_number": 71,
+          "name": "Adam"
+        },
+        {
+          "collector_number": 97,
+          "name": "Strike It from the Record"
+        },
+        {
+          "collector_number": 188,
+          "name": "Adam, Draft-Night Architect"
+        },
+        {
+          "collector_number": 189,
+          "name": "Mirror-Mask Evidence Broker"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T02.webp"
+    },
+    {
+      "token_number": 3,
+      "token_key": "treasure",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "oracle_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T03.webp",
+      "source_cards": [
+        {
+          "collector_number": 78,
+          "name": "Aviator Dealbroker"
+        },
+        {
+          "collector_number": 79,
+          "name": "Midlife Asset Keeper"
+        },
+        {
+          "collector_number": 91,
+          "name": "Custodian of Spare Change"
+        },
+        {
+          "collector_number": 104,
+          "name": "Waterglass Black Market"
+        },
+        {
+          "collector_number": 108,
+          "name": "Jordan"
+        },
+        {
+          "collector_number": 116,
+          "name": "Bots-and-Bans Broker"
+        },
+        {
+          "collector_number": 122,
+          "name": "Story Sparks Again"
+        },
+        {
+          "collector_number": 124,
+          "name": "Arcade Combo-Chaser"
+        },
+        {
+          "collector_number": 128,
+          "name": "Beachside Last-Bite Dealer"
+        },
+        {
+          "collector_number": 135,
+          "name": "Beluga Breach"
+        },
+        {
+          "collector_number": 141,
+          "name": "The Traveller's Spare Kit"
+        },
+        {
+          "collector_number": 143,
+          "name": "Bulk-Fed Juggernaut"
+        },
+        {
+          "collector_number": 145,
+          "name": "Oliver"
+        },
+        {
+          "collector_number": 146,
+          "name": "Oliver, Change Set Ablaze"
+        },
+        {
+          "collector_number": 147,
+          "name": "The Rig Reaches Critical Speed"
+        },
+        {
+          "collector_number": 193,
+          "name": "Obscure-Room Converter"
+        },
+        {
+          "collector_number": 194,
+          "name": "One More Course, One Less Problem"
+        },
+        {
+          "collector_number": 220,
+          "name": "Disposable Bessenger"
+        },
+        {
+          "collector_number": 228,
+          "name": "Ordinary Matt Replica"
+        },
+        {
+          "collector_number": 231,
+          "name": "Round-to-Round Exchange"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T03.webp"
+    },
+    {
+      "token_number": 4,
+      "token_key": "human-1-1-white",
+      "name": "Human",
+      "type_line": "Token Creature — Human",
+      "oracle_text": "",
+      "colours": [
+        "W"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T04.webp",
+      "source_cards": [
+        {
+          "collector_number": 10,
+          "name": "Everyone's Invited"
+        },
+        {
+          "collector_number": 17,
+          "name": "Clubroom Coordinator"
+        },
+        {
+          "collector_number": 26,
+          "name": "Before the Plans Changed"
+        },
+        {
+          "collector_number": 30,
+          "name": "Absurdly Close Documentation"
+        },
+        {
+          "collector_number": 35,
+          "name": "Jack"
+        },
+        {
+          "collector_number": 37,
+          "name": "All Together for the Photograph"
+        },
+        {
+          "collector_number": 198,
+          "name": "Simpler-Times Rallykeeper"
+        },
+        {
+          "collector_number": 200,
+          "name": "Memes for the Whole Group"
+        },
+        {
+          "collector_number": 236,
+          "name": "Keeper of the Contingency Box"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T04.webp"
+    },
+    {
+      "token_number": 5,
+      "token_key": "cat-1-1-green",
+      "name": "Cat",
+      "type_line": "Token Creature — Cat",
+      "oracle_text": "",
+      "colours": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T05.webp",
+      "source_cards": [
+        {
+          "collector_number": 24,
+          "name": "Meatloaf's Favourite Chair"
+        },
+        {
+          "collector_number": 167,
+          "name": "Background Cat Coordinator"
+        },
+        {
+          "collector_number": 207,
+          "name": "Meatloaf's Scrap-Garden Keeper"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T05.webp"
+    },
+    {
+      "token_number": 6,
+      "token_key": "reveler-1-1-black-red",
+      "name": "Reveler",
+      "type_line": "Token Creature — Reveler",
+      "oracle_text": "Haste",
+      "colours": [
+        "B",
+        "R"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T06.webp",
+      "source_cards": [
+        {
+          "collector_number": 127,
+          "name": "The Round Remembers"
+        },
+        {
+          "collector_number": 194,
+          "name": "One More Course, One Less Problem"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T06.webp"
+    },
+    {
+      "token_number": 7,
+      "token_key": "saproling-1-1-green",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "oracle_text": "",
+      "colours": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T07.webp",
+      "source_cards": [
+        {
+          "collector_number": 161,
+          "name": "Tikka-Garden Recycler"
+        },
+        {
+          "collector_number": 165,
+          "name": "Wide-Brimmed Provisioner"
+        },
+        {
+          "collector_number": 178,
+          "name": "Garden of Unfinished Meals"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T07.webp"
+    },
+    {
+      "token_number": 8,
+      "token_key": "stool-0-1",
+      "name": "Stool",
+      "type_line": "Token Artifact Creature — Stool",
+      "oracle_text": "",
+      "colours": [],
+      "power": "0",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T08.webp",
+      "source_cards": [
+        {
+          "collector_number": 179,
+          "name": "The Stool Supports a Forest"
+        },
+        {
+          "collector_number": 233,
+          "name": "Bordan's Load-Bearing Stool"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T08.webp"
+    },
+    {
+      "token_number": 9,
+      "token_key": "beast-3-3-green",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "oracle_text": "",
+      "colours": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T09.webp",
+      "source_cards": [
+        {
+          "collector_number": 183,
+          "name": "Matt"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T09.webp"
+    },
+    {
+      "token_number": 10,
+      "token_key": "beast-2-2-green",
+      "name": "Beast",
+      "type_line": "Token Creature — Beast",
+      "oracle_text": "",
+      "colours": [
+        "G"
+      ],
+      "power": "2",
+      "toughness": "2",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T10.webp",
+      "source_cards": [
+        {
+          "collector_number": 185,
+          "name": "Adam, Deep-Fried Ecosystem"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T10.webp"
+    },
+    {
+      "token_number": 11,
+      "token_key": "spare-kit",
+      "name": "Spare Kit",
+      "type_line": "Token Artifact — Equipment",
+      "oracle_text": "Equipped creature gets +1/+0.\nEquip {1}",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T11.webp",
+      "source_cards": [
+        {
+          "collector_number": 141,
+          "name": "The Traveller's Spare Kit"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T11.webp"
+    },
+    {
+      "token_number": 12,
+      "token_key": "jack-emblem",
+      "name": "Jack Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "At the beginning of combat on your turn, create two 1/1 white Human creature tokens, then put a +1/+1 counter on each creature you control. Those creatures gain indestructible until end of turn.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T12.webp",
+      "source_cards": [
+        {
+          "collector_number": 35,
+          "name": "Jack"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T12.webp"
+    },
+    {
+      "token_number": 13,
+      "token_key": "adam-emblem",
+      "name": "Adam Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T13.webp",
+      "source_cards": [
+        {
+          "collector_number": 71,
+          "name": "Adam"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T13.webp"
+    },
+    {
+      "token_number": 14,
+      "token_key": "jordan-emblem",
+      "name": "Jordan Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "Whenever an artifact you control is put into a graveyard from the battlefield, draw a card and each opponent loses 1 life.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T14.webp",
+      "source_cards": [
+        {
+          "collector_number": 108,
+          "name": "Jordan"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T14.webp"
+    },
+    {
+      "token_number": 15,
+      "token_key": "oliver-emblem",
+      "name": "Oliver Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "You may play cards you own from exile. Whenever you cast a spell from exile, copy it. You may choose new targets for the copy.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T15.webp",
+      "source_cards": [
+        {
+          "collector_number": 145,
+          "name": "Oliver"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T15.webp"
+    },
+    {
+      "token_number": 16,
+      "token_key": "matt-emblem",
+      "name": "Matt Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "Creatures you control have trample. Whenever one or more creatures you control with power 4 or greater attack, draw a card and put two +1/+1 counters on each attacking creature.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T16.webp",
+      "source_cards": [
+        {
+          "collector_number": 183,
+          "name": "Matt"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T16.webp"
+    },
+    {
+      "token_number": 17,
+      "token_key": "jon-emblem",
+      "name": "Jon Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "You may look at and play the top card of each player's library, and you may spend mana as though it were mana of any type to cast spells this way.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T17.webp",
+      "source_cards": [
+        {
+          "collector_number": 238,
+          "name": "Jon"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T17.webp"
+    },
+    {
+      "token_number": 18,
+      "token_key": "artifact-copy",
+      "name": "Artifact Copy",
+      "type_line": "Token Artifact",
+      "oracle_text": "This token is a copy of the chosen artifact.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T18.webp",
+      "source_cards": [
+        {
+          "collector_number": 73,
+          "name": "The Tikka Incident"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T18.webp"
+    },
+    {
+      "token_number": 19,
+      "token_key": "shade-copy-1-1",
+      "name": "Shade Copy",
+      "type_line": "Token Creature — Shade",
+      "oracle_text": "This token is a copy of the chosen creature, except it's a 1/1 black Shade with no abilities.",
+      "colours": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T19.webp",
+      "source_cards": [
+        {
+          "collector_number": 105,
+          "name": "Panorama Eats the Witness"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T19.webp"
+    },
+    {
+      "token_number": 20,
+      "token_key": "hasty-creature-copy",
+      "name": "Hasty Copy",
+      "type_line": "Token Creature",
+      "oracle_text": "This token is a copy of the chosen creature, except it has haste. Sacrifice it at the beginning of the next end step.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T20.webp",
+      "source_cards": [
+        {
+          "collector_number": 129,
+          "name": "Breakfast Comes Around"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T20.webp"
+    },
+    {
+      "token_number": 21,
+      "token_key": "saproling-copy-1-1",
+      "name": "Saproling Copy",
+      "type_line": "Token Creature — Saproling",
+      "oracle_text": "This token is a copy of the chosen creature, except it's 1/1 and is a green Saproling in addition to its other colors and types.",
+      "colours": [
+        "G"
+      ],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T21.webp",
+      "source_cards": [
+        {
+          "collector_number": 182,
+          "name": "Every Change Leaves Roots"
+        },
+        {
+          "collector_number": 184,
+          "name": "The Photograph Grows Around Us"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T21.webp"
+    },
+    {
+      "token_number": 22,
+      "token_key": "illusion-copy-1-1",
+      "name": "Illusion Copy",
+      "type_line": "Token Artifact Creature — Illusion",
+      "oracle_text": "This token is a copy of the chosen creature, except it's a 1/1 colorless Illusion artifact creature.",
+      "colours": [],
+      "power": "1",
+      "toughness": "1",
+      "is_emblem": false,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T22.webp",
+      "source_cards": [
+        {
+          "collector_number": 234,
+          "name": "Panorama of Misremembered Faces"
+        },
+        {
+          "collector_number": 238,
+          "name": "Jon"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T22.webp"
     }
   ],
   "balance": {
@@ -14009,11 +15154,14 @@
   "summary": {
     "cards": 274,
     "artwork_complete": 274,
-    "artwork_pending": 0
+    "artwork_pending": 0,
+    "tokens": 22,
+    "token_artwork_complete": 22,
+    "token_artwork_pending": 0
   },
   "image_delivery": {
     "provider": "bunny",
     "public_url": "https://mtg-the-boys.b-cdn.net",
-    "verified_at": "2026-07-26T22:41:56.335314+00:00"
+    "verified_at": "2026-07-26T23:42:29.004355+00:00"
   }
 }
