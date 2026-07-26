@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T14:57:05.939927+00:00",
+  "generated_at": "2026-07-26T22:42:33.831578+00:00",
   "set": {
     "title": "The Boys",
     "code": "TBY",
@@ -16,7 +16,7 @@
       "mana_cost": "{W}",
       "mana_value": 1.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "Whenever another creature enters the battlefield under your control, if it entered this turn, Banana-Bread Starter gets +1/+0 until end of turn. This ability triggers only once each turn.",
+      "oracle_text": "Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",
       "flavour_text": "Breakfast was merely the first stage of the plan.",
       "rarity": "C",
       "power": "1",
@@ -58,7 +58,7 @@
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Scout",
-      "oracle_text": "Vigilance\nWhenever Hillside Pathkeeper attacks with another creature, tap target creature an opponent controls with power 2 or less.",
+      "oracle_text": "Whenever Hillside Pathkeeper and at least one other creature attack, tap target creature an opponent controls with power 2 or less.",
       "flavour_text": "The route is easier when nobody wanders off alone.",
       "rarity": "C",
       "power": "2",
@@ -110,7 +110,7 @@
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "When Protective Hold enters the battlefield, another target creature you control gains indestructible until end of turn.",
+      "oracle_text": "When Protective Hold enters, another target creature you control gains indestructible until end of turn.",
       "flavour_text": "Some moments are carried carefully through every retelling.",
       "rarity": "C",
       "power": "2",
@@ -153,12 +153,12 @@
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Advisor",
-      "oracle_text": "When Change Collector enters the battlefield, put a +1/+1 counter on another target creature you control.\nChanged — Change Collector has vigilance as long as it has a counter on it or is equipped.",
+      "oracle_text": "When Change Collector enters the battlefield, put a +1/+1 counter on target creature you control.\nChanged — Change Collector has vigilance as long as it has a counter on it or is equipped.",
       "flavour_text": "He asked for change and received an entirely new version.",
       "rarity": "C",
       "power": "2",
       "toughness": "2",
-      "loyalty": null,
+      "loyalty": "",
       "colours": [
         "W"
       ],
@@ -203,7 +203,7 @@
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "When Last-Bite Opportunist enters the battlefield, create a Food token. (It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)",
+      "oracle_text": "When Last-Bite Opportunist enters, create a Food token. You gain 1 life. (A Food token is an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)",
       "flavour_text": "“You finished with that?”",
       "rarity": "C",
       "power": "2",
@@ -559,7 +559,7 @@
       "mana_cost": "{1}{W}",
       "mana_value": 2.0,
       "type_line": "Enchantment — Aura",
-      "oracle_text": "Enchant creature you control\nWhen Rest Until Morning enters the battlefield, tap enchanted creature and you gain 3 life.\nEnchanted creature doesn't untap during your untap step.\nAt the beginning of your upkeep, you may sacrifice Rest Until Morning. When you do, put two +1/+1 counters on enchanted creature and untap it.",
+      "oracle_text": "Enchant creature you control\nWhen Rest Until Morning enters the battlefield, tap enchanted creature and you gain 3 life.\nEnchanted creature doesn't untap during your untap step.\nAt the beginning of your upkeep, you may put two +1/+1 counters on enchanted creature. If you do, untap it, then sacrifice Rest Until Morning.",
       "flavour_text": "The smallest sleeper woke to find the whole room waiting.",
       "rarity": "U",
       "power": null,
@@ -609,12 +609,12 @@
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Cleric",
-      "oracle_text": "Lifelink\nWhenever you put one or more counters on another creature you control, you gain 1 life. This ability triggers only once each turn.",
+      "oracle_text": "Lifelink\nWhenever you put one or more counters on another creature you control, you gain 1 life.",
       "flavour_text": "Service required neither spectacle nor riches.",
       "rarity": "U",
       "power": "2",
       "toughness": "3",
-      "loyalty": null,
+      "loyalty": "",
       "colours": [
         "W"
       ],
@@ -703,7 +703,7 @@
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
       "type_line": "Enchantment",
-      "oracle_text": "Together — At the beginning of your end step, if two or more creatures you control attacked this turn, put a rally counter on Plan for the Whole Table.\nRemove three rally counters from Plan for the Whole Table and sacrifice it: Put a +1/+1 counter on each creature you control.",
+      "oracle_text": "Together — At the beginning of your end step, if two or more creatures you control attacked this turn, put a rally counter on Plan for the Whole Table.\nRemove two rally counters from Plan for the Whole Table and sacrifice it: Put a +1/+1 counter on each creature you control.",
       "flavour_text": "By the third retelling, everyone had apparently agreed from the start.",
       "rarity": "U",
       "power": null,
@@ -753,12 +753,12 @@
       "mana_cost": "{3}{W}",
       "mana_value": 4.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "When Clubroom Coordinator enters the battlefield, create two 1/1 white Human creature tokens.\nWhenever one or more creature tokens you control attack, you gain 1 life. This ability triggers only once each turn.",
+      "oracle_text": "When Clubroom Coordinator enters the battlefield, create two 1/1 white Human creature tokens.\nWhenever one or more creature tokens you control attack, you gain 1 life.",
       "flavour_text": "The night acquired a schedule only after it had already begun.",
       "rarity": "U",
       "power": "2",
       "toughness": "3",
-      "loyalty": null,
+      "loyalty": "",
       "colours": [
         "W"
       ],
@@ -900,10 +900,10 @@
     {
       "collector_number": 20,
       "name": "General Prohibition",
-      "mana_cost": "{X}{W}{W}",
-      "mana_value": 2.0,
+      "mana_cost": "{2}{W}",
+      "mana_value": 3.0,
       "type_line": "Instant",
-      "oracle_text": "Exile target attacking or blocking creature with mana value X or less.",
+      "oracle_text": "Exile target attacking or blocking creature.",
       "flavour_text": "The longer the explanation, the broader the ban became.",
       "rarity": "U",
       "power": null,
@@ -913,7 +913,7 @@
         "W"
       ],
       "colour_section": "W",
-      "draft_role": "Scalable combat removal capable of answering small threats efficiently or large threats late.",
+      "draft_role": "Unconditional combat exile for answering attacking or blocking creatures of any size.",
       "source_status": "mixed",
       "art_direction_freedom": "anchored",
       "is_removal": true,
@@ -984,7 +984,7 @@
       "flavour_text": "Once bedtime was declared, even the battlefield lowered its voice.",
       "rarity": "U",
       "power": "4",
-      "toughness": "5",
+      "toughness": "4",
       "loyalty": null,
       "colours": [
         "W"
@@ -1061,7 +1061,7 @@
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "When Meatloaf's Favourite Chair enters the battlefield, create a 1/1 green Cat creature token.\nWhenever one or more creatures you control become Changed, put a +1/+1 counter on that Cat. This ability triggers only once each turn. (A permanent is Changed if it has a counter on it or is equipped.)",
+      "oracle_text": "When Meatloaf's Favourite Chair enters, create a 1/1 green Cat creature token.\nWhenever one or more counters are put on one or more creatures you control or one or more creatures you control become equipped, put a +1/+1 counter on that Cat.",
       "flavour_text": "One hand for the plan, one hand reserved for Meatloaf.",
       "rarity": "U",
       "power": "2",
@@ -1195,12 +1195,12 @@
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
       "type_line": "Legendary Creature — Human Artificer",
-      "oracle_text": "Vigilance\nWhenever Bordan, Meticulous Collector enters the battlefield or attacks, you may attach target Equipment you control to target creature you control.\nWhenever one or more equipped creatures you control deal combat damage to a player, investigate. This ability triggers only once each turn.",
+      "oracle_text": "Vigilance\nWhenever Bordan, Meticulous Collector enters the battlefield or attacks, you may attach target Equipment you control to target creature you control.\nWhenever one or more equipped creatures you control deal combat damage to a player, investigate.",
       "flavour_text": "The inventory began with bots and bans and ended somewhere beyond classification.",
       "rarity": "R",
       "power": "3",
       "toughness": "4",
-      "loyalty": null,
+      "loyalty": "",
       "colours": [
         "W"
       ],
@@ -1237,7 +1237,7 @@
       "mana_cost": "{3}{W}",
       "mana_value": 4.0,
       "type_line": "Enchantment",
-      "oracle_text": "At the beginning of combat on your turn, choose one —\n• Put a +1/+1 counter on target creature you control.\n• Attach target Equipment you control to target creature you control.\nTogether — If two or more creatures you control attacked this turn, do both instead during your next turn's combat.",
+      "oracle_text": "At the beginning of combat on your turn, choose one —\n• Put a +1/+1 counter on target creature you control.\n• Attach target Equipment you control to target creature you control.\nIf Claim the High Ground has a rally counter on it, remove one from it and do both instead.\nTogether — At the beginning of your end step, if two or more creatures you control attacked this turn, put a rally counter on Claim the High Ground.",
       "flavour_text": "The boulder was large. The achievement became larger with every retelling.",
       "rarity": "R",
       "power": null,
@@ -1334,12 +1334,12 @@
       "mana_cost": "{2}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Scout",
-      "oracle_text": "Whenever one or more creatures you control attack, investigate. This ability triggers only once each turn.\nCelebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, create a 1/1 white Human creature token.",
+      "oracle_text": "Whenever one or more creatures you control attack, investigate. \nCelebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, create a 1/1 white Human creature token.",
       "flavour_text": "The subject was six inches away. Adam still requested a clearer angle.",
       "rarity": "R",
       "power": "2",
       "toughness": "3",
-      "loyalty": null,
+      "loyalty": "",
       "colours": [
         "W"
       ],
@@ -1377,7 +1377,7 @@
       "mana_cost": "{2}{W}{W}",
       "mana_value": 4.0,
       "type_line": "Enchantment",
-      "oracle_text": "When The Unaccountable Outfit enters the battlefield, exile target nonland permanent an opponent controls until The Unaccountable Outfit leaves the battlefield.\nCreatures your opponents control that share a card type with the exiled card can't attack you unless their controller pays {1} for each of those creatures.",
+      "oracle_text": "When The Unaccountable Outfit enters, exile target nonland permanent an opponent controls until The Unaccountable Outfit leaves the battlefield.\n\nCreatures your opponents control that share a creature type with the exiled card can't attack you unless their controller pays {1} for each of those creatures.",
       "flavour_text": "Nobody could identify it. Everyone agreed it had authority.",
       "rarity": "R",
       "power": null,
@@ -1394,7 +1394,6 @@
       "removal_method": "exile",
       "removal_scope": "single",
       "removal_targets": [
-        "creature",
         "permanent"
       ],
       "removal_strength": "hard",
@@ -1416,7 +1415,7 @@
       "oracle_text": "Vigilance, lifelink\nWhen Jon, Gentle Colossus enters the battlefield, other creatures you control gain indestructible until end of turn.\nJon can block any number of creatures.",
       "flavour_text": "The smile arrived first. The rest of him required a wider frame.",
       "rarity": "R",
-      "power": "6",
+      "power": "5",
       "toughness": "6",
       "loyalty": null,
       "colours": [
@@ -1452,10 +1451,10 @@
     {
       "collector_number": 33,
       "name": "Jack, the White Beluga",
-      "mana_cost": "{2}{W}{W}",
-      "mana_value": 4.0,
+      "mana_cost": "{4}{W}{W}",
+      "mana_value": 6.0,
       "type_line": "Legendary Creature — Human Whale",
-      "oracle_text": "Flash\nWard {2}\nWhen Jack, the White Beluga enters the battlefield, exile any number of target attacking creatures until Jack leaves the battlefield.\nWhenever one or more cards exiled with Jack return to the battlefield, tap them. They don't untap during their controller's next untap step.",
+      "oracle_text": "Flash\nWard {2}\nWhen Jack, the White Beluga enters the battlefield, exile any number of target attacking creatures until Jack leaves the battlefield.",
       "flavour_text": "The edit escaped the archive and developed its own migration pattern.",
       "rarity": "M",
       "power": "3",
@@ -1468,11 +1467,13 @@
       "draft_role": "Spectacular defensive mythic that can halt a full attack and temporarily contain its creatures.",
       "source_status": "mixed",
       "art_direction_freedom": "anchored",
-      "is_removal": false,
-      "removal_method": "none",
-      "removal_scope": "none",
-      "removal_targets": [],
-      "removal_strength": "none",
+      "is_removal": true,
+      "removal_method": "exile",
+      "removal_scope": "multiple",
+      "removal_targets": [
+        "creature"
+      ],
+      "removal_strength": "hard",
       "archetypes": [
         {
           "colour_pair": "WU",
@@ -1553,7 +1554,7 @@
       "rarity": "M",
       "power": null,
       "toughness": null,
-      "loyalty": "5",
+      "loyalty": "4",
       "colours": [
         "W"
       ],
@@ -2030,7 +2031,7 @@
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
       "type_line": "Instant",
-      "oracle_text": "Return target creature to its owner's hand. If that creature was Changed, its controller mills two cards. (A permanent is Changed if it has a counter on it or is equipped.)",
+      "oracle_text": "Return target creature to its owner's hand. If it was Changed, its controller mills two cards. (A permanent is Changed if it has a counter on it or is equipped.)",
       "flavour_text": "Matt stepped out of the panorama before the edges could meet.",
       "rarity": "C",
       "power": null,
@@ -2047,8 +2048,7 @@
       "removal_method": "bounce",
       "removal_scope": "single",
       "removal_targets": [
-        "creature",
-        "permanent"
+        "creature"
       ],
       "removal_strength": "soft",
       "archetypes": [
@@ -2167,7 +2167,7 @@
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Advisor",
-      "oracle_text": "Flying\nWhenever Overhead Node-Presenter or another creature with flying enters the battlefield under your control, tap up to one target creature an opponent controls. This ability triggers only once each turn.",
+      "oracle_text": "Flying\nWhenever Overhead Node-Presenter or another creature with flying enters under your control, tap up to one target creature an opponent controls.",
       "flavour_text": "Every plan became clearer when viewed from directly above.",
       "rarity": "U",
       "power": "1",
@@ -2295,7 +2295,7 @@
       "mana_cost": "{3}{U}",
       "mana_value": 4.0,
       "type_line": "Creature — Human Illusion",
-      "oracle_text": "When Buffed Beyond the Draft enters the battlefield, put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on Buffed Beyond the Draft, draw a card, then discard a card. This ability triggers only once each turn.",
+      "oracle_text": "When Buffed Beyond the Draft enters, put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on Buffed Beyond the Draft, draw a card, then discard a card.",
       "flavour_text": "The first generated version was considered insufficiently heroic.",
       "rarity": "U",
       "power": "3",
@@ -2528,10 +2528,9 @@
       "art_direction_freedom": "anchored",
       "is_removal": true,
       "removal_method": "tap",
-      "removal_scope": "single",
+      "removal_scope": "multiple",
       "removal_targets": [
-        "creature",
-        "permanent"
+        "creature"
       ],
       "removal_strength": "soft",
       "archetypes": [
@@ -2602,11 +2601,11 @@
       "mana_cost": "{4}{U}",
       "mana_value": 5.0,
       "type_line": "Creature — Human Illusion",
-      "oracle_text": "Flying\nWhen Layered Crowd Apparition enters the battlefield, return up to one other target nonland permanent to its owner's hand.",
+      "oracle_text": "Flying\nWhen Layered Crowd Apparition enters, return up to one other target nonland permanent to its owner's hand.",
       "flavour_text": "Oliver stood in front of the gathering, behind it, and briefly throughout it.",
       "rarity": "U",
-      "power": "4",
-      "toughness": "4",
+      "power": "3",
+      "toughness": "3",
       "loyalty": null,
       "colours": [
         "U"
@@ -2615,11 +2614,13 @@
       "draft_role": "Upper-curve evasive creature that recovers tempo or reuses a friendly permanent.",
       "source_status": "mixed",
       "art_direction_freedom": "anchored",
-      "is_removal": false,
-      "removal_method": "none",
-      "removal_scope": "none",
-      "removal_targets": [],
-      "removal_strength": "none",
+      "is_removal": true,
+      "removal_method": "bounce",
+      "removal_scope": "single",
+      "removal_targets": [
+        "permanent"
+      ],
+      "removal_strength": "soft",
       "archetypes": [
         {
           "colour_pair": "WU",
@@ -2644,7 +2645,7 @@
       "mana_cost": "{1}{U}",
       "mana_value": 2.0,
       "type_line": "Instant",
-      "oracle_text": "Exile up to three target cards from graveyards. Counter target activated or triggered ability from an artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "oracle_text": "Choose one —\n• Exile up to three target cards from graveyards.\n• Counter target activated or triggered ability from an artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "flavour_text": "James objected before the cloud, device, or excuse had finished forming.",
       "rarity": "U",
       "power": null,
@@ -2679,11 +2680,11 @@
       "mana_cost": "{3}{U}",
       "mana_value": 4.0,
       "type_line": "Creature — Human Giant",
-      "oracle_text": "Ward {2}\nWhenever The Frame Cannot Contain Him becomes the target of a spell you control, it gets +2/+0 and gains flying until end of turn. This ability triggers only once each turn.",
+      "oracle_text": "Ward {2}\nWhenever The Frame Cannot Contain Him becomes the target of a spell you control, it gets +2/+0 and gains flying until end of turn.",
       "flavour_text": "The camera stepped back. Jon somehow became closer.",
       "rarity": "U",
       "power": "3",
-      "toughness": "5",
+      "toughness": "4",
       "loyalty": null,
       "colours": [
         "U"
@@ -2745,7 +2746,7 @@
       "mana_cost": "{2}{U}{U}",
       "mana_value": 4.0,
       "type_line": "Enchantment",
-      "oracle_text": "Whenever you recount, put a plan counter on Plans Seen from Every Angle.\nOnce during each of your turns, you may remove two plan counters from Plans Seen from Every Angle. When you do, choose one —\n• Investigate.\n• Put a +1/+1 counter on target creature you control.\n• Copy the next instant or sorcery spell you cast this turn with mana value 2 or less. You may choose new targets for the copy.",
+      "oracle_text": "When Plans Seen from Every Angle enters, recount 3.\nWhenever you recount, put a plan counter on Plans Seen from Every Angle.\nRemove two plan counters from Plans Seen from Every Angle: Choose one —\n• Investigate.\n• Put a +1/+1 counter on target creature you control.\n• Copy the next instant or sorcery spell you cast this turn with mana value 2 or less. You may choose new targets for the copy.\nActivate only as a sorcery.",
       "flavour_text": "One plan became three, and each insisted it had been first.",
       "rarity": "R",
       "power": null,
@@ -2807,7 +2808,7 @@
       "flavour_text": "The frame widened. The defensive line did not.",
       "rarity": "R",
       "power": "3",
-      "toughness": "6",
+      "toughness": "5",
       "loyalty": null,
       "colours": [
         "U"
@@ -2847,7 +2848,7 @@
       "mana_cost": "{2}{U}",
       "mana_value": 3.0,
       "type_line": "Enchantment",
-      "oracle_text": "Whenever you sacrifice a Clue, Food, or Treasure, put a course counter on Evidence of the Last Course. This ability triggers only once each turn.\nAt the beginning of your end step, if Evidence of the Last Course has three or more course counters on it, remove three of them and draw two cards.",
+      "oracle_text": "Whenever you sacrifice a Clue, Food, or Treasure, put a course counter on Evidence of the Last Course.\nAt the beginning of your end step, if Evidence of the Last Course has two or more course counters on it, remove two of them and draw two cards.",
       "flavour_text": "Jon finished the meal. The investigation was only beginning.",
       "rarity": "R",
       "power": null,
@@ -2906,7 +2907,6 @@
       "removal_method": "counterspell",
       "removal_scope": "single",
       "removal_targets": [
-        "artifact",
         "spell"
       ],
       "removal_strength": "hard",
@@ -2922,10 +2922,10 @@
     {
       "collector_number": 67,
       "name": "Another Matt for the Archive",
-      "mana_cost": "{3}{U}",
-      "mana_value": 4.0,
+      "mana_cost": "{2}{U}",
+      "mana_value": 3.0,
       "type_line": "Enchantment",
-      "oracle_text": "Whenever you cast your second spell each turn, investigate.\nWhenever you sacrifice a Clue, recount 3. This ability triggers only once each turn. (To recount 3, look at the top three cards of your library. You may put one of them into your graveyard. Put the rest back in any order.)",
+      "oracle_text": "Whenever you cast your second spell each turn, investigate.\nWhenever you sacrifice a Clue, recount 3. (To recount 3, look at the top three cards of your library. You may put one of them into your graveyard. Put the rest back in any order.)",
       "flavour_text": "There was always another photograph. Nobody could explain who kept filing them.",
       "rarity": "R",
       "power": null,
@@ -3092,7 +3092,7 @@
       "mana_cost": "{2}{U}{U}",
       "mana_value": 4.0,
       "type_line": "Legendary Planeswalker — Adam",
-      "oracle_text": "+1: Draw a card, then recount 3.\n−2: Create two Clue tokens. Tap up to one target nonland permanent. It doesn’t untap during its controller’s next untap step.\n−8: You get an emblem with “Whenever you cast an instant or sorcery spell, copy that spell. You may choose new targets for the copy.”",
+      "oracle_text": "+1: Draw a card, then recount 3.\n−3: Create two Clue tokens. Tap up to one target nonland permanent. It doesn’t untap during its controller’s next untap step.\n−8: You get an emblem with “Whenever you cast an instant or sorcery spell, copy that spell. You may choose new targets for the copy.”",
       "flavour_text": "",
       "rarity": "M",
       "power": null,
@@ -3152,7 +3152,7 @@
       "mana_cost": "{3}{U}{U}",
       "mana_value": 5.0,
       "type_line": "Legendary Creature — Human Artificer",
-      "oracle_text": "Ward {2}\nWhenever Matt enters the battlefield or attacks, recount 4.\nOnce during each of your turns, when you put an instant or sorcery card into your graveyard while recounting, you may copy that card. You may cast the copy without paying its mana cost if its mana value is 2 or less.",
+      "oracle_text": "Ward {2}\nWhenever Matt enters or attacks, recount 4.\nWhenever you put an instant or sorcery card with mana value 2 or less into your graveyard while recounting, you may copy that card. You may cast the copy without paying its mana cost.",
       "flavour_text": "Every match was simulated perfectly, including the parts nobody understood.",
       "rarity": "M",
       "power": "4",
@@ -3336,7 +3336,7 @@
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Reveler",
-      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, Tikka Table Scrounger gets +1/+0 and gains menace until end of turn. This ability triggers only once each turn.",
+      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, Tikka Table Scrounger gets +1/+0 and gains menace until end of turn.",
       "flavour_text": "The final portion disappeared while everyone was still assigning blame.",
       "rarity": "C",
       "power": "2",
@@ -3516,7 +3516,7 @@
       "flavour_text": "Matt listened. Oliver supplied the part of the story everyone had forgotten.",
       "rarity": "C",
       "power": "3",
-      "toughness": "4",
+      "toughness": "3",
       "loyalty": null,
       "colours": [
         "B"
@@ -3566,8 +3566,8 @@
       "oracle_text": "Menace\nWhen Shackle-Break Dependable enters the battlefield, you may sacrifice another creature or artifact. When you do, put two +1/+1 counters on Shackle-Break Dependable.",
       "flavour_text": "The restraint lasted precisely as long as Oliver considered reasonable.",
       "rarity": "C",
-      "power": "4",
-      "toughness": "4",
+      "power": "3",
+      "toughness": "3",
       "loyalty": null,
       "colours": [
         "B"
@@ -3692,7 +3692,7 @@
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
       "type_line": "Sorcery",
-      "oracle_text": "Mill three cards, then you may return a creature card from your graveyard to your hand if another creature card was put into your graveyard this turn.",
+      "oracle_text": "Mill three cards, then you may return a creature card from your graveyard to your hand if two or more creature cards were put into your graveyard this turn.",
       "flavour_text": "Oliver spoke over the fire until an older version of the story answered.",
       "rarity": "C",
       "power": null,
@@ -3742,7 +3742,7 @@
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Rogue",
-      "oracle_text": "When Monochrome Pleader enters, mill two cards.\nWhenever you sacrifice a Clue, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn.",
+      "oracle_text": "When Monochrome Pleader enters, mill two cards.\nWhenever you sacrifice a Clue, each opponent loses 1 life and you gain 1 life.",
       "flavour_text": "Every fragment repeated the same impossible request.",
       "rarity": "C",
       "power": "2",
@@ -3752,7 +3752,7 @@
         "B"
       ],
       "colour_section": "B",
-      "draft_role": "Primary UB graveyard and Clue enabler-payoff that mills cards and converts one sacrificed Clue each turn into a life swing.",
+      "draft_role": "Primary UB graveyard and Clue enabler-payoff that mills cards and converts sacrificed Clues into life swings.",
       "source_status": "mixed",
       "art_direction_freedom": "highly_stylised",
       "is_removal": false,
@@ -4013,7 +4013,7 @@
       "mana_cost": "{1}{B}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "Whenever one or more nontoken permanents you control are sacrificed, create a Treasure token. This ability triggers only once each turn.\n{1}, Sacrifice a Treasure: Target creature can't block this turn.",
+      "oracle_text": "Whenever one or more nontoken permanents you control are sacrificed, create a Treasure token.\n{1}, Sacrifice a Treasure: Target creature can't block this turn.",
       "flavour_text": "Adam demanded change. The archive began issuing it in inconvenient denominations.",
       "rarity": "U",
       "power": "1",
@@ -4116,7 +4116,7 @@
       "oracle_text": "Discarded Version Stalker can't block.\nChanged — As long as Discarded Version Stalker has a counter on it or is equipped, it has menace and “When this creature dies, return it to its owner's hand.”",
       "flavour_text": "The archive deleted him repeatedly. Each deletion improved the silhouette.",
       "rarity": "U",
-      "power": "1",
+      "power": "2",
       "toughness": "1",
       "loyalty": null,
       "colours": [
@@ -4146,7 +4146,7 @@
       "mana_cost": "{X}{B}",
       "mana_value": 1.0,
       "type_line": "Instant",
-      "oracle_text": "Target creature gets -X/-X until end of turn. If X is 4 or more, you lose 2 life.",
+      "oracle_text": "Target creature gets -X/-X until end of turn.",
       "flavour_text": "The frame narrowed until the subject could no longer argue with it.",
       "rarity": "U",
       "power": null,
@@ -4156,7 +4156,7 @@
         "B"
       ],
       "colour_section": "B",
-      "draft_role": "Scalable black interaction that answers small creatures efficiently and large creatures at a life premium.",
+      "draft_role": "Scalable black interaction that answers small creatures early and larger creatures with a full mana investment.",
       "source_status": "mixed",
       "art_direction_freedom": "highly_stylised",
       "is_removal": true,
@@ -4349,8 +4349,8 @@
     {
       "collector_number": 99,
       "name": "Dependable Loose End",
-      "mana_cost": "{2}{B}",
-      "mana_value": 3.0,
+      "mana_cost": "{1}{B}",
+      "mana_value": 2.0,
       "type_line": "Instant",
       "oracle_text": "Destroy target tapped creature.",
       "flavour_text": "Oliver waited until the problem had fully committed itself.",
@@ -4564,7 +4564,7 @@
       "mana_cost": "{2}{B}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Rogue",
-      "oracle_text": "At the beginning of your end step, if you sacrificed a permanent this turn, create a tapped Treasure token.\nWhenever you sacrifice a Treasure, you may pay 1 life. If you do, mill two cards and create a Food token. This ability triggers only once each turn.",
+      "oracle_text": "At the beginning of your end step, if you sacrificed a permanent this turn, create a tapped Treasure token.\nWhenever you sacrifice a Treasure, you may pay 1 life. If you do, mill two cards and create a Food token.",
       "flavour_text": "Every abandoned glass acquired a price, a provenance, and something edible beside it.",
       "rarity": "R",
       "power": "2",
@@ -4611,8 +4611,8 @@
     {
       "collector_number": 105,
       "name": "Panorama Eats the Witness",
-      "mana_cost": "{2}{B}{B}",
-      "mana_value": 4.0,
+      "mana_cost": "{1}{B}",
+      "mana_value": 2.0,
       "type_line": "Sorcery",
       "oracle_text": "Exile target creature card from your graveyard. Create a token that's a copy of that card, except it's a 1/1 black Shade with no abilities. Sacrifice that token at the beginning of the next end step. Draw a card.",
       "flavour_text": "James left the edge of the photograph. Something thinner continued answering questions.",
@@ -4706,7 +4706,7 @@
       "mana_cost": "{2}{B}{B}",
       "mana_value": 4.0,
       "type_line": "Legendary Artifact",
-      "oracle_text": "Whenever one or more nontoken permanents you control are sacrificed, exile one of them with a memory counter on it instead of putting it into your graveyard.\nAt the beginning of your end step, choose a permanent card you own in exile with a memory counter on it at random. Put that card into your graveyard, then return another permanent card with lesser mana value from your graveyard to the battlefield tapped.",
+      "oracle_text": "Whenever one or more nontoken permanents you control are sacrificed, exile one of those cards from your graveyard with a memory counter on it.\nAt the beginning of your end step, if there is a permanent card you own in exile with a memory counter on it, choose one of those cards at random. Put the chosen card into your graveyard. When you do, return up to one target permanent card with lesser mana value from your graveyard to the battlefield tapped.",
       "flavour_text": "Every empty plate was merely a promise that something else would return.",
       "rarity": "M",
       "power": null,
@@ -4814,7 +4814,7 @@
       "mana_cost": "{3}{B}{B}",
       "mana_value": 5.0,
       "type_line": "Legendary Creature — Human Warlock",
-      "oracle_text": "Menace, lifelink\nWhenever Adam, Liability Uncontained attacks, you may sacrifice another permanent. When you do, return target permanent card with lesser mana value from your graveyard to the battlefield tapped. This ability triggers only once each turn.",
+      "oracle_text": "Menace, lifelink\nWhenever Adam, Liability Uncontained attacks, you may sacrifice another permanent. When you do, return target permanent card with mana value less than the sacrificed permanent's mana value from your graveyard to the battlefield tapped.",
       "flavour_text": "“Yeah, it's safe.” The archive recorded these as his final words on the matter.",
       "rarity": "M",
       "power": "5",
@@ -5106,7 +5106,7 @@
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Advisor",
-      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, put a +1/+1 counter on Change-Order Hothead. This ability triggers only once each turn.",
+      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, put a +1/+1 counter on Change-Order Hothead.",
       "flavour_text": "Oliver accepted the revised process. The process was now on fire.",
       "rarity": "C",
       "power": "3",
@@ -5319,7 +5319,7 @@
       "mana_cost": "{R}",
       "mana_value": 1.0,
       "type_line": "Instant",
-      "oracle_text": "Target creature you control gets +2/+0 and gains first strike until end of turn. If that creature is equipped, untap it.",
+      "oracle_text": "Target creature you control gets +1/+0 and gains first strike until end of turn. If that creature is equipped, untap it.",
       "flavour_text": "The word “still” did very little to reassure anyone.",
       "rarity": "C",
       "power": null,
@@ -5361,7 +5361,7 @@
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
       "type_line": "Sorcery",
-      "oracle_text": "Create a Food token and a tapped Treasure token. Then you may discard a card. If you do, draw a card.",
+      "oracle_text": "Create a Food token. Then you may discard a card. If you do, draw a card.",
       "flavour_text": "The sign promised grated cheese. The archive preserved only the important part.",
       "rarity": "C",
       "power": null,
@@ -5453,11 +5453,11 @@
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Reveler",
-      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, Last Call Firekeeper deals 1 damage to each opponent and you may exile the top card of your library. You may play that card this turn. This ability triggers only once each turn.",
+      "oracle_text": "One more round — At the beginning of your end step, if you sacrificed one or more permanents this turn, Last Call Firekeeper deals 1 damage to each opponent and you may exile the top card of your library. You may play that card until the end of your next turn.",
       "flavour_text": "Oliver kept the fire going exactly one story beyond good sense.",
       "rarity": "U",
       "power": "3",
-      "toughness": "3",
+      "toughness": "2",
       "loyalty": null,
       "colours": [
         "R"
@@ -5495,7 +5495,7 @@
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Gamer",
-      "oracle_text": "Prowess\nWhenever you cast your second instant or sorcery spell each turn, create a tapped Treasure token. This ability triggers only once each turn.",
+      "oracle_text": "Prowess\nWhenever you cast your second instant or sorcery spell each turn, create a tapped Treasure token.",
       "flavour_text": "Oliver found the combo, missed the prize, and immediately found another combo.",
       "rarity": "U",
       "power": "2",
@@ -5623,7 +5623,7 @@
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
       "type_line": "Artifact",
-      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, put a story counter on The Round Remembers. This ability triggers only once each turn.\nAt the beginning of combat on your turn, you may remove two story counters from The Round Remembers. When you do, create a 1/1 black and red Reveler creature token with haste. Sacrifice it at the beginning of the next end step.",
+      "oracle_text": "One more round — Whenever you sacrifice one or more permanents during your turn, put a story counter on The Round Remembers.\nAt the beginning of combat on your turn, you may remove a story counter from The Round Remembers. When you do, create a 1/1 black and red Reveler creature token with haste. Sacrifice it at the beginning of the next end step.",
       "flavour_text": "Nothing survived the telling except the demand to do it once more.",
       "rarity": "U",
       "power": null,
@@ -5633,7 +5633,7 @@
         "R"
       ],
       "colour_section": "R",
-      "draft_role": "Named-mechanic build-around that banks sacrifice turns and converts them into expendable attackers.",
+      "draft_role": "Named-mechanic build-around that banks sacrifice events and converts them into expendable attackers.",
       "source_status": "mixed",
       "art_direction_freedom": "highly_stylised",
       "is_removal": false,
@@ -5666,7 +5666,7 @@
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Reveler",
-      "oracle_text": "At the beginning of your end step, if you sacrificed a permanent this turn, create a tapped Treasure token.\nCelebration — Whenever two or more nonland permanents enter the battlefield under your control during your turn, Beachside Last-Bite Dealer gets +1/+0 until end of turn. This ability triggers only once each turn.",
+      "oracle_text": "At the beginning of your end step, if you sacrificed a permanent this turn, create a tapped Treasure token.\nCelebration — Whenever another nonland permanent enters under your control, if two or more nonland permanents entered under your control this turn, Beachside Last-Bite Dealer gets +1/+0 until end of turn.",
       "flavour_text": "“You finished with that?” applied equally to meals, plans, and unattended valuables.",
       "rarity": "U",
       "power": "2",
@@ -5708,7 +5708,7 @@
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
       "type_line": "Sorcery",
-      "oracle_text": "Return target creature card with mana value 2 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.\nCreate a Food token.",
+      "oracle_text": "Exile target creature card with mana value 2 or less from your graveyard. Create a token that's a copy of that card, except it has haste and “At the beginning of the next end step, sacrifice this token.”\nCreate a Food token.",
       "flavour_text": "The banana lasted one morning. Its legend remained available for reheating.",
       "rarity": "U",
       "power": null,
@@ -5750,7 +5750,7 @@
       "mana_cost": "{1}{R}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Warrior",
-      "oracle_text": "Whenever Suit-Up Firebrand becomes equipped, put a +1/+1 counter on it. This ability triggers only once each turn.\nChanged — Suit-Up Firebrand has first strike as long as it has a counter on it or is equipped.",
+      "oracle_text": "Whenever Suit-Up Firebrand becomes equipped, you may pay {1}. If you do, put a +1/+1 counter on it.\nChanged — Suit-Up Firebrand has first strike as long as it has a counter on it or is equipped.",
       "flavour_text": "Every new version arrived dressed for a more dramatic argument.",
       "rarity": "U",
       "power": "2",
@@ -5841,7 +5841,7 @@
       "flavour_text": "The surprise lasted an instant. The counterattack lasted slightly longer.",
       "rarity": "U",
       "power": "2",
-      "toughness": "3",
+      "toughness": "2",
       "loyalty": null,
       "colours": [
         "R"
@@ -6112,7 +6112,7 @@
       "mana_cost": "{3}{R}",
       "mana_value": 4.0,
       "type_line": "Artifact",
-      "oracle_text": "Changed creatures you control have haste.\nWhenever one or more Changed creatures you control attack, exile the top card of your library. You may play that card this turn. This ability triggers only once each turn. (A creature is Changed if it has a counter on it or is equipped.)",
+      "oracle_text": "Changed creatures you control have haste.\nWhenever one or more Changed creatures you control attack, exile the top card of your library. You may play that card this turn. (A creature is Changed if it has a counter on it or is equipped.)",
       "flavour_text": "The archive called them revisions. Matt called them improvements.",
       "rarity": "R",
       "power": null,
@@ -6199,7 +6199,7 @@
       "mana_cost": "{2}{R}",
       "mana_value": 3.0,
       "type_line": "Artifact",
-      "oracle_text": "At the beginning of combat on your turn, create a colorless Equipment artifact token named Spare Kit with “Equipped creature gets +1/+0” and equip {1}. Sacrifice it at the beginning of your next end step.\nWhenever you sacrifice an Equipment, create a tapped Treasure token. This ability triggers only once each turn.",
+      "oracle_text": "At the beginning of your first main phase, create a colorless Equipment artifact token named Spare Kit with “Equipped creature gets +1/+0” and equip {1}. Sacrifice it at the beginning of your next end step.\nWhenever you sacrifice an Equipment, create a tapped Treasure token.",
       "flavour_text": "Matt packed for every destination, including several invented after departure.",
       "rarity": "R",
       "power": null,
@@ -6246,8 +6246,8 @@
     {
       "collector_number": 142,
       "name": "Too Wide for One Reality",
-      "mana_cost": "{3}{R}{R}",
-      "mana_value": 5.0,
+      "mana_cost": "{4}{R}{R}",
+      "mana_value": 6.0,
       "type_line": "Sorcery",
       "oracle_text": "Too Wide for One Reality deals 4 damage to each of up to two target creatures. If a creature dealt damage this way would die this turn, exile it instead.\nExile the top card of your library. You may play it until the end of your next turn.",
       "flavour_text": "The panorama split the argument into two separate casualties and one usable sequel.",
@@ -6284,7 +6284,7 @@
       "mana_cost": "{5}{R}",
       "mana_value": 6.0,
       "type_line": "Creature — Human Giant",
-      "oracle_text": "Trample, haste\nWhenever Bulk-Fed Juggernaut attacks, create two tapped Treasure tokens. Sacrifice those tokens at the beginning of the next end step.",
+      "oracle_text": "Trample, haste\nWhenever Bulk-Fed Juggernaut attacks, create a Treasure token. Sacrifice that token at the beginning of the next end step.",
       "flavour_text": "The meal plan concluded. The structural assessment began.",
       "rarity": "R",
       "power": "6",
@@ -6294,7 +6294,7 @@
         "R"
       ],
       "colour_section": "R",
-      "draft_role": "Limited finisher that attacks immediately and generates temporary resources for a postcombat spell or sacrifice payoff.",
+      "draft_role": "Limited finisher that attacks immediately and generates a temporary resource for a postcombat spell or sacrifice payoff.",
       "source_status": "mixed",
       "art_direction_freedom": "highly_stylised",
       "is_removal": false,
@@ -6326,7 +6326,7 @@
       "mana_cost": "{2}{R}{R}",
       "mana_value": 4.0,
       "type_line": "Artifact",
-      "oracle_text": "Whenever you sacrifice one or more permanents during your turn, put a round counter on The Story Demands Another Round. This ability triggers only once each turn.\nAt the beginning of combat on your turn, exile cards from the top of your library until you exile a nonland card with mana value less than or equal to the number of round counters on The Story Demands Another Round. You may cast that card this turn. Put the other exiled cards on the bottom of your library in a random order.\nWhenever you cast a spell from exile, remove a round counter from The Story Demands Another Round.",
+      "oracle_text": "Whenever you sacrifice one or more permanents during your turn, put a round counter on The Story Demands Another Round.\nAt the beginning of combat on your turn, if The Story Demands Another Round has one or more round counters on it, exile cards from the top of your library until you exile a nonland card with mana value less than or equal to the number of round counters on The Story Demands Another Round. You may cast that card this turn. Put the other exiled cards on the bottom of your library in a random order.\nWhenever you cast a spell from exile, remove a round counter from The Story Demands Another Round.",
       "flavour_text": "The first ending was rejected. The second arrived carrying drinks.",
       "rarity": "M",
       "power": null,
@@ -6368,7 +6368,7 @@
       "mana_cost": "{2}{R}{R}",
       "mana_value": 4.0,
       "type_line": "Legendary Planeswalker — Oliver",
-      "oracle_text": "+1: Exile the top two cards of your library. You may play one of them until the end of your next turn.\n−2: Oliver deals 4 damage to any target. If a permanent dealt damage this way dies this turn, create a Treasure token.\n−8: You get an emblem with “You may play cards you own from exile” and “Whenever you cast a spell from exile, copy it. You may choose new targets for the copy.”",
+      "oracle_text": "+1: Exile the top two cards of your library. You may play one of them until the end of your next turn.\n−3: Oliver deals 4 damage to any target. If a permanent dealt damage this way dies this turn, create a Treasure token.\n−8: You get an emblem with “You may play cards you own from exile” and “Whenever you cast a spell from exile, copy it. You may choose new targets for the copy.”",
       "flavour_text": "",
       "rarity": "M",
       "power": null,
@@ -6429,7 +6429,7 @@
       "mana_cost": "{3}{R}{R}",
       "mana_value": 5.0,
       "type_line": "Legendary Creature — Human Advisor",
-      "oracle_text": "Haste\nWhenever Oliver, Change Set Ablaze attacks, exile the top two cards of your library. You may play one of them this turn.\nWhenever you play a card from exile, create a tapped Treasure token and put a +1/+1 counter on Oliver. This ability triggers only once each turn.",
+      "oracle_text": "Haste\nWhenever Oliver, Change Set Ablaze attacks, exile the top two cards of your library. You may play one of them this turn.\nWhenever you play a card from exile, create a tapped Treasure token and put a +1/+1 counter on Oliver.",
       "flavour_text": "Every sensible revision contained one line nobody remembered approving: “Proceed at full speed.”",
       "rarity": "M",
       "power": "4",
@@ -6561,7 +6561,7 @@
       "mana_cost": "{G}",
       "mana_value": 1.0,
       "type_line": "Creature — Human Druid",
-      "oracle_text": "Whenever one or more counters are put on another permanent you control, Bedroom Sproutwatcher gets +1/+0 until end of turn. This ability triggers only once each turn.",
+      "oracle_text": "Whenever one or more counters are put on another permanent you control, Bedroom Sproutwatcher gets +1/+0 until end of turn.",
       "flavour_text": "Even the least comprehensible room contained something ready to grow.",
       "rarity": "C",
       "power": "1",
@@ -6571,7 +6571,7 @@
         "G"
       ],
       "colour_section": "G",
-      "draft_role": "One-drop counter enabler for GW and GU that can contribute early combat damage.",
+      "draft_role": "One-drop counter payoff for GW and GU that can contribute early combat damage.",
       "source_status": "mixed",
       "art_direction_freedom": "interpretive",
       "is_removal": false,
@@ -6791,7 +6791,7 @@
       "flavour_text": "The feathers remained unproven. The stabilizing presence did not.",
       "rarity": "C",
       "power": "3",
-      "toughness": "5",
+      "toughness": "4",
       "loyalty": null,
       "colours": [
         "G"
@@ -7047,7 +7047,7 @@
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Warrior",
-      "oracle_text": "Whenever Bulk-Plan Trailblazer attacks, if you control another creature with power 4 or greater, add {G}{G}. Until end of turn, you don't lose this mana as steps and phases end.\nWhenever you spend this mana to cast a creature spell, put a +1/+1 counter on that creature.",
+      "oracle_text": "Whenever Bulk-Plan Trailblazer attacks, if you control another creature with power 4 or greater, add {G}{G}. Until end of turn, you don't lose this mana as steps and phases end. If that mana is spent to cast a creature spell, that creature enters the battlefield with an additional +1/+1 counter on it.",
       "flavour_text": "Matt's plan accounted for the meal, the march, and the larger march after that.",
       "rarity": "U",
       "power": "3",
@@ -7147,7 +7147,7 @@
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
       "type_line": "Creature — Human Scout",
-      "oracle_text": "Trample\nWhenever you sacrifice a Food, put a +1/+1 counter on Pantry-Fed Pathfinder and you may untap it. This ability triggers only once each turn.",
+      "oracle_text": "Trample\nWhenever you sacrifice a Food, put a +1/+1 counter on Pantry-Fed Pathfinder and you may untap it.",
       "flavour_text": "Every provision removed from the pantry added another mile to the route.",
       "rarity": "U",
       "power": "4",
@@ -7234,7 +7234,7 @@
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "Celebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on target creature you control. If one of those permanents was a token, put a +1/+1 counter on another target creature you control.",
+      "oracle_text": "Celebration — At the beginning of your end step, if two or more nonland permanents entered the battlefield under your control this turn, put a +1/+1 counter on target creature you control. If one of those permanents was a token, put a +1/+1 counter on up to one other target creature you control.",
       "flavour_text": "One arrival was dinner. Two arrivals constituted an organized gathering.",
       "rarity": "U",
       "power": "2",
@@ -7334,7 +7334,7 @@
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
       "type_line": "Sorcery",
-      "oracle_text": "Return up to one target creature card and up to one target land card from your graveyard to your hand. Exile Return to Simpler Routes.",
+      "oracle_text": "Return up to one target creature card and up to one target land card from your graveyard to your hand.",
       "flavour_text": "Before every plan changed, the way forward fit inside a single photograph.",
       "rarity": "U",
       "power": null,
@@ -7377,7 +7377,7 @@
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "When Background Cat Coordinator enters the battlefield, create a 1/1 green Cat creature token.\nWhenever one or more creatures you control become Changed, put a +1/+1 counter on target Cat you control. This ability triggers only once each turn. (A permanent is Changed if it has a counter on it or is equipped.)",
+      "oracle_text": "When Background Cat Coordinator enters the battlefield, create a 1/1 green Cat creature token.\nWhenever one or more non-Cat creatures you control become Changed, put a +1/+1 counter on target Cat you control. (A permanent is Changed if it has a counter on it or is equipped.)",
       "flavour_text": "The photograph centered the group. The plan centered the cat.",
       "rarity": "U",
       "power": "2",
@@ -7417,8 +7417,8 @@
     {
       "collector_number": 168,
       "name": "Resolve the Park Dispute",
-      "mana_cost": "{X}{G}",
-      "mana_value": 1.0,
+      "mana_cost": "{X}{1}{G}",
+      "mana_value": 2.0,
       "type_line": "Sorcery",
       "oracle_text": "Put X +1/+1 counters on target creature you control. Then it fights up to one target creature you don't control.",
       "flavour_text": "Adam supplied the confidence. Jack supplied the bag. Nature declined to arbitrate.",
@@ -7680,7 +7680,7 @@
       "mana_cost": "{2}{G}",
       "mana_value": 3.0,
       "type_line": "Legendary Artifact",
-      "oracle_text": "Whenever one or more +1/+1 counters are put on a creature you control, put a plan counter on Plans Take Root. This ability triggers only once each turn.\nAt the beginning of your end step, if Plans Take Root has three or more plan counters on it, remove three of them. Draw a card, then you may put a land card from your hand onto the battlefield tapped.",
+      "oracle_text": "Whenever one or more +1/+1 counters are put on a creature you control, put a plan counter on Plans Take Root.\nAt the beginning of your end step, if Plans Take Root has two or more plan counters on it, remove two of them. Draw a card, then you may put a land card from your hand onto the battlefield tapped.",
       "flavour_text": "Jordan organized the branches until the garden began organizing itself.",
       "rarity": "R",
       "power": null,
@@ -7722,7 +7722,7 @@
       "mana_cost": "{2}{G}{G}",
       "mana_value": 4.0,
       "type_line": "Legendary Creature — Human Giant",
-      "oracle_text": "Vigilance\nWhenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on Jon, Patient Powerhouse. This ability triggers only once each turn.\nRemove two +1/+1 counters from Jon: Another target creature gains indestructible until end of turn.",
+      "oracle_text": "Vigilance\nWhenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on Jon, Patient Powerhouse.\nRemove two +1/+1 counters from Jon: Another target creature gains indestructible until end of turn.",
       "flavour_text": "Every gain was celebrated; every stumble met with a steadying hand.",
       "rarity": "R",
       "power": "4",
@@ -7860,7 +7860,7 @@
       "mana_cost": "{3}{G}",
       "mana_value": 4.0,
       "type_line": "Artifact",
-      "oracle_text": "Whenever one or more Food tokens enter the battlefield under your control, create a 1/1 green Saproling creature token. This ability triggers only once each turn.\nWhenever you sacrifice a Food, put a +1/+1 counter on target creature token you control.",
+      "oracle_text": "Whenever one or more Food tokens enter the battlefield under your control, create a 1/1 green Saproling creature token.\nWhenever you sacrifice a Food, put a +1/+1 counter on target creature token you control.",
       "flavour_text": "Adam left one plate unattended. By morning, it had an ecosystem.",
       "rarity": "R",
       "power": null,
@@ -8009,8 +8009,8 @@
     {
       "collector_number": 181,
       "name": "Matt, Ever-Changing Traveller",
-      "mana_cost": "{2}{G}{G}",
-      "mana_value": 4.0,
+      "mana_cost": "{3}{G}{G}",
+      "mana_value": 5.0,
       "type_line": "Legendary Creature — Human Scout",
       "oracle_text": "Vigilance, trample\nWhenever Matt, Ever-Changing Traveller enters the battlefield or attacks, choose one that hasn't been chosen since your last turn —\n• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n• Put two +1/+1 counters on another target creature.\n• Return target permanent card from your graveyard to your hand.",
       "flavour_text": "Every road produced a new version. Every version remembered the road.",
@@ -8078,7 +8078,7 @@
       "mana_cost": "{2}{G}{G}",
       "mana_value": 4.0,
       "type_line": "Legendary Artifact",
-      "oracle_text": "Whenever a nontoken creature you control becomes Changed, create a token that's a copy of it, except it's a 1/1 green Saproling in addition to its other types. This ability triggers only once each turn. (A permanent becomes Changed when it changes from having no counters on it and not being equipped to having a counter on it or being equipped.)\nCreature tokens you control enter the battlefield with an additional +1/+1 counter on them.",
+      "oracle_text": "Changed — Whenever a nontoken creature you control has one or more counters put on it or becomes equipped, if it had no counters on it and wasn't equipped before that event and it doesn't have a root counter on it, put a root counter on it, then create a token that's a copy of it, except it's a 1/1 green Saproling in addition to its other types.\nCreature tokens you control enter the battlefield with an additional +1/+1 counter on them.",
       "flavour_text": "No version replaced the last. They accumulated, took root, and joined the group.",
       "rarity": "M",
       "power": null,
@@ -8128,7 +8128,7 @@
       "mana_cost": "{3}{G}{G}",
       "mana_value": 5.0,
       "type_line": "Legendary Planeswalker — Matt",
-      "oracle_text": "+1: Put a +1/+1 counter on each of up to two target creatures. Untap those creatures. They gain trample until end of turn.\n−3: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Create a 3/3 green Beast creature token.\n−9: You get an emblem with “Creatures you control have trample” and “Whenever one or more creatures you control with power 4 or greater attack, draw a card and put two +1/+1 counters on each attacking creature.”",
+      "oracle_text": "+1: Put a +1/+1 counter on each of up to two target creatures. Untap those creatures. They gain trample until end of turn.\n−3: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Create a 3/3 green Beast creature token.\n−9: You get an emblem with “Creatures you control have trample” and “Whenever one or more creatures you control with power 4 or greater attack, draw a card and put two +1/+1 counters on each attacking creature.”",
       "flavour_text": "",
       "rarity": "M",
       "power": null,
@@ -8234,7 +8234,7 @@
       "mana_cost": "{4}{G}{G}",
       "mana_value": 6.0,
       "type_line": "Legendary Creature — Human Plant",
-      "oracle_text": "Trample, ward {2}\nWhen Adam, Deep-Fried Ecosystem enters the battlefield, create three Food tokens.\nWhenever you sacrifice a Food, choose one. This ability triggers only once each turn —\n• Create a 2/2 green Beast creature token.\n• Put two +1/+1 counters on target creature.\n• Return target land card from your graveyard to the battlefield tapped.",
+      "oracle_text": "Trample, ward {2}\nWhen Adam, Deep-Fried Ecosystem enters the battlefield, create three Food tokens.\nWhenever you sacrifice a Food, choose one —\n• Create a 2/2 green Beast creature token.\n• Put two +1/+1 counters on target creature.\n• Return target land card from your graveyard to the battlefield tapped.",
       "flavour_text": "The edit added one filter too many and accidentally achieved photosynthesis.",
       "rarity": "M",
       "power": "6",
@@ -8330,11 +8330,11 @@
       "mana_cost": "{W}{U}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Advisor",
-      "oracle_text": "Flash\nWhenever one or more creatures you control become the target of a spell or ability you control, tap up to one target creature an opponent controls. This ability triggers only once each turn.\nWhenever Protective Plankeeper enters the battlefield, another target creature you control gains hexproof until end of turn.",
+      "oracle_text": "Flash\nWhenever one or more creatures you control become the target of a spell or ability you control, tap up to one target creature an opponent controls.\nWhen Protective Plankeeper enters the battlefield, another target creature you control gains hexproof until end of turn.",
       "flavour_text": "Jack revised the plan precisely once: nobody under his watch was being left exposed.",
       "rarity": "U",
       "power": "2",
-      "toughness": "2",
+      "toughness": "1",
       "loyalty": null,
       "colours": [
         "U",
@@ -8375,7 +8375,7 @@
       "mana_cost": "{2}{W}{U}",
       "mana_value": 4.0,
       "type_line": "Legendary Creature — Human Advisor",
-      "oracle_text": "Flying, ward {1}\nWhenever one or more creatures you control attack, tap up to one target creature defending player controls. This ability triggers only once each turn.\nWhenever you tap a creature an opponent controls, if you attacked with a creature with flying this turn, investigate. This ability triggers only once each turn.",
+      "oracle_text": "Flying, ward {1}\nWhenever one or more creatures you control attack, tap up to one target creature an opponent controls.\nWhenever one or more creatures an opponent controls become tapped, if you attacked with a creature with flying this turn, investigate.",
       "flavour_text": "The plan contained seven colours, three flyers, and complete confidence that the table would cooperate.",
       "rarity": "R",
       "power": "3",
@@ -8507,7 +8507,7 @@
       "mana_cost": "{2}{U}{B}",
       "mana_value": 4.0,
       "type_line": "Legendary Creature — Human Detective",
-      "oracle_text": "Whenever you sacrifice a Clue, recount 3. This ability triggers only once each turn. (Look at the top three cards of your library. You may put one of them into your graveyard. Put the rest back in any order.)\nAt the beginning of your end step, you may put target nonland permanent with mana value less than or equal to the number of permanent cards put into your graveyard from anywhere this turn on the bottom of its owner's library. If you do, sacrifice a Clue.",
+      "oracle_text": "Whenever you sacrifice a Clue, recount 3. (Look at the top three cards of your library. You may put one of them into your graveyard. Put the rest back in any order.)\nAt the beginning of your end step, you may sacrifice a Clue. When you do, put up to one target nonland permanent with mana value less than or equal to the number of permanent cards put into your graveyard from anywhere this turn on the bottom of its owner's library.",
       "flavour_text": "Adam photographed the route. The route quietly filed evidence of everyone who passed.",
       "rarity": "R",
       "power": "3",
@@ -8552,7 +8552,7 @@
       "mana_cost": "{B}{R}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Reveler",
-      "oracle_text": "Haste\nOne more round — Whenever you sacrifice one or more permanents during your turn, Carry the Night Forward gets +2/+0 and gains menace until end of turn. This ability triggers only once each turn.",
+      "oracle_text": "Haste\nOne more round — Whenever you sacrifice one or more permanents during your turn, Carry the Night Forward gets +2/+0 and gains menace until end of turn.",
       "flavour_text": "The smallest responsibility made every reckless plan suddenly worth surviving.",
       "rarity": "U",
       "power": "2",
@@ -8563,7 +8563,7 @@
         "R"
       ],
       "colour_section": "M",
-      "draft_role": "Aggressive One More Round signpost that converts the first sacrifice each turn into an evasive attack.",
+      "draft_role": "Aggressive One More Round signpost that converts sacrifice events into an evasive attack.",
       "source_status": "mixed",
       "art_direction_freedom": "stylised",
       "is_removal": false,
@@ -8596,7 +8596,7 @@
       "mana_cost": "{1}{B}{R}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Warlock",
-      "oracle_text": "{1}, Sacrifice another creature or artifact: Choose one —\n• Create a tapped Treasure token.\n• Exile the top card of your library. You may play that card this turn.\nActivate only once each turn.",
+      "oracle_text": "{1}, {T}, Sacrifice another creature or artifact: Choose one —\n• Create a tapped Treasure token.\n• Exile the top card of your library. You may play that card this turn.",
       "flavour_text": "Nothing in the room was identifiable, which made everything negotiable.",
       "rarity": "U",
       "power": "3",
@@ -8689,7 +8689,7 @@
       "flavour_text": "Adam asked for change. The entire formation became larger.",
       "rarity": "U",
       "power": "4",
-      "toughness": "3",
+      "toughness": "2",
       "loyalty": null,
       "colours": [
         "G",
@@ -8739,7 +8739,7 @@
       "oracle_text": "{T}: Add {R} or {G}. Spend this mana only to cast a creature spell.\nWhenever you spend mana produced by Breakfast-Fuel Trail Guide to cast a creature spell with power 4 or greater, that creature enters the battlefield with an additional +1/+1 counter on it.",
       "flavour_text": "One banana marked the difference between an ordinary walk and an expedition.",
       "rarity": "U",
-      "power": "2",
+      "power": "1",
       "toughness": "2",
       "loyalty": null,
       "colours": [
@@ -8779,7 +8779,7 @@
       "mana_cost": "{3}{R}{G}",
       "mana_value": 5.0,
       "type_line": "Legendary Creature — Human Druid",
-      "oracle_text": "Vigilance\nCreatures you control with power 4 or greater have haste.\nWhenever one or more creatures you control with power 4 or greater attack, choose one of them. It fights up to one target creature you don't control. This ability triggers only once each turn.",
+      "oracle_text": "Vigilance\nCreatures you control with power 4 or greater have haste.\nWhenever one or more creatures you control with power 4 or greater attack, choose one of them. It fights up to one target creature you don't control.",
       "flavour_text": "One quiet morning began with a yawn and ended with every giant already outside.",
       "rarity": "R",
       "power": "4",
@@ -8824,7 +8824,7 @@
       "mana_cost": "{1}{G}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Citizen",
-      "oracle_text": "When Simpler-Times Rallykeeper enters the battlefield, create a 1/1 white Human creature token.\nWhenever one or more +1/+1 counters are put on another creature you control, put a +1/+1 counter on up to one target creature token you control. This ability triggers only once each turn.",
+      "oracle_text": "When Simpler-Times Rallykeeper enters the battlefield, create a 1/1 white Human creature token.\nWhenever one or more +1/+1 counters are put on a nontoken creature you control, put a +1/+1 counter on up to one target creature token you control.",
       "flavour_text": "Jack remembered when gathering everyone required one message and no contingency plan.",
       "rarity": "U",
       "power": "2",
@@ -8835,7 +8835,7 @@
         "W"
       ],
       "colour_section": "M",
-      "draft_role": "Go-wide counter signpost that supplies two bodies and lets later counter placement strengthen creature tokens.",
+      "draft_role": "Go-wide counter signpost that supplies two bodies and lets counter placement on nontoken creatures strengthen creature tokens.",
       "source_status": "mixed",
       "art_direction_freedom": "stylised",
       "is_removal": false,
@@ -8867,7 +8867,7 @@
       "mana_cost": "{G}{W}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Soldier",
-      "oracle_text": "Changed — As long as No One Attacks Unprepared has a counter on it or is equipped, it has vigilance.\nTogether — Whenever two or more creatures you control attack, put a +1/+1 counter on one of those creatures. This ability triggers only once each turn.",
+      "oracle_text": "Changed — As long as No One Attacks Unprepared has a counter on it or is equipped, it has vigilance.\nTogether — Whenever two or more creatures you control attack, put a +1/+1 counter on one of those creatures.",
       "flavour_text": "The rule was stern. The resulting formation was excellent.",
       "rarity": "U",
       "power": "2",
@@ -9000,7 +9000,7 @@
       "flavour_text": "Nobody identified the second figure. Jack nevertheless confirmed the important part of the story.",
       "rarity": "U",
       "power": "3",
-      "toughness": "4",
+      "toughness": "3",
       "loyalty": null,
       "colours": [
         "B",
@@ -9039,7 +9039,7 @@
       "mana_cost": "{3}{W}{B}",
       "mana_value": 5.0,
       "type_line": "Legendary Creature — Human Spirit",
-      "oracle_text": "Lifelink\nAt the beginning of your end step, if you gained or lost life this turn, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.\nWhen a creature enters the battlefield under your control this way, exile up to one target card from a graveyard.",
+      "oracle_text": "Lifelink\nAt the beginning of your end step, if you gained or lost life this turn, you may pay {1}{W}{B}. If you do, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.\nWhenever a creature enters the battlefield under your control this way, exile up to one target card from a graveyard.",
       "flavour_text": "The face faded from the frame. The surprise remained perfectly preserved.",
       "rarity": "R",
       "power": "4",
@@ -9127,7 +9127,7 @@
       "mana_cost": "{U}{R}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Performer",
-      "oracle_text": "Whenever you recount, Festival Retelling Savant gets +1/+0 until end of turn.\nOnce during each of your turns, when you put an instant or sorcery card into your graveyard while recounting, you may pay {1}. If you do, copy the next instant or sorcery spell you cast this turn with the same mana value as that card. You may choose new targets for the copy.",
+      "oracle_text": "Whenever you recount, Festival Retelling Savant gets +1/+0 until end of turn.\nWhenever you put an instant or sorcery card into your graveyard while recounting, you may pay {1}. If you do, when you cast your next instant or sorcery spell this turn with the same mana value as that card, copy that spell. You may choose new targets for the copy.",
       "flavour_text": "Nobody knew his original story, so he performed every available version.",
       "rarity": "U",
       "power": "2",
@@ -9256,7 +9256,7 @@
       "mana_cost": "{2}{B}{G}",
       "mana_value": 4.0,
       "type_line": "Creature — Human Whale Druid",
-      "oracle_text": "When Beluga Compost Diver enters the battlefield, create a Food token.\nWhenever you sacrifice a Food or another artifact, you may exile a permanent card from your graveyard. If you do, put a +1/+1 counter on Beluga Compost Diver and return up to one target land card from your graveyard to your hand. This ability triggers only once each turn.",
+      "oracle_text": "When Beluga Compost Diver enters, create a Food token.\nWhenever you sacrifice a Food or another artifact, you may exile a permanent card from your graveyard. If you do, put a +1/+1 counter on Beluga Compost Diver and return up to one target land card from your graveyard to your hand.",
       "flavour_text": "The experiment found the discarded buffet and developed a responsible recycling policy.",
       "rarity": "U",
       "power": "3",
@@ -9342,7 +9342,7 @@
       "mana_cost": "{1}{R}{W}",
       "mana_value": 3.0,
       "type_line": "Creature — Human Soldier",
-      "oracle_text": "Haste\nWhen Panoramic Kit-Runner enters the battlefield, you may attach target Equipment you control to it.\nWhenever Panoramic Kit-Runner becomes equipped, tap up to one target creature an opponent controls. That creature doesn't untap during its controller's next untap step. This ability triggers only once each turn.",
+      "oracle_text": "Haste\nWhen Panoramic Kit-Runner enters, you may attach target Equipment you control to it.\nWhenever Panoramic Kit-Runner becomes equipped, tap up to one target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
       "flavour_text": "James crossed the entire photograph before the equipment finished deciding where he began.",
       "rarity": "U",
       "power": "3",
@@ -9353,7 +9353,7 @@
         "W"
       ],
       "colour_section": "M",
-      "draft_role": "Equipment tempo signpost that attaches gear immediately and freezes a blocker for RW aggression.",
+      "draft_role": "Equipment tempo signpost that attaches gear immediately and freezes blockers for RW aggression.",
       "source_status": "mixed",
       "art_direction_freedom": "highly_stylised",
       "is_removal": true,
@@ -9430,7 +9430,7 @@
       "mana_cost": "{2}{R}{W}",
       "mana_value": 4.0,
       "type_line": "Legendary Artifact",
-      "oracle_text": "Equipment spells you cast cost {1} less to cast.\nAt the beginning of combat on your turn, choose one —\n• Attach target Equipment you control to target creature you control.\n• Put a +1/+1 counter on target equipped creature you control.\nTogether — If two or more creatures you control attacked this turn, choose both instead during your next combat.",
+      "oracle_text": "Equipment spells you cast cost {1} less to cast.\nAt the beginning of combat on your turn, choose one —\n• Attach target Equipment you control to target creature you control.\n• Put a +1/+1 counter on target equipped creature you control.\nTogether — If two or more creatures you controlled attacked during your last turn, choose both instead.",
       "flavour_text": "Matt packed one kit for the plan and three more for what the plan might become.",
       "rarity": "R",
       "power": null,
@@ -9516,7 +9516,7 @@
       "mana_cost": "{G}{U}",
       "mana_value": 2.0,
       "type_line": "Creature — Human Druid",
-      "oracle_text": "{T}: Add {G} or {U}.\nWhenever you spend mana produced by Reclining Contingency Planner to cast a creature spell, if that creature enters the battlefield this turn, you may move a counter from another permanent you control onto it.",
+      "oracle_text": "{T}: Add {G} or {U}.\nWhenever a creature enters the battlefield under your control, if mana produced by Reclining Contingency Planner was spent to cast it, you may move a counter from another permanent you control onto that creature.",
       "flavour_text": "Jon appeared to be resting. The counters were already exactly where tomorrow required them.",
       "rarity": "U",
       "power": "1",
@@ -9559,7 +9559,7 @@
       "mana_cost": "{2}{G}{U}",
       "mana_value": 4.0,
       "type_line": "Legendary Artifact",
-      "oracle_text": "Whenever one or more +1/+1 counters are put on a creature you control, put a plan counter on Every Plan Has Another Plan. This ability triggers only once each turn.\nAt the beginning of your end step, remove any number of plan counters from Every Plan Has Another Plan. For each three counters removed this way, choose one. You may choose the same mode more than once —\n• Draw a card.\n• Put a +1/+1 counter on each of up to two target creatures.\n• Untap up to two lands you control.",
+      "oracle_text": "Whenever one or more counters are put on one or more creatures you control, put a plan counter on Every Plan Has Another Plan.\nAt the beginning of your end step, remove any number of plan counters from Every Plan Has Another Plan. For each two counters removed this way, choose one. You may choose the same mode more than once —\n• Draw a card.\n• Put a +1/+1 counter on each of up to two target creatures.\n• Untap up to two lands you control.",
       "flavour_text": "Jordan finished the diagram, revealed the diagram beneath it, and asked everyone to remain calm.",
       "rarity": "R",
       "power": null,
@@ -9570,7 +9570,7 @@
         "U"
       ],
       "colour_section": "M",
-      "draft_role": "Plans Within Plans artifact build-around that banks counter placement toward cards, growth, or a controlled mana rebate.",
+      "draft_role": "Plans Within Plans artifact build-around that banks distinct counter-placement events toward cards, growth, or a controlled mana rebate.",
       "source_status": "mixed",
       "art_direction_freedom": "highly_stylised",
       "is_removal": false,
@@ -9686,7 +9686,7 @@
       "mana_cost": "{2}",
       "mana_value": 2.0,
       "type_line": "Artifact",
-      "oracle_text": "Mislabelled Change Machine enters the battlefield tapped.\n{1}, {T}: Add one mana of any color. Spend this mana only to cast a multicolored spell or activate an ability of a multicolored permanent.",
+      "oracle_text": "{1}, {T}: Add one mana of any color. Spend this mana only to cast a multicolored spell or activate an ability of a multicolored permanent.",
       "flavour_text": "It accepted every coin and returned something appropriate to a completely different country.",
       "rarity": "C",
       "power": null,
@@ -9716,10 +9716,10 @@
     {
       "collector_number": 219,
       "name": "Barchive Doorstop",
-      "mana_cost": "{2}",
-      "mana_value": 2.0,
+      "mana_cost": "{3}",
+      "mana_value": 3.0,
       "type_line": "Artifact Creature — Construct",
-      "oracle_text": "Defender\nWhen Barchive Doorstop enters the battlefield, tap target attacking creature. Put a stun counter on that creature.",
+      "oracle_text": "Flash\nDefender\nWhen Barchive Doorstop enters the battlefield, tap target attacking creature. Put a stun counter on that creature.",
       "flavour_text": "Jordan filed it under “Becurity.” Nobody found a better category.",
       "rarity": "C",
       "power": "0",
@@ -9968,8 +9968,8 @@
     {
       "collector_number": 224,
       "name": "Node-Top Disassembler",
-      "mana_cost": "{3}",
-      "mana_value": 3.0,
+      "mana_cost": "{4}",
+      "mana_value": 4.0,
       "type_line": "Artifact Creature — Construct",
       "oracle_text": "When Node-Top Disassembler enters the battlefield, you may sacrifice another artifact. When you do, destroy target artifact or enchantment an opponent controls.",
       "flavour_text": "Jordan presented the node. The node presented several unnecessary components.",
@@ -10108,7 +10108,7 @@
       "mana_cost": "{2}",
       "mana_value": 2.0,
       "type_line": "Legendary Artifact — Equipment",
-      "oracle_text": "Equipped creature gets +1/+1.\nWhenever The Unaccountable Wardrobe becomes attached to a creature, choose one that hasn't been chosen this turn —\n• That creature gains first strike until end of turn.\n• Untap that creature.\n• Put a +1/+1 counter on that creature. Activate this choice only as a sorcery.\nEquip {2}",
+      "oracle_text": "Equipped creature gets +1/+1.\nWhenever The Unaccountable Wardrobe becomes attached to a creature, choose one that hasn't been chosen this turn —\n• That creature gains first strike until end of turn.\n• Untap that creature.\n• Put a +1/+1 counter on that creature. Choose this mode only during your main phase.\nEquip {2}",
       "flavour_text": "Nobody identified the outfit. Matt continued producing accessories from it.",
       "rarity": "U",
       "power": null,
@@ -10213,10 +10213,10 @@
     {
       "collector_number": 229,
       "name": "Panoramic Adaptation Rig",
-      "mana_cost": "{3}",
-      "mana_value": 3.0,
+      "mana_cost": "{2}",
+      "mana_value": 2.0,
       "type_line": "Artifact",
-      "oracle_text": "Whenever one or more counters are put on a creature you control, put a calibration counter on Panoramic Adaptation Rig. This ability triggers only once each turn.\n{T}, Remove two calibration counters from Panoramic Adaptation Rig: Put a +1/+1 counter on target creature. That creature can't be blocked by creatures with lesser power this turn.",
+      "oracle_text": "Whenever one or more counters are put on a creature you control, put a calibration counter on Panoramic Adaptation Rig.\n{T}, Remove two calibration counters from Panoramic Adaptation Rig: Put a +1/+1 counter on target creature. That creature can't be blocked by creatures with lesser power this turn.",
       "flavour_text": "Every adjustment made the next version wider, stronger, and harder to stand in front of.",
       "rarity": "U",
       "power": null,
@@ -10266,7 +10266,7 @@
       "mana_cost": "{2}",
       "mana_value": 2.0,
       "type_line": "Artifact",
-      "oracle_text": "When Scuffed Archive Seal enters the battlefield, exile up to one target card from each graveyard. Scry 1.\nWhenever one or more cards leave a graveyard, you may tap Scuffed Archive Seal. If you do, target creature you control gets +1/+1 until end of turn. This ability triggers only once each turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "oracle_text": "When Scuffed Archive Seal enters, exile up to one target card from each graveyard. Scry 1.\nWhenever one or more cards leave a graveyard, you may tap Scuffed Archive Seal. If you do, target creature you control gets +1/+1 until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",
       "flavour_text": "The seal preserved the useful version and quietly rejected the rest.",
       "rarity": "U",
       "power": null,
@@ -10321,10 +10321,10 @@
     {
       "collector_number": 231,
       "name": "Round-to-Round Exchange",
-      "mana_cost": "{3}",
-      "mana_value": 3.0,
+      "mana_cost": "{2}",
+      "mana_value": 2.0,
       "type_line": "Artifact",
-      "oracle_text": "{1}, {T}, Sacrifice a token: Create a tapped Clue, Food, or Treasure token. Activate only as a sorcery and only once each turn.",
+      "oracle_text": "{1}, {T}, Sacrifice a token: Create a tapped Clue, Food, or Treasure token. Activate only as a sorcery.",
       "flavour_text": "Whatever the night consumed returned in a slightly more useful form.",
       "rarity": "U",
       "power": null,
@@ -10432,7 +10432,7 @@
       "mana_cost": "{3}",
       "mana_value": 3.0,
       "type_line": "Legendary Artifact",
-      "oracle_text": "When Bordan's Load-Bearing Stool enters the battlefield, create a 0/1 colorless Stool artifact creature token.\nCreatures you control with power 4 or greater have vigilance as long as you control a Stool.\nWhenever one or more creatures you control with power 4 or greater attack, put a brace counter on Bordan's Load-Bearing Stool. This ability triggers only once each turn.\nRemove three brace counters from Bordan's Load-Bearing Stool: Draw a card.",
+      "oracle_text": "When Bordan's Load-Bearing Stool enters, create a 0/1 colorless Stool artifact creature token.\nCreatures you control with power 4 or greater have vigilance as long as you control a Stool.\nWhenever one or more creatures you control with power 4 or greater attack, put a brace counter on Bordan's Load-Bearing Stool.\nRemove two brace counters from Bordan's Load-Bearing Stool: Draw a card.",
       "flavour_text": "Its dimensions were a suggestion. Its responsibility was absolute.",
       "rarity": "R",
       "power": null,
@@ -10524,7 +10524,7 @@
       "mana_cost": "{3}",
       "mana_value": 3.0,
       "type_line": "Legendary Artifact — Food",
-      "oracle_text": "When The Table's Final Portion enters the battlefield, create two Food tokens.\nWhenever you gain life, put a helping counter on The Table's Final Portion. This ability triggers only once each turn.\n{2}, {T}, Remove three helping counters from The Table's Final Portion: Return target permanent card with mana value 2 or less from your graveyard to your hand.\n{2}, {T}, Sacrifice The Table's Final Portion: You gain 3 life.",
+      "oracle_text": "When The Table's Final Portion enters, create two Food tokens.\nWhenever you gain life, put a helping counter on The Table's Final Portion.\n{2}, {T}, Remove three helping counters from The Table's Final Portion: Return target permanent card with mana value 2 or less from your graveyard to your hand.\n{2}, {T}, Sacrifice The Table's Final Portion: You gain 3 life.",
       "flavour_text": "Everyone agreed it was finished. Adam correctly identified this as a temporary condition.",
       "rarity": "R",
       "power": null,
@@ -10574,7 +10574,7 @@
       "mana_cost": "{4}",
       "mana_value": 4.0,
       "type_line": "Legendary Creature — Human Advisor",
-      "oracle_text": "Whenever two or more creatures you control attack, put a preparation counter on Keeper of the Contingency Box. This ability triggers only once each turn.\nAt the beginning of combat on your turn, you may remove a preparation counter from Keeper of the Contingency Box. When you do, choose one —\n• Attach target Equipment you control to target creature you control.\n• Put a +1/+1 counter on target creature you control.\n• Create a 1/1 white Human creature token.",
+      "oracle_text": "Keeper of the Contingency Box enters with a preparation counter on it.\nWhenever two or more creatures you control attack, put a preparation counter on Keeper of the Contingency Box.\nAt the beginning of combat on your turn, you may remove a preparation counter from Keeper of the Contingency Box. When you do, choose one —\n• Attach target Equipment you control to target creature you control.\n• Put a +1/+1 counter on target creature you control.\n• Create a 1/1 white Human creature token.",
       "flavour_text": "Every old photograph proved that somebody should have packed one more thing.",
       "rarity": "R",
       "power": "2",
@@ -10625,7 +10625,7 @@
       "mana_cost": "{5}",
       "mana_value": 5.0,
       "type_line": "Legendary Planeswalker — James",
-      "oracle_text": "+1: Scry 2, then draw a card.\n−3: Tap up to two target nonland permanents. Put a stun counter on each of them. They lose all abilities until your next turn.\n−8: You get an emblem with “Each opponent can’t cast more than one spell each turn” and “Nonland permanents your opponents control enter the battlefield tapped.”",
+      "oracle_text": "+1: Scry 1, then draw a card.\n−3: Tap up to two target nonland permanents. Put a stun counter on each of them. They lose all abilities until your next turn.\n−8: You get an emblem with “Each opponent can’t cast more than one spell each turn” and “Nonland permanents your opponents control enter the battlefield tapped.”",
       "flavour_text": "",
       "rarity": "M",
       "power": null,
@@ -10677,7 +10677,7 @@
       "mana_cost": "{5}",
       "mana_value": 5.0,
       "type_line": "Legendary Planeswalker — Jon",
-      "oracle_text": "+1: Look at the top three cards of target player’s library. Exile one of them face down, then put the rest back in any order. You may look at and cast the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.\n−2: Create a token that’s a copy of target creature, except it’s a 1/1 colourless Illusion artifact creature in addition to its other types.\n−8: You get an emblem with “You may look at and play the top card of each player’s library” and “You may spend mana as though it were mana of any type to cast spells this way.”",
+      "oracle_text": "+1: Exile the top card of target player’s library face down. You may look at and cast the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.\n−2: Create a token that’s a copy of target creature, except it’s a 1/1 colorless Illusion artifact creature in addition to its other types.\n−8: You get an emblem with “You may look at and play the top card of each player’s library” and “You may spend mana as though it were mana of any type to cast spells this way.”",
       "flavour_text": "",
       "rarity": "M",
       "power": null,
@@ -11378,7 +11378,7 @@
       "mana_cost": "",
       "mana_value": 0.0,
       "type_line": "Land",
-      "oracle_text": "Crossroads of Retellings enters the battlefield tapped.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+      "oracle_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
       "flavour_text": "Every version of the journey insists it began here.",
       "rarity": "U",
       "power": null,
@@ -11409,7 +11409,7 @@
       "mana_cost": "",
       "mana_value": 0.0,
       "type_line": "Land",
-      "oracle_text": "The Unlabelled Meeting Point enters the battlefield tapped.\nWhen The Unlabelled Meeting Point enters the battlefield, choose a color.\n{T}: Add one mana of the chosen color.\n{2}, {T}: Add one mana of any color.",
+      "oracle_text": "The Unlabelled Meeting Point enters tapped.\nAs The Unlabelled Meeting Point enters, choose a color.\n{T}: Add one mana of the chosen color.\n{1}, {T}: Add one mana of any color.",
       "flavour_text": "Nobody remembers naming it. Everyone somehow knows where to wait.",
       "rarity": "U",
       "power": null,
@@ -11419,7 +11419,7 @@
         "C"
       ],
       "colour_section": "L",
-      "draft_role": "Broad fixing land that provides one dependable chosen colour and expensive access to any splash colour.",
+      "draft_role": "Broad fixing land that provides one dependable chosen colour and costly access to any splash colour.",
       "source_status": "invented",
       "art_direction_freedom": "highly_stylised",
       "is_removal": false,
@@ -12044,6 +12044,13 @@
         "set_id": 1,
         "colour": "B",
         "rarity": "R",
+        "mana_value": 2.0,
+        "card_count": 1
+      },
+      {
+        "set_id": 1,
+        "colour": "B",
+        "rarity": "R",
         "mana_value": 3.0,
         "card_count": 2
       },
@@ -12052,7 +12059,7 @@
         "colour": "B",
         "rarity": "R",
         "mana_value": 4.0,
-        "card_count": 5
+        "card_count": 4
       },
       {
         "set_id": 1,
@@ -12080,14 +12087,14 @@
         "colour": "B",
         "rarity": "U",
         "mana_value": 2.0,
-        "card_count": 5
+        "card_count": 6
       },
       {
         "set_id": 1,
         "colour": "B",
         "rarity": "U",
         "mana_value": 3.0,
-        "card_count": 8
+        "card_count": 7
       },
       {
         "set_id": 1,
@@ -12122,13 +12129,20 @@
         "colour": "C",
         "rarity": "C",
         "mana_value": 2.0,
-        "card_count": 7
+        "card_count": 6
       },
       {
         "set_id": 1,
         "colour": "C",
         "rarity": "C",
         "mana_value": 3.0,
+        "card_count": 1
+      },
+      {
+        "set_id": 1,
+        "colour": "C",
+        "rarity": "C",
+        "mana_value": 4.0,
         "card_count": 1
       },
       {
@@ -12178,14 +12192,14 @@
         "colour": "C",
         "rarity": "U",
         "mana_value": 2.0,
-        "card_count": 3
+        "card_count": 5
       },
       {
         "set_id": 1,
         "colour": "C",
         "rarity": "U",
         "mana_value": 3.0,
-        "card_count": 3
+        "card_count": 1
       },
       {
         "set_id": 1,
@@ -12227,14 +12241,14 @@
         "colour": "G",
         "rarity": "M",
         "mana_value": 4.0,
-        "card_count": 2
+        "card_count": 1
       },
       {
         "set_id": 1,
         "colour": "G",
         "rarity": "M",
         "mana_value": 5.0,
-        "card_count": 1
+        "card_count": 2
       },
       {
         "set_id": 1,
@@ -12275,15 +12289,8 @@
         "set_id": 1,
         "colour": "G",
         "rarity": "U",
-        "mana_value": 1.0,
-        "card_count": 1
-      },
-      {
-        "set_id": 1,
-        "colour": "G",
-        "rarity": "U",
         "mana_value": 2.0,
-        "card_count": 6
+        "card_count": 7
       },
       {
         "set_id": 1,
@@ -12381,14 +12388,14 @@
         "colour": "R",
         "rarity": "R",
         "mana_value": 5.0,
-        "card_count": 3
+        "card_count": 2
       },
       {
         "set_id": 1,
         "colour": "R",
         "rarity": "R",
         "mana_value": 6.0,
-        "card_count": 1
+        "card_count": 2
       },
       {
         "set_id": 1,
@@ -12493,14 +12500,14 @@
         "colour": "U",
         "rarity": "R",
         "mana_value": 3.0,
-        "card_count": 2
+        "card_count": 3
       },
       {
         "set_id": 1,
         "colour": "U",
         "rarity": "R",
         "mana_value": 4.0,
-        "card_count": 6
+        "card_count": 5
       },
       {
         "set_id": 1,
@@ -12584,13 +12591,20 @@
         "colour": "W",
         "rarity": "M",
         "mana_value": 4.0,
-        "card_count": 3
+        "card_count": 2
       },
       {
         "set_id": 1,
         "colour": "W",
         "rarity": "M",
         "mana_value": 5.0,
+        "card_count": 1
+      },
+      {
+        "set_id": 1,
+        "colour": "W",
+        "rarity": "M",
+        "mana_value": 6.0,
         "card_count": 1
       },
       {
@@ -12633,14 +12647,14 @@
         "colour": "W",
         "rarity": "U",
         "mana_value": 2.0,
-        "card_count": 8
+        "card_count": 7
       },
       {
         "set_id": 1,
         "colour": "W",
         "rarity": "U",
         "mana_value": 3.0,
-        "card_count": 10
+        "card_count": 11
       },
       {
         "set_id": 1,
@@ -12811,7 +12825,7 @@
         "passed": 1,
         "observed": "all ten pass",
         "expected": "each pair has reviewed common/uncommon support in both colours, primary enablers/payoffs, and two signposts",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "CARD_COUNT",
@@ -12819,15 +12833,15 @@
         "passed": 1,
         "observed": "274",
         "expected": "0–target cards",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "EXPLICIT_IMAGE_REUSE",
         "severity": "error",
-        "passed": 1,
-        "observed": "0",
+        "passed": 0,
+        "observed": "17",
         "expected": "0 reused images marked anchored",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "MANA_VALUE_SLOT_MATCH",
@@ -12835,7 +12849,7 @@
         "passed": 1,
         "observed": "0",
         "expected": "0 mismatches",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "PRIMARY_SOURCE_IMAGE",
@@ -12843,7 +12857,7 @@
         "passed": 0,
         "observed": "1",
         "expected": "0 cards missing primary image",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "RARITY_SLOT_MATCH",
@@ -12851,7 +12865,7 @@
         "passed": 1,
         "observed": "0",
         "expected": "0 mismatches",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "REMOVAL_COLOUR_IDENTITY",
@@ -12859,7 +12873,7 @@
         "passed": 1,
         "observed": "0",
         "expected": "0 off-colour removal cards",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "REMOVAL_COMPLETED_COLOUR_TARGETS",
@@ -12867,7 +12881,7 @@
         "passed": 1,
         "observed": "none",
         "expected": "completed colour sections meet removal targets",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       },
       {
         "rule_code": "SOURCE_IMAGE_DISTRIBUTION",
@@ -12875,7 +12889,7 @@
         "passed": 0,
         "observed": "3",
         "expected": "maximum usage differs from minimum by at most 1",
-        "evaluated_at": "2026-07-22T23:41:12.499919+00:00"
+        "evaluated_at": "2026-07-26T20:59:44.159083+00:00"
       }
     ],
     "design_elements": [
@@ -13586,22 +13600,22 @@
         },
         {
           "bucket": "1",
-          "current": 14,
+          "current": 13,
           "target": 19
         },
         {
           "bucket": "2",
-          "current": 60,
+          "current": 63,
           "target": 57
         },
         {
           "bucket": "3",
-          "current": 68,
+          "current": 67,
           "target": 64
         },
         {
           "bucket": "4",
-          "current": 55,
+          "current": 52,
           "target": 48
         },
         {
@@ -13611,7 +13625,7 @@
         },
         {
           "bucket": "6",
-          "current": 13,
+          "current": 15,
           "target": 14
         },
         {
@@ -13688,7 +13702,7 @@
           },
           {
             "bucket": "4",
-            "current": 4,
+            "current": 3,
             "target": 4.0
           },
           {
@@ -13698,7 +13712,7 @@
           },
           {
             "bucket": "6+",
-            "current": 1,
+            "current": 2,
             "target": 1.0
           }
         ],
@@ -13816,12 +13830,12 @@
           },
           {
             "bucket": "4",
-            "current": 6,
+            "current": 5,
             "target": 5.0
           },
           {
             "bucket": "5",
-            "current": 2,
+            "current": 3,
             "target": 3.0
           },
           {
@@ -13834,12 +13848,12 @@
       "removal_by_colour": [
         {
           "bucket": "W",
-          "current": 10,
+          "current": 11,
           "target": 9
         },
         {
           "bucket": "U",
-          "current": 11,
+          "current": 12,
           "target": 10
         },
         {
@@ -13957,7 +13971,7 @@
         {
           "colour_section": "U",
           "removal_method": "bounce",
-          "current": 1
+          "current": 2
         },
         {
           "colour_section": "U",
@@ -13972,7 +13986,7 @@
         {
           "colour_section": "W",
           "removal_method": "exile",
-          "current": 6
+          "current": 7
         },
         {
           "colour_section": "W",
@@ -13984,8 +13998,8 @@
         "eligible": 87,
         "used": 87,
         "unused": 0,
-        "minimum_usage": 1,
-        "maximum_usage": 4,
+        "minimum_usage": 2,
+        "maximum_usage": 11,
         "target_minimum": 3,
         "target_maximum": 4,
         "cards_per_image": 3.15
@@ -14000,6 +14014,6 @@
   "image_delivery": {
     "provider": "bunny",
     "public_url": "https://mtg-the-boys.b-cdn.net",
-    "verified_at": "2026-07-23T14:57:05.837911+00:00"
+    "verified_at": "2026-07-26T22:41:56.335314+00:00"
   }
 }
