@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:42:29.309401+00:00",
+  "generated_at": "2026-07-27T10:13:08.607418+00:00",
   "set": {
     "title": "The Boys",
     "code": "TBY",
@@ -10740,6 +10740,8 @@
       ],
       "mechanics": [],
       "token_keys": [
+        "food",
+        "clue",
         "treasure"
       ],
       "artwork_status": "complete",
@@ -11050,7 +11052,9 @@
         "James"
       ],
       "mechanics": [],
-      "token_keys": [],
+      "token_keys": [
+        "james-emblem"
+      ],
       "artwork_status": "complete",
       "artwork_path": "https://mtg-the-boys.b-cdn.net/play/237.webp",
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/original/237.webp"
@@ -12452,6 +12456,10 @@
           "name": "Beluga Compost Diver"
         },
         {
+          "collector_number": 231,
+          "name": "Round-to-Round Exchange"
+        },
+        {
           "collector_number": 235,
           "name": "The Table's Final Portion"
         }
@@ -12523,6 +12531,10 @@
         {
           "collector_number": 189,
           "name": "Mirror-Mask Evidence Broker"
+        },
+        {
+          "collector_number": 231,
+          "name": "Round-to-Round Exchange"
         }
       ],
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T02.webp"
@@ -13103,6 +13115,27 @@
         }
       ],
       "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T22.webp"
+    },
+    {
+      "token_number": 23,
+      "token_key": "james-emblem",
+      "name": "James Emblem",
+      "type_line": "Emblem",
+      "oracle_text": "Each opponent can’t cast more than one spell each turn.\nNonland permanents your opponents control enter the battlefield tapped.",
+      "colours": [],
+      "power": null,
+      "toughness": null,
+      "is_emblem": true,
+      "is_token": true,
+      "artwork_status": "complete",
+      "artwork_path": "https://mtg-the-boys.b-cdn.net/tokens/T23.webp",
+      "source_cards": [
+        {
+          "collector_number": 237,
+          "name": "James"
+        }
+      ],
+      "artwork_download_path": "https://mtg-the-boys.b-cdn.net/tokens/T23.webp"
     }
   ],
   "balance": {
@@ -15155,13 +15188,13 @@
     "cards": 274,
     "artwork_complete": 274,
     "artwork_pending": 0,
-    "tokens": 22,
-    "token_artwork_complete": 22,
+    "tokens": 23,
+    "token_artwork_complete": 23,
     "token_artwork_pending": 0
   },
   "image_delivery": {
     "provider": "bunny",
     "public_url": "https://mtg-the-boys.b-cdn.net",
-    "verified_at": "2026-07-26T23:42:29.004355+00:00"
+    "verified_at": "2026-07-27T09:47:26.506489+00:00"
   }
 }
